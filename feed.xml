@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>lab2023.com</title>
+  <subtitle>lab2023 official blog</subtitle>
+  <id>http://lab2023.com/</id>
+  <link href="http://lab2023.com/"/>
+  <link href="http://lab2023.com/feed.xml" rel="self"/>
+  <updated>2014-12-02T02:00:00+02:00</updated>
+  <entry>
+    <title>5 Farklı Sunum ile Katkı Sağladığımız ve Stant Sponsoru Olduğumuz Özgür Web Teknolojileri Günleri 2014'e Davetlisiniz</title>
+    <link rel="alternate" href="http://lab2023.com/5-farkli-sunum-ile-katki-sagladigimiz-ve-stant-sponsoru-oldugumuz-ozgur-web-teknolojileri-gunleri-2014-e-davetlisiniz.html"/>
+    <id>http://lab2023.com/5-farkli-sunum-ile-katki-sagladigimiz-ve-stant-sponsoru-oldugumuz-ozgur-web-teknolojileri-gunleri-2014-e-davetlisiniz.html</id>
+    <published>2014-12-02T02:00:00+02:00</published>
+    <updated>2014-12-02T16:08:18+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;Bu yıl 5. kez düzenlenecek olan Özgür Web Teknolojileri Günleri 2014, &lt;strong&gt;05 – 06 Aralık’ta İstanbul Yeditepe Üniversitesi&lt;/strong&gt;’nde gerçekleştirilecektir.&lt;/p&gt;
+
+&lt;p&gt;Önceki yıllarda da düzenli olarak katıldığımız etkinliğe bu sene Lab2023 olarak 5 farklı sunum içeriği ile katkı sağlıyoruz.&lt;/p&gt;
+
+&lt;p&gt;Bunun yanı sıra stant sponsoru da olduğumuz etkinlikte sizleri de aramızda görmekten ve tanışıp sohbet etme fırsatı bulmaktan mutluluk duyacağız.&lt;/p&gt;
+
+&lt;p&gt;Etkinlikte yer alan sunumlarımıza ait detaylar aşağıdaki gibidir.&lt;/p&gt;
+
+&lt;h3 id="07-aralık-2014---cumartesi"&gt;07 Aralık 2014 - Cumartesi&lt;/h3&gt;
+
+&lt;h4 id="kerem-can-karakaş-salonu"&gt;Kerem Can Karakaş Salonu&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;17:00-17:20 - Design Processes and Resources for Successful Web Applications – Clara Isabel Pantoja Muñoz – Kamila Gareeva (Kısa Bildiri)&lt;/li&gt;
+&lt;li&gt;17:20-17:25 - All you have to know about cc (creative commons) – Clara Isabel Pantoja Muñoz (Hızlı Konuşma)&lt;/li&gt;
+&lt;li&gt;17:25-17:30 - Animation techniques and principles to make your web applications or designs more attractive. – Kamila Gareeva (Hızlı Konuşma)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="dennis-ritchie-salonu"&gt;Dennis Ritchie Salonu&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;10:25-10:50 - Ruby on Rails 4.2 ile gelen kullanışlı yenilikler – Tayfun Öziş Erikan (Kısa Bildiri)&lt;/li&gt;
+&lt;li&gt;16:25-16:50 – JAX-RS ile RESTful Java Web Servisleri – Murat Kemal Baygün (Kısa Bildiri)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Etkinlikle ilgili tüm detaylara aşağıdaki adreslerden ulaşabilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Detaylı etkinlik programı&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.ozgurwebgunleri.org.tr/2014/etkinlik-programi"&gt;http://www.ozgurwebgunleri.org.tr/2014/etkinlik-programi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Etkinlik web sitesi adresi&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.ozgurwebgunleri.org.tr/2014"&gt;http://www.ozgurwebgunleri.org.tr/2014&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;İlgililere duyurulur.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 1" src="assets/images/articles/2014-12-02-owtg-2014-duyuru/owtg2014-afis.jpg" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Flat Design, Simple is perfect</title>
+    <link rel="alternate" href="http://lab2023.com/Flat-design-Simple-is-perfect.html"/>
+    <id>http://lab2023.com/Flat-design-Simple-is-perfect.html</id>
+    <published>2014-11-24T02:00:00+02:00</published>
+    <updated>2014-12-02T16:08:18+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;Originally ‘Flat UI design’ is a design style trend that becomes from the interfaces and mobile modern digital designs. This minimalistic style is an integration of basic elements, flat shapes and good practices on graphic diagramming, result is not only a very attractive design, but also optimizing web development and completely adapted to the HTML5 standards.&lt;/p&gt;
+
+&lt;p&gt;Flat design is focused on one particular design principle called ‘form and function’ or ‘form and content’, one of the most relevant concepts in the visual language. Design means make a plan or convention for any creation or construction, in this way we can understand that the main importance for a designer is the final purpose or application of this design. and in this case the optimization of the design for development issue is a basic need, a need that Flat design trend is solving in a highly creative way.&lt;/p&gt;
+
+&lt;p&gt;It is not the first time that computer graphics explore the deep relation between aesthetics and functionality in the design, but nowadays this trend tells us to realize that functionality is the true face of the aesthetic, because simple is perfect. Concept about simplicity is hard to interiorize because this doesn&amp;rsquo;t mean that it is going to be easier for designers, actually it is exactly the opposite, a real paradox: less elements more strategy, more visual techniques applied. &lt;/p&gt;
+
+&lt;p&gt;Here are some advices and techniques for Flat design creations:&lt;/p&gt;
+
+&lt;h3 id="diagramming"&gt;Diagramming&lt;/h3&gt;
+
+&lt;p&gt;The proportioned order of the elements, being aware about your empty spaces in the composition and use a grid is the key for the best diagramming practices. placing the elements in the correct way will save space, give more clear information and make your design look professional.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 1" src="assets/images/articles/2014-11-19-flat-design/2014-11-19-flat-design-diagramming.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="simplicity"&gt;Simplicity&lt;/h3&gt;
+
+&lt;p&gt;Decorative elements are completely not necessary, use contents, color, typography and flat shapes for give the perfect appearance, you don&amp;rsquo;t need useless graphics making noise in your composition. Erase effects, complicated shadows, unnecessary gradients, don&amp;rsquo;t be afraid to do a clean job.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 2" src="assets/images/articles/2014-11-19-flat-design/2014-11-19-flat-design-simplicity.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="typography"&gt;Typography&lt;/h3&gt;
+
+&lt;p&gt;Give typography the importance it deserves, it is not just text, typography is a design element as it can be colors, shapes, photographs, icons and others. choose the right typography, go for the more readable ones. Sans serif is preferred for Flat design.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 3" src="assets/images/articles/2014-11-19-flat-design/2014-11-19-flat-design-typography.png" /&gt;&lt;/p&gt;
+
+&lt;h3 id="color"&gt;Color&lt;/h3&gt;
+
+&lt;p&gt;Flat design is nothing without this terrific color schemes representative of this style, if you are not sure about how to mix colors in an appropriate way, there are already a lot of sources that you can use from the internet. but always remember to plan your palette before start.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 4" src="assets/images/articles/2014-11-19-flat-design/2014-11-19-flat-design-color.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;For more info about color you can review &lt;a href="/how-to-choose-right-colors-for-web-design.html"&gt;How to choose right colors for web design&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Rails Projesine Rubocop Nasıl Entegre Edilir ?</title>
+    <link rel="alternate" href="http://lab2023.com/rails-projesine-rubocop-nasil-entegre-edilir.html"/>
+    <id>http://lab2023.com/rails-projesine-rubocop-nasil-entegre-edilir.html</id>
+    <published>2014-11-21T02:00:00+02:00</published>
+    <updated>2014-12-02T16:08:18+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;Elinizde bir rails projesi var ve gelişigüzel kodluyorsanız, ancak kod kalitesinden de ödün vermemek gerekir diye
+düşünüyorsanız &lt;code&gt;rubocop&lt;/code&gt; bu aşamada size yardımcı olacaktır.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rubocop&lt;/strong&gt;, ruby kodlarının &lt;a href="https://github.com/bbatsov/ruby-style-guide"&gt;ruby stil rehberi&lt;/a&gt; standartlarına göre tarayıp
+kodlarınızdaki hataları ve hatalara neden olacak kod parçacıklarınızın göstererek gerektiğinde çözmenizi sağlayan bir
+kod analiz aracıdır. Rubocop ile kod kaliteniz artar, daha temiz ve daha profesyonel kod yazmaya başlarsınız.&lt;/p&gt;
+
+&lt;p&gt;Rubocop kurulumuna ve kullanımına başlamadan önce, var olan rails projenizin &lt;code&gt;git&lt;/code&gt; veya türevlerinden herhangi biri ile
+paketlenmis olduğuna dikkat etmeniz
+gerekmektedir. Sonrasında rubocop&amp;#39;u rails projenize entegre etmek için aşağıdaki işlemleri sırasıyla yapmalısınız,&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rails projenizde var olan &lt;code&gt;Gemfile&lt;/code&gt; açıp içine aşağıdaki &lt;code&gt;gem&lt;/code&gt; &amp;lsquo;leri eklemeniz gerekmektedir,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="highlight ruby"&gt;&lt;span class="n"&gt;group&lt;/span&gt; &lt;span class="ss"&gt;:development&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt;
+  &lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;rubocop&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nb"&gt;require&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="kp"&gt;false&lt;/span&gt;
+  &lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;haml-lint&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nb"&gt;require&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="kp"&gt;false&lt;/span&gt;
+&lt;span class="k"&gt;end&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;bundle&lt;/code&gt; komutu koşulduktan sonra, &lt;code&gt;rubocop&lt;/code&gt; çalışma mantığını görme amaçlı terminalinizden,&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;rubocop -RD  
+&lt;/pre&gt;
+&lt;p&gt;komutunu koşabilirsiniz.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Entegre işlemine devam edecek olursak, Rails projenizin kök dizinine &lt;code&gt;.rubocop.yml&lt;/code&gt; adında bir dosya oluşturmanız gerekmektedir. 
+Ardından terminalde aşağıdaki komutu koşabilirsiniz;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;rubocop --auto-gen-config
+&lt;/pre&gt;
+&lt;p&gt;komutu ile kök dizininde &lt;code&gt;.rubocop-todo.yml&lt;/code&gt; adında bir dosya oluşturmaktadır. &lt;strong&gt;.rubocop-todo.yml&lt;/strong&gt;,  projenizde var olan hataların kontrollerini ve sayılarını içeren bir liste sunmaktadır.&lt;br&gt;
+Ek olarak &lt;code&gt;Ubuntu&lt;/code&gt; bilgisayar kullanıyorsanız yukardaki komut ile birlikte ;&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;rubocop --config .rubocop_todo.yml
+&lt;/pre&gt;
+&lt;p&gt;komutunu koşmanız gerekmektedir.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ardından oluşturduğumuz &lt;code&gt;.rubocop.yml&lt;/code&gt; dosyasını içine hangi dosyaları include etmek istiyorsak( veya tam terside dogru ),&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="highlight yaml"&gt;&lt;span class="s"&gt;AllCops&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+  &lt;span class="s"&gt;Include&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="p"&gt;-&lt;/span&gt; &lt;span class="s"&gt;Rakefile&lt;/span&gt;
+    &lt;span class="p"&gt;-&lt;/span&gt; &lt;span class="s"&gt;config.ru&lt;/span&gt;
+  &lt;span class="s"&gt;Exclude&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="p"&gt;-&lt;/span&gt; &lt;span class="s"&gt;db/schema.rb&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;şeklinde belirtiyoruz. Ancak eğer var olan dosyalar için işlem yapmak istiyorsanız &lt;code&gt;.rubocop.yml&lt;/code&gt; dosyasını oluşturmadan da&lt;br&gt;
+yukarıdaki komutları koşup rubocop&amp;#39;u rails projenize entegre edebilrsiniz.&lt;/p&gt;
+
+&lt;p&gt;Ek olarak rubocop entegre edildikten sonra projeniz için,&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;rubocop
+&lt;/pre&gt;
+&lt;p&gt;yerine&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;rubocop -R
+&lt;/pre&gt;
+&lt;p&gt;Komutunu koşmanız size daha detaylı bir liste verecektir.&lt;/p&gt;
+
+&lt;p&gt;Detaylı bilgi için &lt;a href="https://github.com/bbatsov/rubocop"&gt;Rubocop Github Sayfası&lt;/a&gt; yardımcı olacaktır.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>How to Integrate Rubocop to Rails Project ?</title>
+    <link rel="alternate" href="http://lab2023.com/how-to-integrate-rubocop-to-rails-project.html"/>
+    <id>http://lab2023.com/how-to-integrate-rubocop-to-rails-project.html</id>
+    <published>2014-11-21T02:00:00+02:00</published>
+    <updated>2014-12-02T16:08:18+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;You have a rails project and you are coding randomly. But you&amp;rsquo;re thinking for your code quality shouldn&amp;rsquo;t compromise, in this step
+&lt;code&gt;rubocop&lt;/code&gt; helped to you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rubocop&lt;/strong&gt; is code analyzer tool, scanning your codes according to &lt;a href="https://github.com/bbatsov/ruby-style-guide"&gt;ruby style guide&lt;/a&gt; and 
+find bugs like typo or sometimes fix your bugs. With &lt;code&gt;rubocop&lt;/code&gt;, your code quality is increase, you start coding more clean and coding like professional.&lt;/p&gt;
+
+&lt;p&gt;Before setup and using &lt;code&gt;rubocop&lt;/code&gt;, you should be careful for integrate your project with &lt;code&gt;git&lt;/code&gt; or derivatives. Then you should make below step by step.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Open &lt;code&gt;Gemfile&lt;/code&gt; in your rails project, add below &lt;code&gt;gems&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="highlight ruby"&gt;&lt;span class="n"&gt;group&lt;/span&gt; &lt;span class="ss"&gt;:development&lt;/span&gt; &lt;span class="k"&gt;do&lt;/span&gt;
+  &lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;rubocop&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nb"&gt;require&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="kp"&gt;false&lt;/span&gt;
+  &lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;haml-lint&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nb"&gt;require&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="kp"&gt;false&lt;/span&gt;
+&lt;span class="k"&gt;end&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;After running &lt;code&gt;bundle&lt;/code&gt; command, for see working logic of the rubocop, you can run below command,&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;rubocop -RD
+&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Let&amp;rsquo;s continue to integration steps, you should create &lt;code&gt;.rubocop.yml&lt;/code&gt; file on root of your rails project. Then running below commands,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;rubocop --auto-gen-config
+&lt;/pre&gt;
+&lt;p&gt;When you running above commands, rubocop created &lt;code&gt;.rubocop-todo.yml&lt;/code&gt; file automatically on your root of rails project. &lt;code&gt;.rubocop-todo.yml&lt;/code&gt; offer a list including
+bug checks and counts. In addition if you use &lt;code&gt;ubuntu&lt;/code&gt; desktop, you should run below command.&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;rubocop --config .rubocop_todo.yml
+&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;After that we created &lt;code&gt;.rubocop.yml&lt;/code&gt; file. In this file, we can write which file you want to include or exclude with below code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="highlight yaml"&gt;&lt;span class="s"&gt;AllCops&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+  &lt;span class="s"&gt;Include&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="p"&gt;-&lt;/span&gt; &lt;span class="s"&gt;Rakefile&lt;/span&gt;
+    &lt;span class="p"&gt;-&lt;/span&gt; &lt;span class="s"&gt;config.ru&lt;/span&gt;
+  &lt;span class="s"&gt;Exclude&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;
+    &lt;span class="p"&gt;-&lt;/span&gt; &lt;span class="s"&gt;db/schema.rb&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;But if you don&amp;rsquo;t want to make include or exclude, you don&amp;rsquo;t need to create &lt;code&gt;.rubocop.yml&lt;/code&gt; files. Without create &lt;code&gt;.rubocop.yml&lt;/code&gt; file, you can run above commands. 
+Thus you can integrate &lt;code&gt;rubocop&lt;/code&gt; to your rails project.&lt;/p&gt;
+
+&lt;p&gt;After you integrate &lt;code&gt;rubocop&lt;/code&gt; to your project, you should run&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;rubocop
+&lt;/pre&gt;
+&lt;p&gt;instead of above command, if you run below command, rubocop give you details list for your bugs and errors.&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;rubocop -R 
+&lt;/pre&gt;
+&lt;p&gt;For detail you can visit &lt;a href="https://github.com/bbatsov/rubocop"&gt;Rubocop Github Page&lt;/a&gt;. &lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>JavaScript Plugins for Scroll Pages</title>
+    <link rel="alternate" href="http://lab2023.com/javascript-plugins-for-scroll-pages.html"/>
+    <id>http://lab2023.com/javascript-plugins-for-scroll-pages.html</id>
+    <published>2014-09-17T03:00:00+03:00</published>
+    <updated>2014-12-02T16:08:18+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;JavaScript scroll page plugins provide to like,&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;scroll&lt;/li&gt;
+&lt;li&gt;parallax&lt;/li&gt;
+&lt;li&gt;animations&lt;/li&gt;
+&lt;li&gt;rotations&lt;/li&gt;
+&lt;li&gt;drawing line or arcs &amp;hellip;etc&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;we can use this properties for our pages for entertainment pages. 
+Let&amp;#39; s examine js plugins ,  &lt;/p&gt;
+
+&lt;p&gt;1- &lt;a href="http://www.infinite-scroll.com/"&gt;infinite-scroll&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Infinite-scroll&lt;/code&gt; provide to unpaginate and endless pages for web pages&lt;/li&gt;
+&lt;li&gt;For detail on &lt;a href="https://github.com/paulirish/infinite-scroll"&gt;GitHub page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="infinite-scroll" src="assets/images/articles/2014-09-17-javascript-plugins-for-scroll-pages/infinite-scroll-image.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;2- &lt;a href="http://www.thepetedesign.com/demos/onepage_scroll_demo.html"&gt;One-page scroll&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Provide scroll page with parallax on one page.&lt;/li&gt;
+&lt;li&gt;You can create game or entertainment page with this plugins&lt;/li&gt;
+&lt;li&gt;For detail on &lt;a href="https://github.com/peachananr/onepage-scroll"&gt;GitHub page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="one-page-scroll" src="assets/images/articles/2014-09-17-javascript-plugins-for-scroll-pages/one-page-scroll.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;3- &lt;a href="http://janpaepke.github.io/ScrollMagic/"&gt;Scroll Magic&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Provide animation for all things (text, image, video &amp;hellip;etc)&lt;/li&gt;
+&lt;li&gt;Also synchronize an animation, infinitely scrolling  page. &lt;/li&gt;
+&lt;li&gt;For detail on &lt;a href="https://github.com/janpaepke/ScrollMagic"&gt;GitHub page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="scroll-magic" src="assets/images/articles/2014-09-17-javascript-plugins-for-scroll-pages/scroll-magic.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;4- &lt;a href="http://manos.malihu.gr/jquery-custom-content-scroller/"&gt;Custom content scroller&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;High customizable custom scrollbar &lt;/li&gt;
+&lt;li&gt;Features include vertical, horizontal, scrolling, drawing &amp;hellip;etc&lt;/li&gt;
+&lt;li&gt;For detail on &lt;a href="https://github.com/malihu/malihu-custom-scrollbar-plugin"&gt;GitHub page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="custom-scroll" src="assets/images/articles/2014-09-17-javascript-plugins-for-scroll-pages/custom-scroll.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;5- &lt;a href="http://joehewitt.github.io/scrollability/"&gt;Scrollability&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Provide scrolling for mobile devices .&lt;/li&gt;
+&lt;li&gt;For detail on &lt;a href="https://github.com/joehewitt/scrollability"&gt;GitHub page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="scrollability" src="assets/images/articles/2014-09-17-javascript-plugins-for-scroll-pages/scrollability.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;6- &lt;a href="http://imakewebthings.com/jquery-waypoints/"&gt;WayPoints&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Provide to status of webpage like horizontal or vertical for one page or multiple pages&lt;/li&gt;
+&lt;li&gt;For detail on &lt;a href="https://github.com/imakewebthings/jquery-waypoints"&gt;GitHub page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="waypoints" src="assets/images/articles/2014-09-17-javascript-plugins-for-scroll-pages/waypoints.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;7- &lt;a href="http://scrollrevealjs.org/"&gt;Scroll Reveal&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Provide to scroll animation for page&lt;/li&gt;
+&lt;li&gt;For detail on &lt;a href="https://github.com/julianlloyd/scrollReveal.js"&gt;GitHub page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="scroll-reveal" src="assets/images/articles/2014-09-17-javascript-plugins-for-scroll-pages/scroll-reveal.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;8- &lt;a href="http://joelb.me/scrollpath/"&gt;Scroll Path&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;it offer custom scroll paths,&lt;/li&gt;
+&lt;li&gt;provide to rotations and draw line or arcs&lt;/li&gt;
+&lt;li&gt;For detail on  &lt;a href="https://github.com/JoelBesada/scrollpath"&gt;GitHub page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="scroll-path" src="assets/images/articles/2014-09-17-javascript-plugins-for-scroll-pages/scroll-path.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;9- &lt;a href="http://johnpolacek.github.io/superscrollorama/"&gt;Super Scrollorama&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It offer may properties like pinning, scale, slide, bounce &amp;hellip;etc animations for web-page.&lt;/li&gt;
+&lt;li&gt;For detail on &lt;a href="https://github.com/johnpolacek/superscrollorama"&gt;GitHub page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="super scrollorama" src="assets/images/articles/2014-09-17-javascript-plugins-for-scroll-pages/super-scrollorama.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;10- &lt;a href="http://darsa.in/sly/"&gt;Sly&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;provide advanced one-directional scrolling with item based navigation support.&lt;/li&gt;
+&lt;li&gt;For detail on &lt;a href="https://github.com/darsain/sly"&gt;GitHub page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="sly" src="assets/images/articles/2014-09-17-javascript-plugins-for-scroll-pages/sly.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;11- &lt;a href="http://jscrollpane.kelvinluck.com/"&gt;Scroll Pane&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;provide to converts a browsers default scrollbars for html structure that can be easily skinned with css.&lt;/li&gt;
+&lt;li&gt;For detail on &lt;a href="https://github.com/vitch/jScrollPane"&gt;GitHub page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="scroll-pane" src="assets/images/articles/2014-09-17-javascript-plugins-for-scroll-pages/scroll-pane.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;12- &lt;a href="http://prinzhorn.github.io/skrollr/"&gt;Skrollr&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Stand-alone scrolling-parallax js library for mobile devices &lt;/li&gt;
+&lt;li&gt;without jquery, only javascript.&lt;/li&gt;
+&lt;li&gt;For detail on &lt;a href="https://github.com/Prinzhorn/skrollr"&gt;GitHub page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="skrollr" src="assets/images/articles/2014-09-17-javascript-plugins-for-scroll-pages/skrollr.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;13- &lt;a href="http://iscrolljs.com/"&gt;iSroll&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;provide to scroll with parallax, also it offers 3D scroll animations.&lt;/li&gt;
+&lt;li&gt;For detail on &lt;a href="https://github.com/cubiq/iscroll"&gt;GitHub page&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="iscroll" src="assets/images/articles/2014-09-17-javascript-plugins-for-scroll-pages/iscroll.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;The best open source library for &lt;code&gt;scroll-page&lt;/code&gt; like above.&lt;/p&gt;
+
+&lt;p&gt;I hope helped to you.&lt;/p&gt;
+
+&lt;p&gt;Regards.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Diagnoscope Belirti Tarama Uygulaması ile 17-18 Eylül 2014 tarihindeki Dijital Sağlık Zirvesi’ne Konuşmacı Olarak Katılacağız</title>
+    <link rel="alternate" href="http://lab2023.com/diagnoscope-belirti-tarama-uygulamasi-ile-17-18-eylul-2014-tarihindeki-dijital-saglik-zirvesi-ne-konusmaci-olarak-katilacagiz.html"/>
+    <id>http://lab2023.com/diagnoscope-belirti-tarama-uygulamasi-ile-17-18-eylul-2014-tarihindeki-dijital-saglik-zirvesi-ne-konusmaci-olarak-katilacagiz.html</id>
+    <published>2014-09-15T03:00:00+03:00</published>
+    <updated>2014-12-02T16:08:18+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;a href="http://altinorumcek.com/sonuclar/10-altin-orumcek/"&gt;10. Altın Örümcek Web Ödülleri Sağlık Kategorisi Birinciliği&lt;/a&gt; aldığımız
+ &lt;a href="http://www.diagnoscope.com/"&gt;Diagnoscope Belirti Tarama Uygulaması&lt;/a&gt; ile 17-18
+Eylül 2014 tarihinde Istanbul’da düzenlenen &lt;a href="http://www.dhsturkey.com/"&gt;Dijital Sağlık Zirvesi&lt;/a&gt;’ne katılıyoruz.&lt;/p&gt;
+
+&lt;p&gt;Etkinlikteki &lt;q&gt;Mobil Sağlık Aplikasyon Kullanımında İkna Stratejileri&lt;/q&gt; konulu panele ekibimizden
+Serdar YAĞCI konuşmacı olarak katılacaktır.&lt;/p&gt;
+
+&lt;p&gt;İlgililere duyurulur.&lt;/p&gt;
+
+&lt;p&gt;Detaylar için:
+&lt;a href="http://www.dhsturkey.com/"&gt;http://www.dhsturkey.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Diagnoscope" src="assets/images/articles/2014-09-15-diagnoscope-post/diagnoscope2.jpg" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Tmux'a Giriş</title>
+    <link rel="alternate" href="http://lab2023.com/tmuxa-giris.html"/>
+    <id>http://lab2023.com/tmuxa-giris.html</id>
+    <published>2014-08-11T03:00:00+03:00</published>
+    <updated>2014-12-02T16:08:18+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;strong&gt;Tmux&lt;/strong&gt;, kısaltmanın açılmış haliyle Terminal Multiplexer, bir &lt;strong&gt;uçbirim&lt;/strong&gt; (terminal) çoklayıcısıdır. Aynı pencere içerisinde birden fazla terminal oturumu açıp, istediğiniz şekilde yapılandırıp kullanabilmenizi ve mevcut oturumu kaydedip-kapatıp istediğiniz zaman devam edebilmenizi sağlar. Özellikle kaydetme ve yeniden kullanma özellikleri, Tmux’ı elzem bir araç haline getiriyor.&lt;/p&gt;
+
+&lt;p&gt;Tmux’ın kurulumu oldukça kolay. Debian/Ubuntu ve türevlerinde kurmak için:&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;sudo apt-get install tmux
+&lt;/pre&gt;
+&lt;p&gt;Mac OS X için:&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;brew install tmux
+&lt;/pre&gt;
+&lt;p&gt;Arch Linux için:&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;sudo pacman -S tmux
+&lt;/pre&gt;
+&lt;p&gt;Kurulum bu kadar. Kullanmaya başlamak için bir terminal oturumundan &lt;strong&gt;tmux&lt;/strong&gt; komutunu verin. Yaptıktan sonra terminalin alt kısmının değiştiğini göreceksiniz. Terminali dikey olarak bölmek için şu &lt;strong&gt;tuş kombinasyonunu&lt;/strong&gt; kullanın:&lt;/p&gt;
+&lt;pre class="highlight text"&gt;Ctrl-B %
+&lt;/pre&gt;
+&lt;p&gt;Bulunduğunuz pencereyi yatay olarak bölmek için:&lt;/p&gt;
+&lt;pre class="highlight text"&gt;Ctrl-B “
+&lt;/pre&gt;
+&lt;p&gt;Bu şekilde istediğiniz kadar bölme yapıp yeni oturumlar açabilirsiniz. Bulunduğunuz oturumdan bir diğerine geçmek için şunu kullanın:&lt;/p&gt;
+&lt;pre class="highlight text"&gt;Ctrl-B (Yön Tuşları)
+&lt;/pre&gt;
+&lt;p&gt;Mevcut oturumun penceresini yeniden boyutlandırmak için ise şu kombinasyonu kullanmanız gerekiyor:&lt;/p&gt;
+&lt;pre class="highlight text"&gt;Ctrl-B Ctrl-(Yön Tuşları)
+&lt;/pre&gt;
+&lt;p&gt;Tmux’ın genel kullanım şekli böyle. Örneğin bir oturumda web sunucu çalıştırıp, diğerinde log dosyalarını takip edip, diğerinde metin editörü ile düzenleme yapabilirsiniz. Tamamen ihtiyacınıza göre düzenlenebilir bir sistem oluşturmanız mümkün.&lt;/p&gt;
+
+&lt;p&gt;Şimdi ise Tmux’ın en bomba özelliklerinden bir tanesine değinmek istiyorum. Öncelikle şu komutu verin:&lt;/p&gt;
+&lt;pre class="highlight text"&gt;Ctrl-B D
+&lt;/pre&gt;
+&lt;p&gt;Terminal penceresi kapandı değil mi? :) Burada yaptığımız şey, aslında çalışan bir Tmux oturumundan ayrılmaktan (&lt;strong&gt;detaching&lt;/strong&gt;) ibaret. Ama Tmux oturumu kapanmadı, biz sadece o oturumla olan bağlantımızı kestik. Şimdi şu komutu verin:&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;tmux ls
+&lt;/pre&gt;
+&lt;p&gt;Şuna benzer bir çıktı göreceksiniz: &lt;/p&gt;
+&lt;pre class="highlight text"&gt;0: 1 windows (created Mon Aug 11 15:40:31 2014) [103x24]
+&lt;/pre&gt;
+&lt;p&gt;Gördüğünüz çıktı, Tmux oturumlarının listesi. Çıktının başındaki numara ise, duruma göre isim de olabilir, oturum adı oluyor ve oturumlara tekrardan bağlanmak için bunu kullanıyoruz. Tekrardan bağlanmak için şu komutu verin:&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;tmux attach -t 0
+&lt;/pre&gt;
+&lt;p&gt;Eğer bir sorun olmazsa, az önce kapattığımız terminal penceresinin tekrardan geri gelmesi lazım. İşin güzel yanı, bu oturumlardan istediğiniz kadar yapıp, birinden ayrılıp diğerine geçmeniz mümkün. Tabi oturumlar, siz Tmux oturumunu veya tek tek terminalleri kapatmadığınız sürece olduğu gibi kalıyorlar. Ekstra olarak bilgisayar kapanınca veya yeniden başlayınca da oturumlar gidiyor ama bunları da kaydetmek mümkün.&lt;/p&gt;
+
+&lt;p&gt;Bunun dışında güzel bir özellik de, Tmux oturumlarını en başta belirli bir isimle açabiliyorsunuz. Örnek olarak:&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;tmux new -s rails-projesi
+
+&lt;span class="c"&gt;# Ctrl-B D&lt;/span&gt;
+
+tmux new -s django-projesi
+
+&lt;span class="c"&gt;# Ctrl-B D&lt;/span&gt;
+
+tmux ls
+
+&lt;span class="c"&gt;# Çıktı&lt;/span&gt;
+django-projesi: 1 windows &lt;span class="o"&gt;(&lt;/span&gt;created Mon Aug 11 16:03:13 2014&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;103x24]
+rails-projesi: 1 windows &lt;span class="o"&gt;(&lt;/span&gt;created Mon Aug 11 16:02:52 2014&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;[&lt;/span&gt;103x24]
+&lt;/pre&gt;
+&lt;p&gt;Böylelikle farklı projeleriniz arasında rahatça geçiş yapıp, geliştirme ortamlarınızı korumanız mümkün. Tmux’la ilgili daha fazla detay ve örnek için:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://gist.github.com/MohamedAlaa/2961058"&gt;https://gist.github.com/MohamedAlaa/2961058&lt;/a&gt;
+&lt;a href="http://cheat.errtheblog.com/s/tmux"&gt;http://cheat.errtheblog.com/s/tmux&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>CSS Medya Sorguları</title>
+    <link rel="alternate" href="http://lab2023.com/media-queries-on-css.html"/>
+    <id>http://lab2023.com/media-queries-on-css.html</id>
+    <published>2014-08-08T03:00:00+03:00</published>
+    <updated>2014-12-02T16:08:18+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;Web sayfalarının kullandığımız cihaza uyum sağlaması ve bu sayede kullanılabilirliğinin artması
+ için css&amp;#39;in bize yarar sağlayabileceği noktalardan birisi de Medya Sorguları kullanabilmemiz.
+ Medya sorguları sayesinde mobil cihazlar için eskiden olduğu gibi ekstra bir çaba harcamaya
+ gerek kalmıyor. CSS cihazın çözünürlüğünü tanıyıp uygun şekilde stil dönüşümünü yapıyor.
+ Şimdi medya tiplerini inceleyerek kısa bir giriş yapalım.&lt;/p&gt;
+
+&lt;h3 id="medya-tipleri"&gt;Medya Tipleri&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;all (Tüm araçlar için kullanılır.)&lt;/li&gt;
+&lt;li&gt;aural (Ses sentez birimlerinde kullanılır.)&lt;/li&gt;
+&lt;li&gt;braille (Braille dokunsal okuyucularda kullanılır.)&lt;/li&gt;
+&lt;li&gt;embossed (Braille yazıcı çıktıları için kullanılır.)&lt;/li&gt;
+&lt;li&gt;handheld (Taşınabilir telefonlar ve PDA’lar için kullanılır.)&lt;/li&gt;
+&lt;li&gt;print (Yazıcı çıktılarında görüntüleme için kullanılır.)&lt;/li&gt;
+&lt;li&gt;projection (Projeksiyonda görüntüleme için kullanılır.)&lt;/li&gt;
+&lt;li&gt;screen (Bilgisayarda görüntüleme için kullanılır.)&lt;/li&gt;
+&lt;li&gt;tty (Bilgisayar terminalleri ve eski taşınabilir araçlar ile görüntülemede kullanılır.)&lt;/li&gt;
+&lt;li&gt;tv (Televizyonda görüntülemede kullanılır.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="mantıksal-operatörler"&gt;Mantıksal Operatörler&lt;/h3&gt;
+
+&lt;p&gt;Medya sorguları kullanacağımız operatörler and, not ve only&amp;#39;dir.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;And:
+Bu operatör ile birden fazla şart sağlayabiliriz. Şartlar sağlanıyorsa özelliklerimiz uygulanır.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Örnek:&lt;/p&gt;
+&lt;pre class="highlight css"&gt; &lt;span class="k"&gt;@media&lt;/span&gt; &lt;span class="n"&gt;screen&lt;/span&gt; &lt;span class="n"&gt;and&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;min-width&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;768px&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="n"&gt;and&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;max-width&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;959px&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+ &lt;span class="p"&gt;{&lt;/span&gt;
+ &lt;span class="nc"&gt;.section1&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+     &lt;span class="nl"&gt;background&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="no"&gt;blue&lt;/span&gt;
+     &lt;span class="p"&gt;}&lt;/span&gt;
+ &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Örnekte de gördüğümüz gibi screen medya tipi için  min-width: 768px ve max-width: 768px değer
+aralığında section1 class&amp;#39;ının arka plan rengi maviye dönüşecek.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Only:
+Bu operatör ile belirlediğimiz ekran özelliği sağlanan kadar geçerli olacak özellikleri belirleyebiliyoruz.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Örnek:&lt;/p&gt;
+&lt;pre class="highlight css"&gt;&lt;span class="k"&gt;@media&lt;/span&gt; &lt;span class="n"&gt;only&lt;/span&gt; &lt;span class="n"&gt;screen&lt;/span&gt; &lt;span class="n"&gt;and&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;min-width&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;480px&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="nc"&gt;.section&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+        &lt;span class="nl"&gt;width&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;500px&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+        &lt;span class="nl"&gt;background-color&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="no"&gt;blue&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Yukarıda ki örnekte ekran çözünürlüğü 480px&amp;#39;e kadar section class&amp;#39;ının genişliği 500px, arka plan rengi ise mavi olacaktır.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Not: Medya değeri doğru ise uygulanmayacak özelliklerde kullanılır.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Örnek:&lt;/p&gt;
+&lt;pre class="highlight css"&gt; &lt;span class="k"&gt;@media&lt;/span&gt; &lt;span class="n"&gt;not&lt;/span&gt; &lt;span class="n"&gt;screen&lt;/span&gt; &lt;span class="n"&gt;and&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;color&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+ &lt;span class="p"&gt;{&lt;/span&gt;
+     &lt;span class="nc"&gt;.section&lt;/span&gt; &lt;span class="p"&gt;{&lt;/span&gt;
+         &lt;span class="nl"&gt;font-size&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="m"&gt;2em&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+     &lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Bu örnekte de gördüğümüz gibi renkli ekran şartı sağlanıyorsa section class&amp;#39;ının font büyüklüğü 2em olmayacaktır.&lt;/p&gt;
+
+&lt;p&gt;Medya sorgularının tüm özellikleri bu kadarla sınırlı değil, bir sonraki blog yazım medya tiplerinin kullanımı üzerine olacak.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Tablesaw Tablo Eklentisi</title>
+    <link rel="alternate" href="http://lab2023.com/tablesaw-table-plugin.html"/>
+    <id>http://lab2023.com/tablesaw-table-plugin.html</id>
+    <published>2014-07-09T03:00:00+03:00</published>
+    <updated>2014-12-02T16:08:18+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;Tablesaw kullanıma hazır responsive tablo eklentisidir. 3 farklı mod&amp;#39;da kullanabiliyoruz. Kullandığımız moda&amp;#39;a göre ek 
+özelliklere yer verebiliyoruz. &lt;/p&gt;
+
+&lt;p&gt;Kullanılan modlar:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Stack&lt;/li&gt;
+&lt;li&gt;Toggle&lt;/li&gt;
+&lt;li&gt;Swipe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="stack"&gt;Stack&lt;/h2&gt;
+
+&lt;p&gt;Bu mod  640px genişliğe ulaştığında sütunları satır haline getirerek yığın oluşturuyor.&lt;/p&gt;
+
+&lt;p&gt;Eklenecek kod:&lt;/p&gt;
+&lt;pre class="highlight html"&gt;&lt;span class="nt"&gt;&amp;lt;table&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;tablesaw tablesaw-stack&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;data-mode=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;stack&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;h2 id="toggle"&gt;Toggle&lt;/h2&gt;
+
+&lt;p&gt;Toggle modunda ise istediğimiz sütunları aktif edip, istediğimiz sütunları gizleyebiliyoruz.
+Eklenecek kod:&lt;/p&gt;
+&lt;pre class="highlight html"&gt;&lt;span class="nt"&gt;&amp;lt;table&lt;/span&gt; &lt;span class="na"&gt;data-mode=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;columntoggle&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;h2 id="swipe"&gt;Swipe&lt;/h2&gt;
+
+&lt;p&gt;Swipe modu gizlenen sütunları kaydırma çubuğu ile gezinebilme imkanı veriyor.
+Eklenecek kod:&lt;/p&gt;
+&lt;pre class="highlight html"&gt;&lt;span class="nt"&gt;&amp;lt;table&lt;/span&gt; &lt;span class="na"&gt;data-mode=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;swipe&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;h3 id="mini-map"&gt;Mini-Map&lt;/h3&gt;
+
+&lt;p&gt;Toogle ve Swipe modunda minimap özelliğini kullanabiliyoruz. Kullandığımız tabloda sütun olarak nerede olduğumuzu 
+bilmemizi sağlıyor.&lt;/p&gt;
+&lt;pre class="highlight html"&gt;&lt;span class="nt"&gt;&amp;lt;table&lt;/span&gt; &lt;span class="na"&gt;data-mode=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;swipe&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;data-minimap&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;pre class="highlight html"&gt;&lt;span class="nt"&gt;&amp;lt;table&lt;/span&gt; &lt;span class="na"&gt;data-mode=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;columntoggle&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;data-minimap&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;h3 id="mode-switcher"&gt;Mode Switcher&lt;/h3&gt;
+
+&lt;p&gt;İstersek tek tabloya üç modu birden dahil edebiliyoruz.&lt;/p&gt;
+
+&lt;h3 id="sortable"&gt;Sortable&lt;/h3&gt;
+
+&lt;p&gt;Sortable özelliği sayesinde istediğimiz sütunu sıralanabilir hale getirebiliyoruz.&lt;/p&gt;
+&lt;pre class="highlight html"&gt;&lt;span class="nt"&gt;&amp;lt;table&lt;/span&gt; &lt;span class="na"&gt;data-sortable&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;thead&amp;gt;&lt;/span&gt;
+        &lt;span class="nt"&gt;&amp;lt;tr&lt;/span&gt;
+            &lt;span class="err"&gt;&amp;lt;&lt;/span&gt;&lt;span class="na"&gt;th&lt;/span&gt; &lt;span class="na"&gt;data-sortable-col&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Rank&lt;span class="nt"&gt;&amp;lt;/th&amp;gt;&lt;/span&gt;
+            &lt;span class="nt"&gt;&amp;lt;th&lt;/span&gt; &lt;span class="na"&gt;data-sortable-col&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Movie Title&lt;span class="nt"&gt;&amp;lt;/th&amp;gt;&lt;/span&gt;
+            &lt;span class="nt"&gt;&amp;lt;th&lt;/span&gt; &lt;span class="na"&gt;data-sortable-col&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Year&lt;span class="nt"&gt;&amp;lt;/th&amp;gt;&lt;/span&gt;
+            &lt;span class="nt"&gt;&amp;lt;th&lt;/span&gt; &lt;span class="na"&gt;data-sortable-col&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Rating&lt;span class="nt"&gt;&amp;lt;/th&amp;gt;&lt;/span&gt;
+            &lt;span class="nt"&gt;&amp;lt;th&amp;gt;&lt;/span&gt;Reviews&lt;span class="nt"&gt;&amp;lt;/th&amp;gt;&lt;/span&gt;
+        &lt;span class="nt"&gt;&amp;lt;/tr&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;/thead&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;h3 id="kullanımı"&gt;Kullanımı&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Stack Modu için;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sadece stack modunda kullanmak için tablesaw.css ve tablesaw.js dosyalarını projenize dahil etmeniz gerekiyor.&lt;/p&gt;
+
+&lt;p&gt;Ekleyeceğimiz dosyalar:&lt;/p&gt;
+&lt;pre class="highlight html"&gt;&lt;span class="nt"&gt;&amp;lt;link&lt;/span&gt; &lt;span class="na"&gt;rel=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;stylesheet&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;tablesaw.css&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;script &lt;/span&gt;&lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;tablesaw.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Bu satırın tablomuzu kullanmak istediğimiz kısma eklenmesi gerekiyor.&lt;/p&gt;
+&lt;pre class="highlight html"&gt;&lt;span class="nt"&gt;&amp;lt;table&lt;/span&gt; &lt;span class="na"&gt;class=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;tablesaw tablesaw-stack&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;data-mode=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;stack&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Tüm modları ve özellikleri kullanabilmek için;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bu kısımda toogle modu için  &lt;a href="https://github.com/filamentgroup/dialog"&gt; Filament Group dialog&lt;/a&gt; &amp;lsquo;a ihtiyacımız var. 
+Eğer bower kullanıyorsanız&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;bower install tablesaw
+&lt;/pre&gt;
+&lt;p&gt;kod satırı ile tablesaw için gerekli tüm paketleri indirebilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;Tablesaw&amp;#39;da yer alan tüm mod ve özellikleri kullanbilmek için sayfamıza eklememiz gereken css ve js dosyaları aşağıdaki 
+kodda yer alıyor.&lt;/p&gt;
+&lt;pre class="highlight html"&gt;&lt;span class="nt"&gt;&amp;lt;link&lt;/span&gt; &lt;span class="na"&gt;rel=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;stylesheet&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;bower_components/filament-dialog/dialog.css&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;link&lt;/span&gt; &lt;span class="na"&gt;rel=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;stylesheet&amp;quot;&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;tablesaw.css&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+
+&lt;span class="nt"&gt;&amp;lt;script &lt;/span&gt;&lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;bower_components/jquery/jquery.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;script &lt;/span&gt;&lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;bower_components/filament-dialog/dialog.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;script &lt;/span&gt;&lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;bower_components/filament-dialog/dialog-init.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;script &lt;/span&gt;&lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;tablesaw.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Bu kullanışlı tablo eklentisini &lt;a href="https://github.com/filamentgroup/tablesaw"&gt;Tablesaw&lt;/a&gt; adresinden inceleyebilirsiniz.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Python'da Etkili Log Tutma</title>
+    <link rel="alternate" href="http://lab2023.com/pythonda-etkili-log-tutma.html"/>
+    <id>http://lab2023.com/pythonda-etkili-log-tutma.html</id>
+    <published>2014-07-07T03:00:00+03:00</published>
+    <updated>2014-12-02T16:08:18+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;Bu yazıda Python kullanarak, bir uygulama için etkili bir şekilde log (kayıt) tutma yöntemlerine göz atacağız.&lt;/p&gt;
+
+&lt;p&gt;Bunun için &lt;strong&gt;logging&lt;/strong&gt; adlı bir Python modülünü kullanacağız. Bu modül Python&amp;#39;la beraber standart olarak geliyor. Özel bir Python sistemi kullanmıyorsanız, kurmanıza gerek yoktur, doğrudan Python konsolundan içe aktararak kullanabilirsiniz.&lt;/p&gt;
+&lt;pre class="highlight python"&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;logging&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;En basit haliyle, hiç bir örnekleme (initializing) bile yapmadan konsoldan şu şekilde log oluşturmaya başlayabilirsiniz.&lt;/p&gt;
+&lt;pre class="highlight python"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;warning&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Uyarıyorum bak, demedi deme!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;WARNING&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;root&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;Uyar&lt;/span&gt;&lt;span class="err"&gt;ı&lt;/span&gt;&lt;span class="n"&gt;yorum&lt;/span&gt; &lt;span class="n"&gt;bak&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;demedi&lt;/span&gt; &lt;span class="n"&gt;deme&lt;/span&gt;&lt;span class="err"&gt;!&lt;/span&gt;
+
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;error&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Hatasız kul olmaz!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;ERROR&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;root&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;Hatas&lt;/span&gt;&lt;span class="err"&gt;ı&lt;/span&gt;&lt;span class="n"&gt;z&lt;/span&gt; &lt;span class="n"&gt;kul&lt;/span&gt; &lt;span class="n"&gt;olmaz&lt;/span&gt;&lt;span class="err"&gt;!&lt;/span&gt;
+
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;debug&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Debug ediyorum, gözlerim kapalı.&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+&lt;/pre&gt;
+&lt;p&gt;Büyük ihtimalle üçüncü komutta çıktı görmeyeceksiniz zira &lt;strong&gt;logging&lt;/strong&gt; modülünün varsayılan log seviyesi &lt;strong&gt;warning&lt;/strong&gt;. Yani sadece mevcut seviye olan &lt;strong&gt;warning&lt;/strong&gt; veya daha üst seviyelerin mesajları çıkacak. Tabi bunun için de bir sıralama var:&lt;/p&gt;
+
+&lt;p&gt;DEBUG &amp;lt;&amp;lt; INFO &amp;lt;&amp;lt; WARNING &amp;lt;&amp;lt; ERROR &amp;lt;&amp;lt; CRITICAL&lt;/p&gt;
+
+&lt;p&gt;Eğer log seviyesini değiştirmek isterseniz, şöyle bir kullanım gerecek:&lt;/p&gt;
+&lt;pre class="highlight python"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;getLogger&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Level&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;DEBUG&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Bu şekilde log seviyesini &lt;strong&gt;debug&lt;/strong&gt; yapmış olduk. (Diğer seçenekleriniz: logging.INFO, logging.WARNING, logging.ERROR, logging.CRITICAL) Artık debug ve üstü log seviyelerinin mesajları gözükecek.&lt;/p&gt;
+&lt;pre class="highlight python"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;debug&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Debug ediyorum, gözlerim kapalı.&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;DEBUG&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;root&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;Debug&lt;/span&gt; &lt;span class="n"&gt;ediyorum&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;g&lt;/span&gt;&lt;span class="err"&gt;ö&lt;/span&gt;&lt;span class="n"&gt;zlerim&lt;/span&gt; &lt;span class="n"&gt;kapal&lt;/span&gt;&lt;span class="err"&gt;ı&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Logların mesajlarını daha düzgün bir biçimde (formatting) yazdırmamız da mümkün. Bunun için &lt;strong&gt;basicConfig&lt;/strong&gt; adlı bir fonksiyon kullanacağız:&lt;/p&gt;
+&lt;pre class="highlight python"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;basicConfig&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;format&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%(asctime)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(message)&lt;/span&gt;&lt;span class="s"&gt;s&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;datefmt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;d/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;m/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;Y &lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;H:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;M:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;S&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;warning&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Uyarıyorum bak, demedi deme!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="mi"&gt;11&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mo"&gt;07&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;2014&lt;/span&gt; &lt;span class="mi"&gt;09&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;40&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;53&lt;/span&gt; &lt;span class="n"&gt;Uyar&lt;/span&gt;&lt;span class="err"&gt;ı&lt;/span&gt;&lt;span class="n"&gt;yorum&lt;/span&gt; &lt;span class="n"&gt;bak&lt;/span&gt; &lt;span class="n"&gt;demedi&lt;/span&gt; &lt;span class="n"&gt;deme&lt;/span&gt;&lt;span class="err"&gt;!&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;datefmt&lt;/strong&gt; için istediğiniz tarzda tarih saat biçimi verebilirsiniz. &lt;strong&gt;format&lt;/strong&gt; için ise ekstra seçenekler de mevcut. Örneğin &lt;strong&gt;%(name)s&lt;/strong&gt; ekleyince, kullanıcı ismi; &lt;strong&gt;%(levelname)s&lt;/strong&gt; ekleyince de log seviyesinin ismi çıkacak.&lt;/p&gt;
+&lt;pre class="highlight python"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;basicConfig&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;format&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%(asctime)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(name)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(levelname)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(message)&lt;/span&gt;&lt;span class="s"&gt;s&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;datefmt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;d/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;m/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;Y &lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;H:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;M:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;S&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;warning&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Uyarıyorum bak, demedi deme!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="mi"&gt;11&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mo"&gt;07&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;2014&lt;/span&gt; &lt;span class="mi"&gt;09&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;48&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mo"&gt;01&lt;/span&gt; &lt;span class="n"&gt;root&lt;/span&gt; &lt;span class="n"&gt;WARNING&lt;/span&gt; &lt;span class="n"&gt;Uyar&lt;/span&gt;&lt;span class="err"&gt;ı&lt;/span&gt;&lt;span class="n"&gt;yorum&lt;/span&gt; &lt;span class="n"&gt;bak&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;demedi&lt;/span&gt; &lt;span class="n"&gt;deme&lt;/span&gt;&lt;span class="err"&gt;!&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;basicConfig&lt;/strong&gt; fonksiyonuna log seviyesi de ekleyebilirsiniz.&lt;/p&gt;
+&lt;pre class="highlight python"&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;basicConfig&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;format&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%(asctime)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(name)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(levelname)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(message)&lt;/span&gt;&lt;span class="s"&gt;s&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;datefmt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;d/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;m/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;Y &lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;H:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;M:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;S&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;level&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;INFO&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Hatta daha da güzeli, bir seçenek daha ekleyip, logların dosyaya yazılmasını sağlayabilirsiniz:&lt;/p&gt;
+&lt;pre class="highlight python"&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;basicConfig&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;format&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%(asctime)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(name)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(levelname)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(message)&lt;/span&gt;&lt;span class="s"&gt;s&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;datefmt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;d/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;m/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;Y &lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;H:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;M:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;S&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;level&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;INFO&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;dosyaismi.log&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Bu şekilde loglarınız dosyaya yazılacak. Şimdi log tutma olayını biraz daha üst bir seviyeye çıkartıp, tek bir yerden birden fazla log tutmaya gözatalım. Bunların tamamını bir fonksiyona ekleyip, log kurulumu için sonradan da kullanabilmeniz mümkün.&lt;/p&gt;
+
+&lt;p&gt;İlk iş olarak bir değişkene, temel log mekanizmasını atamamız gerekecek.&lt;/p&gt;
+&lt;pre class="highlight python"&gt;&lt;span class="n"&gt;logger&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;getLogger&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Ve her yerde çıkması için ortak bir log formatı:&lt;/p&gt;
+&lt;pre class="highlight python"&gt;&lt;span class="n"&gt;formatter&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Formatter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%(asctime)&lt;/span&gt;&lt;span class="s"&gt;s - &lt;/span&gt;&lt;span class="si"&gt;%(name)&lt;/span&gt;&lt;span class="s"&gt;s - &lt;/span&gt;&lt;span class="si"&gt;%(levelname)&lt;/span&gt;&lt;span class="s"&gt;s - &lt;/span&gt;&lt;span class="si"&gt;%(message)&lt;/span&gt;&lt;span class="s"&gt;s&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;d/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;m/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;Y &lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;H:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;M:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;S&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Şimdi logları konsola çıkartacak bir log handler&amp;#39;ı oluşturalım. Ardından seviye ve formatı belirleyeceğiz. Son olarak da temel log tutan mekanizmaya bunu kaydettireceğiz.&lt;/p&gt;
+&lt;pre class="highlight python"&gt;&lt;span class="n"&gt;console_logger&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;StreamHandler&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="n"&gt;console_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Level&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;WARNING&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;console_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Formatter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;formatter&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;addHandler&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;console_logger&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Şimdi de logları dosyaya yazacak ayrı bir handler oluşturalım. Yine seviye ve format belirtip, kaydetme işlemlerini yapacağız.&lt;/p&gt;
+&lt;pre class="highlight python"&gt;&lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;FileHandler&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;dosyaismi.log&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Level&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;DEBUG&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Formatter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;formatter&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="n"&gt;logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;addHandler&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Dikkat ettiyseniz, iki farklı log tutucu için de farklı log seviyeleri verdik. Bundan sonra istediğimiz yerde log oluşturmaya başlayabiliriz:&lt;/p&gt;
+&lt;pre class="highlight python"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;warning&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Uyarıyorum bak, demedi deme!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;span class="mi"&gt;11&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mo"&gt;07&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;2014&lt;/span&gt; &lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;11&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;41&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;root&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;WARNING&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Uyar&lt;/span&gt;&lt;span class="err"&gt;ı&lt;/span&gt;&lt;span class="n"&gt;yorum&lt;/span&gt; &lt;span class="n"&gt;bak&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;demedi&lt;/span&gt; &lt;span class="n"&gt;deme&lt;/span&gt;&lt;span class="err"&gt;!&lt;/span&gt;
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;debug&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Debug ediyorum, gözlerim kapalı.&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Konsoldaki log tutucu için temel seviye &lt;strong&gt;warning&lt;/strong&gt; olduğundan, &lt;strong&gt;debug&lt;/strong&gt; türü log mesajları çıkmadı. Ama dosyayı kontrol ettiğimiz de, iki mesajın da çıktığını göreceksiniz:&lt;/p&gt;
+&lt;pre class="highlight text"&gt;11/07/2014 10:11:41 - root - WARNING - Uyarıyorum bak, demedi deme!
+11/07/2014 10:11:43 - root - DEBUG - Debug ediyorum, gözlerim kapalı.
+&lt;/pre&gt;
+&lt;p&gt;Gördüğünüz gibi, tek bir log mesajıyla, birden fazla yerde log tutabiliyoruz. İhtiyaca göre birden fazla, farklı seviyelerde dosya log tutucu ekleyebilirsiniz. Ayrıca log türünü mesajlara ekleyerek, ileride gerekebilecek bir ayrıştırma (parsing) işlemini de kolaylaştırdığımız söylenebilir.&lt;/p&gt;
+
+&lt;p&gt;Şimdi tüm bu log ayarları için kullandığımız kodları tek bir fonksiyona ekleyelim:&lt;/p&gt;
+&lt;pre class="highlight python"&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;setup_log_system&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="n"&gt;logger&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;getLogger&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+    &lt;span class="n"&gt;formatter&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Formatter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%(asctime)&lt;/span&gt;&lt;span class="s"&gt;s - &lt;/span&gt;&lt;span class="si"&gt;%(name)&lt;/span&gt;&lt;span class="s"&gt;s - &lt;/span&gt;&lt;span class="si"&gt;%(levelname)&lt;/span&gt;&lt;span class="s"&gt;s - &lt;/span&gt;&lt;span class="si"&gt;%(message)&lt;/span&gt;&lt;span class="s"&gt;s&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
+                                  &lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;d/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;m/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;Y &lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;H:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;M:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;S&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="c"&gt;# Konsol log tutucu&lt;/span&gt;
+    &lt;span class="n"&gt;console_logger&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;StreamHandler&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+    &lt;span class="n"&gt;console_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Level&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;WARNING&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="n"&gt;console_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Formatter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;formatter&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="n"&gt;logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;addHandler&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;console_logger&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+    &lt;span class="c"&gt;# Dosya log tutucu&lt;/span&gt;
+    &lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;FileHandler&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;dosyaismi.log&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Level&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;DEBUG&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Formatter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;formatter&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+    &lt;span class="n"&gt;logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;addHandler&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Bu şekilde kullandığınız uygulama içinde, &lt;strong&gt;setup_log_system&lt;/strong&gt; fonksiyonunu çağırarak, hızlıca log sisteminizi kurabilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Logging&lt;/strong&gt; modülü ile ilgili daha fazla örnek için:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://docs.python.org/2/howto/logging.html"&gt;https://docs.python.org/2/howto/logging.html&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>HTML5 Canvas Javascript Libraries</title>
+    <link rel="alternate" href="http://lab2023.com/html5-canvas-javascript-libraries.html"/>
+    <id>http://lab2023.com/html5-canvas-javascript-libraries.html</id>
+    <published>2014-07-06T03:00:00+03:00</published>
+    <updated>2014-07-15T09:01:14+03:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;h2 id="which-libraries-should-we-use-in-javascript-for-game-development-?"&gt;Which libraries should we use in javascript for game development ?&lt;/h2&gt;
+
+&lt;p&gt;While I was searching about javascript libraries, I found some javascript libraries are being used for game development.
+This libraries ,&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;provide tools to create animations for game development.&lt;/li&gt;
+&lt;li&gt;helped to find graphical objects for games.&lt;/li&gt;
+&lt;li&gt;provide useful functions you can use in your game projects  &amp;hellip;etc&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;15 Useful javascript libraries for game development below :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://hyperandroid.github.io/CAAT/"&gt;Canvas Advanced Animation Toolkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://kineticjs.com/"&gt;Kinetic.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fabricjs.com/"&gt;Fabric.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://craftyjs.com/"&gt;Crafty.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.createjs.com/"&gt;Create.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.createjs.com/#!/EaselJS"&gt;Easel.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ocanvas.org/"&gt;oCanvas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://paperjs.org/"&gt;Paper.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://processingjs.org/"&gt;Processing.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://threejs.org/"&gt;Three.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jawsjs.com/"&gt;Jaws.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://impactjs.com/"&gt;Impact.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.limejs.com/"&gt;Lime.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://melonjs.org/"&gt;Melon.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.jointjs.com/"&gt;Joint.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Let&amp;rsquo;s continue taking information about html5 canvas javascript libraries.&lt;/p&gt;
+
+&lt;p&gt;1- &lt;a href="http://hyperandroid.github.io/CAAT/"&gt;Canvas Advanced Animation Toolkit&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CAAT is javascript animation toolkit.&lt;/li&gt;
+&lt;li&gt;CAAT is a director-based scene graph manager&lt;/li&gt;
+&lt;li&gt;CAAT provide useful and powerful animation environment&lt;/li&gt;
+&lt;li&gt;CAAT is a platform and works with CSS, WebGL and Canvas.&lt;/li&gt;
+&lt;li&gt;In addition, CAAT is not only create awesome scene and actors but also has facilities to managing audio.&lt;/li&gt;
+&lt;li&gt;Open source code in &lt;a href="https://github.com/hyperandroid/CAAT"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="CAAT" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/caat.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;2- &lt;a href="http://kineticjs.com/"&gt;Kinetic.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kinetic.js is HTML5 Canvas javascript framework that enable powerful animations,
+rotations, transition, node nestings, layering, filtering, caching ..etc&lt;/li&gt;
+&lt;li&gt;Open source code in &lt;a href="https://github.com/ericdrowell/KineticJS"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Kinetic" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/kineticjs.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;3- &lt;a href="http://fabricjs.com/"&gt;Fabric.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fabric.js provides missing object model on canvas, as well as SVG parser.&lt;/li&gt;
+&lt;li&gt;Also, it provides animation, geometrical shape, graphics.&lt;/li&gt;
+&lt;li&gt;Open source code in &lt;a href="https://github.com/kangax/fabric.js/"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Fabric" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/fabricjs.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;4- &lt;a href="http://craftyjs.com/"&gt;Crafty.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Crafty provides building of prototypical or full-featured 2D html5 games.&lt;/li&gt;
+&lt;li&gt;Crafty uses syntax similar to &lt;a href="http://jquery.com/"&gt;jquery&lt;/a&gt; by having a selector
+engine for select entities by their components.&lt;/li&gt;
+&lt;li&gt;Open source code in &lt;a href="https://github.com/craftyjs/crafty/"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Crafty" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/craftyjs.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;5- &lt;a href="http://www.createjs.com/"&gt;Create.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Create.js is comprehensive web editing interface for content management systems.&lt;/li&gt;
+&lt;li&gt;It provide modern full browser-based html5 environment for managing content.&lt;/li&gt;
+&lt;li&gt;OPen source code in &lt;a href="https://github.com/CreateJS/"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Create" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/create.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;6- &lt;a href="http://www.createjs.com/#!/EaselJS"&gt;Easel.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Easel.js provide easy work with canvas elements.&lt;/li&gt;
+&lt;li&gt;Also it provides shape based mouse interaction on elements.&lt;/li&gt;
+&lt;li&gt;This javascript library is useful for games thanks to awesome graphics and generative arts.&lt;/li&gt;
+&lt;li&gt;Open source code in &lt;a href="https://github.com/CreateJS/EaselJS/"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Easel" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/easyjs.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;7- &lt;a href="http://ocanvas.org/"&gt;oCanvas&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OCanvas provide to work with object instead of pixels for html5 canvas elements.&lt;/li&gt;
+&lt;li&gt;It provides a faster and easier way of work than writing pure javascript on the canvas.&lt;/li&gt;
+&lt;li&gt;Open source code in &lt;a href="https://github.com/koggdal/ocanvas"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="oCanvas" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/ocanvas.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;8- &lt;a href="http://paperjs.org/"&gt;Paper.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Paper.js is vector graphics scripting framework that runs on top of html5 canvas.&lt;/li&gt;
+&lt;li&gt;It offers to clean DOM and a lot of awesome functionality vector graphics, animations and images.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Paper" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/paper.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;9- &lt;a href="http://processingjs.org/"&gt;Processing.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Processing.js provide to makes your data visualizations, digital arts, interactive animations,
+educational graphs, games ..etc&lt;/li&gt;
+&lt;li&gt;Open source code in &lt;a href="https://github.com/jeresig/processing-js"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Processing" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/processing.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;10- &lt;a href="http://threejs.org/"&gt;Three.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Three.js is library that makes &lt;a href="http://get.webgl.org/"&gt;WebGL&lt;/a&gt;, 3D in the browser.&lt;/li&gt;
+&lt;li&gt;it provides powerful 3D animations.&lt;/li&gt;
+&lt;li&gt;Open source code in &lt;a href="https://github.com/mrdoob/three.js/"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Three" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/three.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;11- &lt;a href="http://jawsjs.com/"&gt;Jaws.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Jaws.js is core functions.&lt;/li&gt;
+&lt;li&gt;Jaws is 2D game development framework.&lt;/li&gt;
+&lt;li&gt;It provide the easiest way to make assets(images, musics, json data) in web-games.&lt;/li&gt;
+&lt;li&gt;Open source code in &lt;a href="https://github.com/ippa/jaws"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Jaws" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/jaws.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;12- &lt;a href="http://impactjs.com/"&gt;Impact.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Impact.js is a javascript game engine, it offer 2D animations, graphics, images for web and desktop games.&lt;/li&gt;
+&lt;li&gt;It supports on all html5 capable browsers and include &lt;code&gt;iPhone&lt;/code&gt;, &lt;code&gt;iPod Touch&lt;/code&gt; and &lt;code&gt;iPhone&lt;/code&gt; .&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Impact" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/impact.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;13- &lt;a href="http://www.limejs.com/"&gt;Lime.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lime.js offers support  for all mobile platforms.&lt;/li&gt;
+&lt;li&gt;It provide  support videos and better audio.&lt;/li&gt;
+&lt;li&gt;Open source code in &lt;a href="https://github.com/digitalfruit/limejs"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Lime" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/lime.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;14- &lt;a href="http://melonjs.org/"&gt;Melon.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Melon.js is a fresh-lightweight 2D sprite-based engine.&lt;/li&gt;
+&lt;li&gt;It supports multiple audio channel support.&lt;/li&gt;
+&lt;li&gt;It integrates tiled map format.&lt;/li&gt;
+&lt;li&gt;Open source code in &lt;a href="https://github.com/melonjs/melonJS"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Melon" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/melon.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;15- &lt;a href="http://www.jointjs.com/"&gt;Joint.js&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Joint.js is a modern HTML 5 JavaScript library for visualize and interact with diagrams and graphs.&lt;/li&gt;
+&lt;li&gt;Joint js is known diagramming library in javascript libraries.&lt;/li&gt;
+&lt;li&gt;Open source code in &lt;a href="https://github.com/DavidDurman/joint"&gt;here&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Joint" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/joint.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;That&amp;#39; s all.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Quick view into our design-process</title>
+    <link rel="alternate" href="http://lab2023.com/quick-view-into-our-design-process.html"/>
+    <id>http://lab2023.com/quick-view-into-our-design-process.html</id>
+    <published>2014-06-30T03:00:00+03:00</published>
+    <updated>2014-07-15T08:56:13+03:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img alt="Picture 1" src="assets/images/articles/2014-07-01-design-process/final1.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="1.-understanding-client-needs"&gt;1. Understanding client needs&lt;/h3&gt;
+
+&lt;p&gt;After every dealing process we start by defining main requirements of the new project. In order to specify these requirements we focus on understanding the main needs our design should supply. Realize about client perspective gives us the key for success in a final result.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 2" src="assets/images/articles/2014-07-01-design-process/Client.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="2.-brainstorming"&gt;2. Brainstorming&lt;/h3&gt;
+
+&lt;p&gt;Once we understand our main goal the next step is to look for inspiration, creative and suitable solution we can develop. In this way there are many ways for exercise our imagination, sketching our new ideas is a very good way for make feedback process inside the team, based on this we discuss and decide the best option.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 3" src="assets/images/articles/2014-07-01-design-process/Brainstorming1.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 4" src="assets/images/articles/2014-07-01-design-process/Brainstorming2-3.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 5" src="assets/images/articles/2014-07-01-design-process/Brainstorming3.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 6" src="assets/images/articles/2014-07-01-design-process/sketch-01.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 7" src="assets/images/articles/2014-07-01-design-process/sketch-02.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="3.-conceptualize"&gt;3. Conceptualize&lt;/h3&gt;
+
+&lt;p&gt;Conceptualize is the process in which all the team get synchronous in a main idea. In design concepts we define how the semantic idea will be present in all perceptual aspects, here we define main characteristics, style, colors, typography, shapes, diagramming grid and structure for compose.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 8" src="assets/images/articles/2014-07-01-design-process/conceptualize.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 9" src="assets/images/articles/2014-07-01-design-process/conceptualize2.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="4.-prototype"&gt;4. Prototype&lt;/h3&gt;
+
+&lt;p&gt;In web design prototype digital files are known as mockups or wireframes, these are a preview without details of what should be a final result. This process saves a lot of time in design projects, we prevent future failures by keeping a constant dialog with the customer about design progress. We save more time doing this process digital with tools like &lt;a href="http://lab2023.com/balsamiq-uygulamasi-ile-web-arayuzu-tasarimi.html"&gt;Balsamiq&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 10" src="assets/images/articles/2014-07-01-design-process/prototyping.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 11" src="assets/images/articles/2014-07-01-design-process/Prototype4.JPG" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 12" src="assets/images/articles/2014-07-01-design-process/prototype9.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 13" src="assets/images/articles/2014-07-01-design-process/prototype8.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="5.-evaluation"&gt;5. Evaluation&lt;/h3&gt;
+
+&lt;p&gt;For improve times and have a more assertive final design, we keep a constant communication with customer, let them know about last features, last changes and achieve their approval for start every final design-process.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 14" src="assets/images/articles/2014-07-01-design-process/evaluation.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="6.-design"&gt;6. Design&lt;/h3&gt;
+
+&lt;p&gt;This is the moment for join all the pieces, we call design to all the process we make for achieve this step.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 15" src="assets/images/articles/2014-07-01-design-process/design.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 16" src="assets/images/articles/2014-07-01-design-process/designs2.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 17" src="assets/images/articles/2014-07-01-design-process/design3.png" /&gt;&lt;/p&gt;
+
+&lt;h3 id="7.-improve"&gt;7. Improve&lt;/h3&gt;
+
+&lt;p&gt;Finish a design project is the start point for improve, make an inside about the topics we can do better for next projects it&amp;rsquo;s an important part of the design-process.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Picture 18" src="assets/images/articles/2014-07-01-design-process/lab2023-logo.jpg" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Balsamiq Uygulaması İle Web Arayüzü Tasarımı</title>
+    <link rel="alternate" href="http://lab2023.com/balsamiq-uygulamasi-ile-web-arayuzu-tasarimi.html"/>
+    <id>http://lab2023.com/balsamiq-uygulamasi-ile-web-arayuzu-tasarimi.html</id>
+    <published>2014-06-27T03:00:00+03:00</published>
+    <updated>2014-07-15T08:56:13+03:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;Genelde web projeleri arayüzünde, detaylı çizime başlamadan önce bir ön çizim yapılır. 
+Bu çizim son kullanıcının görmesini istediğimiz tasarıma kılavuzluk eder. 
+Bazı arayüz tasarımcıları prototiplendirme işini kağıt üzerinde, bazıları ise bu iş için hazırlanmış programlarda yapar. &lt;/p&gt;
+
+&lt;p&gt;Bizler &lt;a href="http://www.mybalsamiq.com"&gt;Balsamiq&lt;/a&gt; uygulamasını kullanıyoruz. 
+Bu uygulama sayesinde kolay ve hızlı bir şekilde prototipler ve taslak çizimler oluşturabiliyoruz. 
+Bir web sayfasında ya da tasarımını yapacağımız uygulamada kullanılması muhtemel bütün tasarım elemanları 
+balsamiq çizim aracında hazır bulunuyor. Yapmamız gereken tek şey kullanacağımız elemanın rengini, boyutunu ve yerleşim 
+düzenini ayarlamak oluyor. Şimdi balsamiq uygulamasının özelliklerine bir bakalım.&lt;/p&gt;
+
+&lt;h2 id="Özellikleri"&gt;Özellikleri&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Component kısmında tasarım için gereken elemanların bir çoğu hazır bir şekilde kullanılmayı bekliyor. 
+Ama bunlar yeterli gelmediyse kendi tasarımlarımızı tasarıma dahil edebiliyoruz. 
+&lt;img alt="Balsamiq Application" src="assets/images/articles/2014-06-06-balsamiq-app/balsamiq5.jpg" /&gt;&lt;/li&gt;
+&lt;li&gt;Farklı component&amp;#39;ler için farklı özellikler karşımıza çıkıyor. Her component&amp;#39;te karşımıza çıkan ortak özellikler ise gruplama, 
+sembole çevirme, kopyalama, geri alma, konum ve boyutlandırma ayarları. Yaptığımız her çalışmayı sembole çevirebilir ve 
+diğer mockup&amp;#39;larda da kolaylıkla kullanabiliriz. 
+&lt;img alt="Balsamiq Application" src="assets/images/articles/2014-06-06-balsamiq-app/balsamiq6.jpg" /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ayrıca;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Oluşturulan mockup‘ lara yorum bırakabilirsiniz.&lt;/li&gt;
+&lt;li&gt;Birden fazla kullanıci ile aynı projede ortak çalışma yürütebilirsiniz.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="versiyonlama:"&gt;Versiyonlama:&lt;/h3&gt;
+
+&lt;p&gt;Proje üzerinde çalışırken kaydettiğimiz her değişiklik geri alınabiliyor. Diyelim ki 3 hafta öncesinin çalışmasına geri 
+dönmek istiyoruz, yapacağımız şey dosyayı geri almak veya klonlayıp üzerinden devam etmek olacaktır.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Balsamiq Application" src="assets/images/articles/2014-06-06-balsamiq-app/balsamiq1.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="bmml-(balsamiq-mockups-markup-language)-dosya-uzantılı-ürün-çıktısı:"&gt;BMML (Balsamiq Mockups Markup Language) dosya uzantılı ürün çıktısı:&lt;/h3&gt;
+
+&lt;p&gt;Program, çizimi yapılan çalışmanın çıktısını &lt;code&gt;.bmml&lt;/code&gt; formatında, indirilmeye hazır bir şekilde bekliyor. 
+Aynı projede yer almadığınız bir kişiye indirdiğiniz &lt;code&gt;bmml&lt;/code&gt; dosyasını göndermeniz yeterli. 
+Upload edip üzerinde değişiklik yapabilecektir. İstersek &lt;code&gt;pdf&lt;/code&gt; formatlı olarak da dosyayı indirebiliyoruz.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Balsamiq Application" src="assets/images/articles/2014-06-06-balsamiq-app/balsamiq2.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="proje-üzerinde-çoklu-çalışma-ortamı;"&gt;Proje üzerinde çoklu çalışma ortamı;&lt;/h3&gt;
+
+&lt;p&gt;Oluşturduğunuz projeye kişileri dahil edip, aynı anda farklı mockup’ larda çalışabiliyoruz.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Balsamiq Application" src="assets/images/articles/2014-06-06-balsamiq-app/balsamiq3.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Program arayüz tasarlamak için son derece kolay ve kullanışlı. 
+Sizde kısa sürede öğrenip kullanacağınız bir arayüz oluşturma programı arıyorsanız&lt;br&gt;
+&lt;a href="http://www.mybalsamiq.com"&gt;balsamiq&lt;/a&gt; adresinizi ziyaret edebilir ve bir aylık deneme sürümününden yararlanabilirsiniz.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Ubuntu'da Screen Kullanımı</title>
+    <link rel="alternate" href="http://lab2023.com/ubuntu-da-screen-kullanimi.html"/>
+    <id>http://lab2023.com/ubuntu-da-screen-kullanimi.html</id>
+    <published>2014-06-20T03:00:00+03:00</published>
+    <updated>2014-07-15T08:56:13+03:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;Sunucunuza ssh ile bağlanarak çalıştırdığınız bir komutun tamamlanması saatler sürebilir, bu sürede ssh bağlantınız 
+kapansa bile işlemin devam etmesini istiyorsanız Screen uygulamasını kullanabilirsiniz. Screen aslında terminal 
+çoğullayıcı uygulaması. Farklı session&amp;#39;lara sahip birden fazla terminal ekranını yönetmek için kullanılmakta.&lt;/p&gt;
+
+&lt;p&gt;Ubuntu&amp;#39;da screen&amp;#39;i kullanmaya başlamak için terminal üzerinde&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;    screen -v
+&lt;/pre&gt;
+&lt;p&gt;komutunu çalıştıralım, bu komut screen komutu yüklüyse, yüklü komutun versiyonunu verir.
+Komutun bulunamadı ile ilgili bir hata mesajı alırsanız screen komutunu yüklemek için:&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;sudo apt-get install screen
+&lt;/pre&gt;
+&lt;p&gt;komutunu kullanabilirsiniz. Kurulum tamamlandıktan sonra&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;    screen
+&lt;/pre&gt;
+&lt;p&gt;komutu ile screen uygulamamızı başlatabiliriz.&lt;/p&gt;
+
+&lt;h3 id="başlıca-komutlar"&gt;Başlıca komutlar&lt;/h3&gt;
+
+&lt;p&gt;Screen üzerinde yapacağımız işlemleri&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;    ctrl+ a &lt;span class="nb"&gt;command&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;şeklinde gerçekleştiriyoruz.Bu komutla screen komut arayüzüne geçiş yapmış oluyoruz.Burada dikkat edilmesi gereken 
+ctrl ve a tuşlarına aynı anda bastıktan sonra komut kısayoluna basarken elinizi ctrl&amp;#39;den çekmenizdir.&lt;/p&gt;
+
+&lt;p&gt;tüm komut listesine&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;    ctrl+ a ?
+&lt;/pre&gt;
+&lt;p&gt;ile ulaşabilirsiniz.&lt;/p&gt;
+&lt;pre class="highlight text"&gt;                       Screen key bindings, page 1 of 2.
+
+                       Command key:  ^A   Literal ^A:  a
+
+  break       ^B b         license     ,            removebuf   =
+  clear       C            lockscreen  ^X x         reset       Z
+  colon       :            log         H            screen      ^C c
+  copy        ^[ [         login       L            select      &amp;#39;
+  detach      ^D d         meta        a            silence     _
+  digraph     ^V           monitor     M            split       S
+  displays    *            next        ^@ ^N sp n   suspend     ^Z z
+  dumptermcap .            number      N            time        ^T t
+  fit         F            only        Q            title       A
+  flow        ^F f         other       ^A           vbell       ^G
+  focus       ^I           pow_break   B            version     v
+  hardcopy    h            pow_detach  D            width       W
+  help        ?            prev        ^H ^P p ^?   windows     ^W w
+  history     { }          quit        \            wrap        ^R r
+  info        i            readbuf     &amp;lt;            writebuf    &amp;gt;
+  kill        K k          redisplay   ^L l         xoff        ^S s
+  lastmsg     ^M m         remove      X            xon         ^Q q
+
+
+                  [Press Space for next page; Return to end.]
+&lt;/pre&gt;
+&lt;p&gt;verdiğiniz bir komutu çalıştırmaya devam ederken ana ekrana dönmek için&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;ctrl-a d
+&lt;/pre&gt;
+&lt;p&gt;yani detach komutunu kullanabilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;Örnek olarak screen ile açtığınız ekranda &lt;code&gt;top&lt;/code&gt; komutunu çalıştıralım. Ardından;&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;ctrl-a d
+&lt;/pre&gt;
+&lt;p&gt;tuş kombinasyonu ile ana oturuma dönelim. Detach ettiğimiz oturuma tekrardan erişmek için:&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;    screen -ls
+&lt;/pre&gt;
+&lt;p&gt;komutu ile çalışır haldeki oturumları ve id&amp;#39;lerini görebilirsiniz&lt;/p&gt;
+&lt;pre class="highlight text"&gt;    There are screens on:
+        2667.pts-0.turkukaya    (06/06/2014 05:02:46 AM)    (Detached)
+        2361.pts-0.turkukaya    (06/06/2014 04:53:20 AM)    (Detached)
+    2 Sockets in /var/run/screen/S-deployer.
+&lt;/pre&gt;
+&lt;p&gt;ardından,&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;   screen -r process_id
+&lt;/pre&gt;
+&lt;p&gt;komutu ile tekrardan oturumunuza erişebilirsiniz. Giriş yaptığınızda, &lt;code&gt;top&lt;/code&gt; komutunun hala çalışmaya devam ettiğini 
+görebilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;Oturumu tamamen sonlandırmak için ise;&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;    ctrl-a k
+&lt;/pre&gt;
+&lt;p&gt;komutunu kullanabilirsiniz. (Onayladıktan sonra o oturumu tekrar geri çağıramazsınız).&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Rails' de Elasticsearch Kullanımı</title>
+    <link rel="alternate" href="http://lab2023.com/railsde-elasticsearch-kullanimi.html"/>
+    <id>http://lab2023.com/railsde-elasticsearch-kullanimi.html</id>
+    <published>2014-06-13T03:00:00+03:00</published>
+    <updated>2014-07-15T08:56:13+03:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;Rails web uygulamalarında içerik araması temel olarak oldukça kolay olsa da, tam metin araması (full text search) gerektiği zaman uygun bir çözüm bulmak zor oluyor. Bu yazıda, &lt;strong&gt;full text search&lt;/strong&gt; konusunda en bilindik ve başarılı çözümlerden birisi olan &lt;a href="http://www.elasticsearch.org/"&gt;Elasticsearch&lt;/a&gt; yazılımını, Rails uygulamanıza nasıl entegre edebileceğinizi anlatacağım.&lt;/p&gt;
+
+&lt;p&gt;Başlamadan önce şöyle bir açıklama yapmak lazım ki, Elasticsearch bir gem değil, apayrı bir yazılım. Hatta buna arama motoru demek çok da yanlış olmaz. Öncelikle Elasticsearch yazılımını ayrı bir şekilde kuracağız ve onunla etkileşime geçmesi için de bir bağdaştırıcı (adapter) gemi kullanacağız.&lt;/p&gt;
+
+&lt;p&gt;Başlamak için Elasticsearch yazılımını kuralım. İsteğe bağlı olarak GNU/Linux dağıtımınızın deposundan (bir çok popüler dağıtımda mevcut) aratıp kurabilirsiniz. Bunun dışında Mac OS X kullanıyorsanız aşağıdaki komutlar ile hızlıca kurup, kullanmaya başlayabilirsiniz:&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;brew install elasticsearch
+&lt;span class="gp"&gt;$ &lt;/span&gt;elasticsearch -D es.config&lt;span class="o"&gt;=&lt;/span&gt;/usr/local/opt/elasticsearch/config/elasticsearch.yml
+&lt;/pre&gt;
+&lt;p&gt;Ancak ben bu yazıda, daha genel ve esnek olmasından dolayı indirip elle çalıştırma yöntemini kullanacağım. Aşağıdaki siteye girelim ve arşivlenmiş bir sürümünü indirerek başlayalım:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.elasticsearch.org/overview/elkdownloads/"&gt;http://www.elasticsearch.org/overview/elkdownloads/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;ZIP veya TAR olarak indirdiğiniz paketi açın ve terminalinizden, açılan paketin klasörüne girin. Ardından çalıştırmak için şu komutu verin: (&lt;strong&gt;Önemli:&lt;/strong&gt; Elasticsearch&amp;#39;ü çalıştırmak için sisteminizde &lt;a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp"&gt;JDK&lt;/a&gt;&amp;lsquo;nın en az 6.0 sürümü &lt;a href="http://www.elasticsearch.org/guide/en/elasticsearch/hadoop/current/requirements.html#requirements-jdk"&gt;bulunmalı&lt;/a&gt;.)&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;./bin/elasticsearch
+&lt;/pre&gt;
+&lt;p&gt;Sistemin çalışıp çalışmadığını test etmek için, ufak bir HTTP isteği yapalım. Başka bir terminal oturumundan şu komutu verin:&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;curl -X GET http://localhost:9200/
+&lt;/pre&gt;
+&lt;p&gt;Eğer hiçbir sıkıntı yoksa, şuna benzeyen bir JSON verisi cevap olarak dönecek:&lt;/p&gt;
+&lt;pre class="highlight json"&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;
+  &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;status&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;200&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;
+  &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Emplate&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;
+  &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;version&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;
+    &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;number&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;1.2.0&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;
+    &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;build_hash&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;c82387f290c21505f781c695f365d0ef4098b272&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;
+    &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;build_timestamp&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;2014-05-22T12:49:13Z&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;
+    &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;build_snapshot&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;false&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;
+    &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;lucene_version&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;4.8&amp;quot;&lt;/span&gt;&lt;span class="w"&gt;
+  &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;
+  &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;tagline&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;You Know, for Search&amp;quot;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/pre&gt;
+&lt;p&gt;Şimdi sıra geldi uygulamayı Rails ile bütünleştirmeye. Bunun için &lt;strong&gt;elasticsearch-model&lt;/strong&gt; ve &lt;strong&gt;elasticsearch-rails&lt;/strong&gt; &lt;a href="https://github.com/elasticsearch/elasticsearch-rails"&gt;gemlerini&lt;/a&gt; kullanacağız. Biraz bahsetmek gerekirse: &lt;strong&gt;elasticsearch-model&lt;/strong&gt; gemi, Elasticsearch arama motoru ile etkileşime geçen bağdaştırıcı (adapter) kütüphanedir. Bunun dışında diğer gem olan &lt;strong&gt;elasticsearch-rails&lt;/strong&gt; ise Rails&amp;#39;de kullanımı kolaylaştırmak için ekstra araçlara (Rake görevleri vs.) sahiptir.&lt;/p&gt;
+
+&lt;p&gt;Kullanmaya başlamak için uygulamanızın &lt;strong&gt;Gemfile&lt;/strong&gt; dosyasına şu iki satırı ekleyin:&lt;/p&gt;
+&lt;pre class="highlight ruby"&gt;&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;elasticsearch-model&amp;#39;&lt;/span&gt;
+&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;elasticsearch-rails&amp;#39;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Ardından gemleri yükleyin:&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;bundle install
+&lt;/pre&gt;
+&lt;p&gt;Bundan sonrasında yapmanız gereken tek şey, ihtiyaç duyduğunuz modellere şu satırları eklemek. Örnek bir model ile gösteriyorum:&lt;/p&gt;
+&lt;pre class="highlight ruby"&gt;&lt;span class="k"&gt;class &lt;/span&gt;&lt;span class="nc"&gt;Product&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt; &lt;span class="no"&gt;ActiveRecord&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="no"&gt;Base&lt;/span&gt;
+  &lt;span class="kp"&gt;include&lt;/span&gt; &lt;span class="no"&gt;Elasticsearch&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="no"&gt;Model&lt;/span&gt;
+  &lt;span class="kp"&gt;include&lt;/span&gt; &lt;span class="no"&gt;Elasticsearch&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="no"&gt;Model&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="no"&gt;Callbacks&lt;/span&gt;
+&lt;span class="k"&gt;end&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Ve kullanmaya başlayabiliriz. Test etmek için Rails konsoluna girelim:&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;rails c
+&lt;/pre&gt;&lt;pre class="highlight ruby"&gt;&lt;span class="vi"&gt;@products&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="no"&gt;Product&lt;/span&gt;&lt;span class="nf"&gt;.search&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;foo bar&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="nf"&gt;.records&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Bu şekilde modeller üstünden full text search araması yapılabilmekte. &lt;strong&gt;search&lt;/strong&gt; metotundan sonra kullandığımız &lt;strong&gt;records&lt;/strong&gt; metotu da, bunu normal bir ActiveRecord sorgu sonucu olarak kullanabilmemizi sağlıyor. Bu sayede, bunu kontrolcüde de kullanıp, verileri sıkıntısız bir şekilde görünüm (view) katmanına taşıyarak kullanabilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;Ekstra olarak, eğer &lt;strong&gt;elasticsearch-rails&lt;/strong&gt; geminden gelen Rake görevlerini (task) kullanmak isterseniz, uygulamanızın Rakefile dosyasının başına şunu ekleyin:&lt;/p&gt;
+&lt;pre class="highlight ruby"&gt;&lt;span class="nb"&gt;require&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;elasticsearch/rails/tasks/import&amp;#39;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Ardından eski kayıtların Elasticsearch tarafından import edilmesi için de şu komutu verin:&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;bundle &lt;span class="nb"&gt;exec &lt;/span&gt;rake environment elasticsearch:import:all
+&lt;/pre&gt;
+&lt;p&gt;Aynı işi, Rails konsolundan şu şekilde de yapmanız mümkün:&lt;/p&gt;
+&lt;pre class="highlight ruby"&gt;&lt;span class="no"&gt;Product&lt;/span&gt;&lt;span class="nf"&gt;.import&lt;/span&gt;
+&lt;/pre&gt;</content>
+  </entry>
+  <entry>
+    <title>Android Temelleri</title>
+    <link rel="alternate" href="http://lab2023.com/android-temelleri.html"/>
+    <id>http://lab2023.com/android-temelleri.html</id>
+    <published>2014-06-13T03:00:00+03:00</published>
+    <updated>2014-07-15T08:56:13+03:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;Merhabalar, Java ile Android uygulamaları temelleri hakkında bir giriş yapmak istiyorum. Bunun için işletim sisteminize uygun JDK ve Android SDK&amp;#39; yı indirmeniz gerekmektedir.
+Windows ve Mac OSX için JDK ve JRE&amp;#39; yi &lt;a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp"&gt;buradan&lt;/a&gt; indirebilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;Ubuntu veya Linux Mint için ise:&lt;/p&gt;
+&lt;pre class="highlight text"&gt;    sudo apt-get install python-software-properties
+
+    sudo add-apt-repository ppa:webupd8team/java
+
+    sudo apt-get update
+
+    sudo apt-get install oracle-java8-installer
+&lt;/pre&gt;
+&lt;p&gt;komutlarını kullanabilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;Kurulumun ardından Android SDK&amp;#39; yı ve IDE&amp;#39; mizi indirmemiz gerekmekte. &lt;a href="http://developer.android.com/SDK/index.html"&gt;Buradan&lt;/a&gt; Eclipse ile Android SDK&amp;#39; yı indirebiliriz.
+İsterseniz Eclipse yerine &lt;a href="http://www.jetbrains.com/idea/"&gt;IntelliJIdea&lt;/a&gt; tabanlı &lt;a href="http://developer.android.com/SDK/installing/studio.html"&gt;Android Studio&lt;/a&gt;&amp;lsquo; yu da deneyebilirsiniz,
+fakat hala alpha aşamasında olduğu için ben tercih etmiyorum.&lt;/p&gt;
+
+&lt;h2 id="eclipse"&gt;Eclipse&lt;/h2&gt;
+
+&lt;p&gt;&lt;img alt="eclipse" width="750" height="467" src="assets/images/articles/2014-05-09-android-temelleri/eclipse.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eclipse&amp;rsquo; i açtığımızda sol üstte işaretli 2 ikonumuzu göreceğiz. Bunlardan soldaki Android SDK Manager, yani farklı versiyonlar için Android SDK yüklemeleri yapabileceğimiz kısımdır.
+Sağ taraftaki ise Android Virtual Device Manager&amp;#39; dır. Burada da emulatör ile Android bir cihaz oluşturup, testlerimizi onun içinde yapabiliriz.
+Fakat maalesef bu araç çok yavaş olduğu için GenyMotion adlı 3. parti emulatörü kullanmanızı öneririm. Standart özellikleri ücretsiz gelmektedir ve standart emülatöre
+göre çok daha hızlıdır. (Tabii ki en iyi sonucu gerçek bir cihaz üzerinden alırsınız). GenyMotion&amp;#39; ı &lt;a href="https://cloud.genymotion.com/page/customer/login/?next=/"&gt;buradan&lt;/a&gt; üye olduktan sonra
+indirebilirsiniz.&lt;/p&gt;
+
+&lt;h2 id="İlk-uygulamayı-oluşturma"&gt;İlk uygulamayı oluşturma&lt;/h2&gt;
+
+&lt;p&gt;İlk Android uygulamamızı oluşturmak için File &amp;gt; New &amp;gt; Android Application Project seçiyoruz.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="New App" width="750" height="498" src="assets/images/articles/2014-05-09-android-temelleri/newapp.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sonrasında uygulamamız için gerekli bilgileri giriyoruz.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Naming" width="647" height="537" src="assets/images/articles/2014-05-09-android-temelleri/naming.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Application name:&lt;/strong&gt;&lt;/em&gt; Play Store&amp;#39; da gözükecek uygulama adıdır&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Package name:&lt;/strong&gt;&lt;/em&gt; Class&amp;#39; larımızı tutacak genel paket adıdır. Genellikle &amp;lsquo;com.sirket_adi.uygulama_adi&amp;rsquo; olarak belirlenir.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Minimum Required SDK&lt;/strong&gt;&lt;/em&gt; ve &lt;em&gt;&lt;strong&gt;Target SDK&lt;/strong&gt;&lt;/em&gt;, uygulamamızın Android&amp;#39; in hangi sürümlerinde çalışacağını belirtir. Target SDK, en son çıkan SDK seçilmelidir.&lt;/p&gt;
+
+&lt;p&gt;Sonraki pencerelerde varsayılan değerler korunarak proje oluşturma işlemi tamamlanır.&lt;/p&gt;
+
+&lt;h2 id="klasörler"&gt;Klasörler&lt;/h2&gt;
+
+&lt;p&gt;&lt;img alt="Folders" width="224" height="474" src="assets/images/articles/2014-05-09-android-temelleri/folders.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;İlk uygulamamızı oluşturduk ve resimdeki gibi klasörler karşımıza geldi. Burada haşır neşir olacağımız kısımlar,
+&lt;em&gt;&lt;strong&gt;SRC&lt;/strong&gt;&lt;/em&gt; ve &lt;em&gt;&lt;strong&gt;RES&lt;/strong&gt;&lt;/em&gt; klasörleridir. Genel olarak klasörlerin görevleri şunlardır:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Gen&lt;/strong&gt;&lt;/em&gt;, hiçbir zaman müdahale etmemeniz gereken, Android&amp;#39; in kendi değişkenlerini adresleyip, değişkenler halinde tuttuğu class&amp;#39; ları içeren klasördür.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Bin&lt;/strong&gt;&lt;/em&gt;, derlenmiş class&amp;#39; larımızı ve çalıştırılabilir apk dosyamızı içeren klasördür.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Libs&lt;/strong&gt;&lt;/em&gt;, uygulamaya dahil edilen kütüphaneler bu klasördedir. (Android SDK gibi)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;RES&lt;/strong&gt;&lt;/em&gt;, asset&amp;#39; lerimizi tutmak içindir (resimler, arayüz dosyalarımız, rakamsal veya string değerlerimiz vs.)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Drawable&lt;/strong&gt;&lt;/em&gt;, resimlerimizin, stil dosyalarımızın bulunacağı klasördür. Yanlarındaki hdpi, ldpi, mpdi, xhdpi ise ekran boyutlarını belirtir. Bu şekilde uygulamaya özel arayüz tasarlayabilirsiniz.
+Örneğin 10&lt;q&gt;bir tabletteki resmin boyutu ve çözünürlüğü 3&lt;/q&gt; bir telefondakinden büyük olmalıdır. Bunları burada ayarlayabilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Layout&lt;/strong&gt;&lt;/em&gt;, arayüz xml&amp;#39; lerini saklayan klasördür. Bu klasörün yanına istediğiniz gibi &lt;em&gt;layout_hdpi&lt;/em&gt;, &lt;em&gt;layout_ldpi&lt;/em&gt; gibi klasörler ekleyerek arayüzleri özelleştirebilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Menu&lt;/strong&gt;&lt;/em&gt;, uygulamanızda görünecek menüleri tutan klasördür&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Values&lt;/strong&gt;&lt;/em&gt;, uygulama içerisinde kullanacağımız değerleri tutacağımız klasördür. Arayüzdeki margin değerlerinden buton text&amp;#39; lerine kadar herşeyi burada tutabilirsiniz.
+values-en, values-tr şeklinde klasörlerle sadece içerisindeki değerleri değiştirerek telefonun diline göre uygulamanın dilini değiştirebilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;Bunların dışında içli dışlı olacağımız bir başka dosya, &lt;em&gt;&lt;strong&gt;AndroidManifest.xml&lt;/strong&gt;&lt;/em&gt; dosyasıdır. Bu dosya içerisinde uygulama ayarlarımız, izinlerimiz, aktivitelerimiz gibi bilgiler
+bulunmaktadır.&lt;/p&gt;
+
+&lt;p&gt;Bu bilgilerin ardından gelelim layout klasörümüze:&lt;/p&gt;
+
+&lt;p&gt;Layout klasörünün içine girdiğimiz zaman 2 adet dosya oluştuğunu görüyoruz. &lt;em&gt;&lt;strong&gt;activity_main.xml&lt;/strong&gt;&lt;/em&gt; ve &lt;em&gt;&lt;strong&gt;fragment_main.xml&lt;/strong&gt;&lt;/em&gt; bunlar arayüz dosyalarımızdır.
+(Eski SDK&amp;#39; ya sahip olan kullanıcılarda sadece activity_main.xml olacaktır.) Ne işe yaradıklarını açıklayalım. Android&amp;#39; de bir çok ekran sistemi vardır. Bunlara &lt;em&gt;&lt;strong&gt;Activity&lt;/strong&gt;&lt;/em&gt; denir. Uygulamada işlem
+yaptığınız her ekranı bir activity olarak düşünebilirsiniz. Bunun yanısıra API 11(Android 3.0)&amp;lsquo; den sonra Fragment yapısı ek olarak getirildi. Bunu da Activity içerisinde çalışan bir
+arayüz ya da bir işlemi temsil eden küçük activity parçaları olarak düşünebiliriz. Bir container activity içerisinde birden fragment&amp;rsquo; leri tetikleterek çağırmak, hem performans, hem de
+tekrar kullanılabilirlik açısından daha verimlidir. Tabi fragment&amp;#39; ler de activity&amp;#39; den bağımsız değildir. Onların yaşam döngüleri de onu içeren aktiviteye bağlıdır. Activity kapandığı
+zaman içerdiği fragment de kapanır.&lt;/p&gt;
+
+&lt;p&gt;Bu kısa ön bilgiden sonra tahmin edebileceğiniz gibi activity_main.xml, fragment&amp;#39; i tutacak container activity arayüzü iken; fragment_main.xml ise, içerisinde çalıştırılacak
+fragment arayüzüdür.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Activity" width="750" height="471" src="assets/images/articles/2014-05-09-android-temelleri/newactivity.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Activity" width="750" height="458" src="assets/images/articles/2014-05-09-android-temelleri/newfragment.png" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Layout görünümü içerisinde arayüzü 2 farklı şekilde görüntüleyebiliriz.
+&lt;em&gt;&lt;strong&gt;Graphical Layout&lt;/strong&gt;&lt;/em&gt;: Arayüzün olduğu gibi gösterildiği, bileşenlerin sürükle bırak ile eklenebileceği grafik arayüzüdür.
+&lt;em&gt;&lt;strong&gt;XML Editör&lt;/strong&gt;&lt;/em&gt;: XML dosyasını manuel olarak oluşturabileceğiniz editördür&lt;/p&gt;
+
+&lt;p&gt;Not: Düzenlemeler için xml&amp;#39; e eninde sonunda elle müdahale etmeniz gerekecektir. Arayüz aracı çok gelişmiş durumda değil.&lt;/p&gt;
+
+&lt;p&gt;XML dosyalarını arayüz altındaki &lt;em&gt;activity_main.xml&lt;/em&gt; ve &lt;em&gt;activity_fragment.xml&lt;/em&gt;&amp;lsquo; e tıklayarak açalım&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;activity_main.xml&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;pre class="highlight xml"&gt;    &lt;span class="nt"&gt;&amp;lt;FrameLayout&lt;/span&gt; &lt;span class="na"&gt;xmlns:android=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://schemas.android.com/apk/res/android&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;xmlns:tools=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://schemas.android.com/tools&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;android:id=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;@+id/container&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;android:layout_width=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;match_parent&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;android:layout_height=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;match_parent&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;tools:context=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;com.htk.firstapp.MainActivity&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;tools:ignore=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;MergeRootFrame&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Burada, sadece pencere olacağını belirten FrameLayout olarak id&amp;rsquo; si container olan bir arayüz elementi oluşturulduğunu görüyoruz.
+Fragment&amp;#39; imizdeki içerik bu FrameLayout&amp;#39; un içerisine eklenecektir.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;fragment_main.xml&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;pre class="highlight xml"&gt;    &lt;span class="nt"&gt;&amp;lt;RelativeLayout&lt;/span&gt; &lt;span class="na"&gt;xmlns:android=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://schemas.android.com/apk/res/android&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;xmlns:tools=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://schemas.android.com/tools&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;android:layout_width=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;match_parent&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;android:layout_height=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;match_parent&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;android:paddingBottom=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;@dimen/activity_vertical_margin&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;android:paddingLeft=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;@dimen/activity_horizontal_margin&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;android:paddingRight=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;@dimen/activity_horizontal_margin&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;android:paddingTop=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;@dimen/activity_vertical_margin&amp;quot;&lt;/span&gt;
+        &lt;span class="na"&gt;tools:context=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;com.htk.firstapp.MainActivity$PlaceholderFragment&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+
+        &lt;span class="nt"&gt;&amp;lt;TextView&lt;/span&gt;
+            &lt;span class="na"&gt;android:layout_width=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;wrap_content&amp;quot;&lt;/span&gt;
+            &lt;span class="na"&gt;android:layout_height=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;wrap_content&amp;quot;&lt;/span&gt;
+            &lt;span class="na"&gt;android:text=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;@string/hello_world&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
+
+    &lt;span class="nt"&gt;&amp;lt;/RelativeLayout&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Burada da, içerisinde bir adet TextView bulunan RelativeLayout tanımlanmıştır. Layoutlar içerisinde en çok kullanılan 2 tip layout vardır. Relative ve Linear Layout; isimlerinden de anlaşılabileceği
+gibi RelativeLayout, içerisindeki elemanları birbirlerine göre uzaklığı, konumu gibi bilgiler ile yerleşim yaparken, LinearLayout ise, yatay veya dikey olarak elemanları yerleştirir.
+Layoutlar iç içe kullanılabilir.&lt;/p&gt;
+
+&lt;p&gt;TextView&amp;#39; ımız ise uygulamamızın içerisinde düz metin göstermek için kullanabileceğimiz label&amp;#39; lardır. text değerine &lt;em&gt;&lt;q&gt;@string/hello_world&lt;/q&gt;&lt;/em&gt; değeri atanmıştır. Bu da bu içeriğin
+&lt;em&gt;&lt;q&gt;res/values/strings.xml&lt;/q&gt;&lt;/em&gt; dosyası içerisinde tutulduğunu belirtir. Layout içerisindeki yazıları &lt;em&gt;strings.xml&lt;/em&gt; dosyasında tutmak best practice olarak önerilmektedir.&lt;/p&gt;
+&lt;pre class="highlight xml"&gt;    &lt;span class="cp"&gt;&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;utf-8&amp;quot;?&amp;gt;&lt;/span&gt;
+    &lt;span class="nt"&gt;&amp;lt;resources&amp;gt;&lt;/span&gt;
+
+        &lt;span class="nt"&gt;&amp;lt;string&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;app_name&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;FirstApp&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
+        &lt;span class="nt"&gt;&amp;lt;string&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;hello_world&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Hello world!&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
+        &lt;span class="nt"&gt;&amp;lt;string&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;action_settings&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Settings&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
+
+    &lt;span class="nt"&gt;&amp;lt;/resources&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Not: String&amp;#39; ler, id&amp;#39; ler otomatik olarak adreslenip &lt;em&gt;&lt;q&gt;Gen/R.class&lt;/q&gt;&lt;/em&gt; içerisine yazılmaktadır. Bu nedenle aynı string adı ve id&amp;#39; ler farklı xml dosyalarında kullanılsa bile eşsiz olmalıdır.
+Mesela yukarıdaki xml&amp;#39; lere bakarak id&amp;#39; si container olan başka bir component veya adı &lt;em&gt;hello_world&lt;/em&gt; olan başka bir string oluşturmamız hatalara neden olacaktır.&lt;/p&gt;
+
+&lt;p&gt;Arayüz dosyalarımızı inceledikten sonra gelelim asıl kodlarımızın bulunduğu Java Class&amp;#39; ımıza.&lt;/p&gt;
+
+&lt;p&gt;Class&amp;#39; ımızı &lt;em&gt;&lt;q&gt;src/paket_adi/MainActivity.class&lt;/q&gt;&lt;/em&gt; dosyasına tıklayarak açıyoruz.&lt;/p&gt;
+&lt;pre class="highlight java"&gt;    &lt;span class="kn"&gt;package&lt;/span&gt; &lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;htk&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;firstapp&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.support.v7.app.ActionBarActivity&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.support.v4.app.Fragment&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.os.Bundle&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.view.LayoutInflater&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.view.Menu&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.view.MenuItem&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.view.View&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.view.ViewGroup&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+
+    &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kd"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;MainActivity&lt;/span&gt; &lt;span class="kd"&gt;extends&lt;/span&gt; &lt;span class="n"&gt;ActionBarActivity&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+
+        &lt;span class="nd"&gt;@Override&lt;/span&gt;
+        &lt;span class="kd"&gt;protected&lt;/span&gt; &lt;span class="kt"&gt;void&lt;/span&gt; &lt;span class="n"&gt;onCreate&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Bundle&lt;/span&gt; &lt;span class="n"&gt;savedInstanceState&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+            &lt;span class="kd"&gt;super&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;onCreate&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;savedInstanceState&lt;/span&gt;&lt;span class="o"&gt;);&lt;/span&gt;
+            &lt;span class="n"&gt;setContentView&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;R&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;layout&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;activity_main&lt;/span&gt;&lt;span class="o"&gt;);&lt;/span&gt;
+
+            &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;savedInstanceState&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="kc"&gt;null&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+                &lt;span class="n"&gt;getSupportFragmentManager&lt;/span&gt;&lt;span class="o"&gt;().&lt;/span&gt;&lt;span class="na"&gt;beginTransaction&lt;/span&gt;&lt;span class="o"&gt;()&lt;/span&gt;
+                        &lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;add&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;R&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;id&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;container&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="k"&gt;new&lt;/span&gt; &lt;span class="n"&gt;PlaceholderFragment&lt;/span&gt;&lt;span class="o"&gt;()).&lt;/span&gt;&lt;span class="na"&gt;commit&lt;/span&gt;&lt;span class="o"&gt;();&lt;/span&gt;
+            &lt;span class="o"&gt;}&lt;/span&gt;
+        &lt;span class="o"&gt;}&lt;/span&gt;
+
+        &lt;span class="nd"&gt;@Override&lt;/span&gt;
+        &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kt"&gt;boolean&lt;/span&gt; &lt;span class="n"&gt;onCreateOptionsMenu&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Menu&lt;/span&gt; &lt;span class="n"&gt;menu&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+
+            &lt;span class="c1"&gt;// Inflate the menu; this adds items to the action bar if it is present.&lt;/span&gt;
+            &lt;span class="n"&gt;getMenuInflater&lt;/span&gt;&lt;span class="o"&gt;().&lt;/span&gt;&lt;span class="na"&gt;inflate&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;R&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;menu&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;main&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;menu&lt;/span&gt;&lt;span class="o"&gt;);&lt;/span&gt;
+            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+        &lt;span class="o"&gt;}&lt;/span&gt;
+
+        &lt;span class="nd"&gt;@Override&lt;/span&gt;
+        &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kt"&gt;boolean&lt;/span&gt; &lt;span class="n"&gt;onOptionsItemSelected&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;MenuItem&lt;/span&gt; &lt;span class="n"&gt;item&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+            &lt;span class="c1"&gt;// Handle action bar item clicks here. The action bar will&lt;/span&gt;
+            &lt;span class="c1"&gt;// automatically handle clicks on the Home/Up button, so long&lt;/span&gt;
+            &lt;span class="c1"&gt;// as you specify a parent activity in AndroidManifest.xml.&lt;/span&gt;
+            &lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;id&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;item&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;getItemId&lt;/span&gt;&lt;span class="o"&gt;();&lt;/span&gt;
+            &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;id&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="n"&gt;R&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;id&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;action_settings&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+                &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+            &lt;span class="o"&gt;}&lt;/span&gt;
+            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="kd"&gt;super&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;onOptionsItemSelected&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;item&lt;/span&gt;&lt;span class="o"&gt;);&lt;/span&gt;
+        &lt;span class="o"&gt;}&lt;/span&gt;
+
+        &lt;span class="cm"&gt;/**
+         * A placeholder fragment containing a simple view.
+         */&lt;/span&gt;
+        &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kd"&gt;static&lt;/span&gt; &lt;span class="kd"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;PlaceholderFragment&lt;/span&gt; &lt;span class="kd"&gt;extends&lt;/span&gt; &lt;span class="n"&gt;Fragment&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+
+            &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="n"&gt;PlaceholderFragment&lt;/span&gt;&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+            &lt;span class="o"&gt;}&lt;/span&gt;
+
+            &lt;span class="nd"&gt;@Override&lt;/span&gt;
+            &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="n"&gt;View&lt;/span&gt; &lt;span class="n"&gt;onCreateView&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;LayoutInflater&lt;/span&gt; &lt;span class="n"&gt;inflater&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ViewGroup&lt;/span&gt; &lt;span class="n"&gt;container&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt;
+                    &lt;span class="n"&gt;Bundle&lt;/span&gt; &lt;span class="n"&gt;savedInstanceState&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
+                &lt;span class="n"&gt;View&lt;/span&gt; &lt;span class="n"&gt;rootView&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;inflater&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;inflate&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;R&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;layout&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;fragment_main&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;container&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt;
+                        &lt;span class="kc"&gt;false&lt;/span&gt;&lt;span class="o"&gt;);&lt;/span&gt;
+                &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;rootView&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+            &lt;span class="o"&gt;}&lt;/span&gt;
+        &lt;span class="o"&gt;}&lt;/span&gt;
+    &lt;span class="o"&gt;}&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Kısaca buradaki eklenmiş fonksiyonların ne iş yaptığını anlatmaya çalışacağım. Görüldüğü gibi MainActivity class&amp;#39; ımız ActionBarActivity&amp;#39; den extend edilmiştir. Bu Activity&amp;#39; nin biraz
+daha özelleştirilmiş halidir. Detaylı bilgi ve diğer classları &lt;a href="http://developer.android.com/reference/android/app/Activity.html"&gt;buradan&lt;/a&gt; inceleyebirsiniz.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;onCreateOptionsMenu()&lt;/strong&gt;&lt;/em&gt; menü item&amp;#39; lerin hangi xml dosyasından alınacağını belirten fonksiyondur. (xml dosya ve componentlerin gen/R.class içerisine derlendiğini söylemiştik.
+O yüzden R.&lt;em&gt;tip&lt;/em&gt;.&lt;em&gt;ad&lt;/em&gt; şeklinde çağrılmaktadır).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;onOptionsItemSelected()&lt;/strong&gt;&lt;/em&gt; menü içerisinden bir seçeneğe tıklandığı zaman tetiklenecek fonksiyondur. Hangi seçeneğe tıklandığı belirlenip gereken işlemler yaptırılabilir.&lt;/p&gt;
+
+&lt;p&gt;Gelelim en önemli fonksiyona&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;onCreate&lt;/strong&gt;&lt;/em&gt; fonksiyonu ise activity başlarken çalıştırılacak fonksiyondur. Bu fonksiyon activity yaşam döngüsü (Life Cycle) ile ilgilidir. Bunun yanısıra aşağıdaki fonksiyonları da
+ekleyip spesifik işlemler için kullanabilirsiniz.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;onStart ()&lt;/strong&gt;&lt;/em&gt; : Activity, kullanıcıya görünür hale geldiğinde çağrılır.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;onResume ()&lt;/strong&gt;&lt;/em&gt; : Activity, kullanıcıyla etkileşime başladığında çağrılır.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;onPause ()&lt;/strong&gt;&lt;/em&gt; : Mevcut Activity durdurulduğunda ve önceki Activity devam ettirildiğinde çağrılır.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;onStop ()&lt;/strong&gt;&lt;/em&gt; : Activity, kullanıcıya görünmez hale geldiğinde çağrılır.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;onDestroy ()&lt;/strong&gt;&lt;/em&gt; : Acitiviy, sistem tarafından yok edilmeden önce çağrılır.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;onRestart ()&lt;/strong&gt;&lt;/em&gt; : Activity durdurulduğunda ve yeniden başlatıldığında çağrılır.&lt;/p&gt;
+
+&lt;p&gt;Bunu da kısaca belirttikten sonra onCreate() fonksiyonunun içeriğini inceleyelim. setContentView() fonksiyonu ile kullanacağı layout dosyasını seçilmektedir. Sonrasında getSupportFragmentManager()
+ile fragment yaşam döngüsünü kontrol edebileceğimiz obje alınır. Transaction başlatıp içerisine add fonksiyonu ile fragment class&amp;#39; ımız olan PlaceHolder class&amp;#39; ında tanımlanmış fragment&amp;#39; i çağırmaktadır.
+Bu transaction&amp;#39; ı, commit() fonksiyonu ile çalıştırabiliriz.&lt;/p&gt;
+
+&lt;p&gt;Fragment Class&amp;#39; ımız olan &lt;em&gt;&lt;strong&gt;PlaceholderFragment&lt;/strong&gt;&lt;/em&gt;&amp;lsquo; in fonksiyonları da Activity fonksiyonları gibidir. Fragment içerisinde constructordan sonra ilk olarak onCreateView() fonksiyonu
+çalıştırılır. Bu fonksiyon içerisinde de fragment layout &lt;em&gt;&lt;strong&gt;LayoutInflater&lt;/strong&gt;&lt;/em&gt; objesi ile xml dosyamız view nesnesine dönüştürülir. Ardından ise oluşturulan view Activity&amp;#39;e döndürülür ve
+activity, bu fragment&amp;rsquo; i ekrana basar.&lt;/p&gt;
+
+&lt;p&gt;Artık temel yapıyı öğrendiğimize göre uygulamamızı çalıştırabiliriz. :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="First App" width="250" height="394" src="assets/images/articles/2014-05-09-android-temelleri/screenshot.png" /&gt;&lt;/p&gt;
+</content>
+  </entry>
+</feed>
