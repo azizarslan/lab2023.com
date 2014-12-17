@@ -5,13 +5,437 @@
   <id>http://lab2023.com/</id>
   <link href="http://lab2023.com/"/>
   <link href="http://lab2023.com/feed.xml" rel="self"/>
-  <updated>2014-12-02T02:00:00+02:00</updated>
+  <updated>2014-12-17T02:00:00+02:00</updated>
+  <entry>
+    <title>How we created Bulutfon animation</title>
+    <link rel="alternate" href="http://lab2023.com/how-we-created-bulutfon-animation.html"/>
+    <id>http://lab2023.com/how-we-created-bulutfon-animation.html</id>
+    <published>2014-12-17T02:00:00+02:00</published>
+    <updated>2014-12-17T09:45:04+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;In this article I will try to give a short explanation about creating an animation.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;step is creating a story&amp;hellip;&lt;/li&gt;
+&lt;li&gt;step is creating a main character&amp;hellip;&lt;/li&gt;
+&lt;li&gt;step is creating a storyboard&amp;hellip;&lt;/li&gt;
+&lt;li&gt;step is creating main character as a marionette, with bones in an animation program&amp;hellip;&lt;/li&gt;
+&lt;li&gt;step is creating all the objects that we will need in the animation&amp;hellip;&lt;/li&gt;
+&lt;li&gt;step is making an animation&amp;hellip;&lt;/li&gt;
+&lt;li&gt;step is making sound effects&amp;hellip;&lt;/li&gt;
+&lt;li&gt;step is making a background music&amp;hellip;&lt;/li&gt;
+&lt;li&gt;step is applying the merging process&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id="1.-step-is-creating-a-story..."&gt;1. step is creating a story&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;This story is telling us about Bulutfon products, explaining all the opportunities that Bulutfon gives to customers, offering very comfortable services, to make business foundation easier.&lt;/p&gt;
+
+&lt;h3 id="2.-step-is-creating-a-main-character..."&gt;2. step is creating a main character&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;After creating the story the next important step is creating a main character. We created this personage with the idea in mind, that we need a young businessman, very sincere, smart, energetic, with the nice smile and kind eyes. We made him very close to the reality, with human proportions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="main character" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/character.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="3.-step-is-creating-a-storyboard..."&gt;3. step is creating a storyboard&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;After knowing that the story and with main character ready, we went to the next, very important step, which is creating the storyboard. We made the storyboard without too much detail, just put the main idea of each sentence of the story. We made it like a short animated description to every single scene, to make people understand our product and the mission of our product. We put a lot of notes in the margins (arrows, which show us from where to where our character is moving and also a lot of comments for the each scene, to help us not to lose the idea of the scene). The result is:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="storyboard" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/storyboard.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="4.-step-is-creating-main-character-as-a-marionette,-with-bones-in-an-animation-program..."&gt;4. step is creating main character as a marionette, with bones in an animation program&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;After storyboard is totally ready with all the corrections that were made, we went to the next step, which is creating the main character as a marionette. We created him with bones and all functions, that we will need, to animate him. For example, we drew several types of mouth and eyes, to give him opportunity to speak and blink and change his eyes&amp;#39; expression, from normal to surprised or from normal to sad etc. Also as a cartoon’s character he can be squashed and stretched, he can move his legs and hands, his head, his eyebrows, even his tie can be animated.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/bones.JPG" /&gt;&lt;/p&gt;
+
+&lt;h3 id="5.-step-is-creating-all-the-objects-that-we-will-need-in-the-animation..."&gt;5. step is creating all the objects that we will need in the animation&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;We prepared all the elements, that we will use in our animation. For some elements we also created bones, because we will animate them also. We chose main colors very open, like yellow, green, red, blue, which are mixed with very soft grey.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/objects.JPG" /&gt;&lt;/p&gt;
+
+&lt;h3 id="6.-step-is-making-an-animation..."&gt;6. step is making an animation&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;The most important step is making animation of characters by manipulating bones. We tried to make them plastic, comic, very lifeful and adorable. For making animation more realistic we were using rules, that Walt Disney developed.
+Here is a very short review with the main principles of making animation:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=l-KtwW6eptM"&gt;Main principles of making animation &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Every single scene we rendered and saved in a folder as a separate file.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/timeline.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is what we got as a result:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/story.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="7.-step-is-making-sound-effects..."&gt;7. step is making sound effects&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;We were using a lot of sound effects in the animation. It is necessary. It gives accents into a movement, it gives weight to a falling object, it gives weight to walking men etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" width="683" height="832" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/voice.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="8.-step-is-making-background-music..."&gt;8. step is making background music&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Background music is just like an accompaniment to the animation. The whole mood depends on the background music. The animation rhythm and music rhythm have to work synchronously to make all scene finished. We chose energetic and very funny music according the rhythm of the animation and the nature of the main character. So all together they work great as a system.&lt;/p&gt;
+
+&lt;h3 id="9.-step-is-applying-the-merging-process..."&gt;9. step is applying the merging process&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;When we have background music and when we have all the animation files finished and all sound effects completed, we just need to make a final step, which is merge all of the files to one video file.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" width="576" height="796" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/merge.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now after all of the work that have been made, we can see final animation:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://vimeo.com/102756655"&gt;How we created Bulutfon animation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;and we have shared to Dribbble&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://dribbble.com/shots/1676198-Bulutfon-Animation"&gt;Bulutfon animation on dribbble&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thank you for your attention.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Bulutfon animasyonunu nasıl hazırladık</title>
+    <link rel="alternate" href="http://lab2023.com/how-we-created-bulutfon-animation-turkish.html"/>
+    <id>http://lab2023.com/how-we-created-bulutfon-animation-turkish.html</id>
+    <published>2014-12-17T02:00:00+02:00</published>
+    <updated>2014-12-17T09:45:04+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;Bu makalede, animasyon oluşturma ile ilgili kısaca bilgi vermeye çalışacağım.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;adım, bir hikaye oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, bir ana karakter oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, bir hikaye panosu oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, ana karakterin bir kukla olarak, iskeletiyle birlikte animasyon programında oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, animasyon için gerekli olan tüm nesnelerin oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, bir animasyon oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, ses efektlerinin oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, arka plan müziğinin oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, birleştirme işlemlerinin uygulanması&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id="1.-adım,-bir-hikaye-oluşturulması..."&gt;1. adım, bir hikaye oluşturulması&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Bu hikaye bize; Bulutfon ürünlerini anlatıyor; iş kurmayı kolaylaştırmak için Bulutfon&amp;#39;un müşterilere sunduğu fırsatları, sağladığı rahat kullanımlı servisleri açıklıyor.&lt;/p&gt;
+
+&lt;h3 id="2.-adım,-bir-ana-karakter-oluşturulması..."&gt;2. adım, bir ana karakter oluşturulması&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Hikayeyi oluşturduktan sonraki önemli adım, bir ana karakter oluşturmaktır. Bu karakteri; aklımızda çok samimi, zeki, enerjik, hoş gülümseyişe ve nazik gözlere sahip genç bir işadamına ihtiyacımız olduğu fikri ile oluşturduk. İnsan ölçülerine uygun olarak gerçeğe çok yakın bir şekilde hazırladık.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="main character" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/character.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="3.-adım,-bir-hikaye-panosu-oluşturulması..."&gt;3. adım, bir hikaye panosu oluşturulması&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Hikaye ve ana karakter hazır olduktan sonra, bir sonraki çok önemli olan hikaye panosu oluşturma adımına geldik. Hikaye panosunu çok fazla detay olmadan oluşturduk, sadece hikayenin her cümlesindeki ana fikri ekledik. İnsanların ürünümüzü ve ürünümüzün amacını anlamalarını sağlamak için her bir sahneyi kısa animasyonlu açıklama şeklinde hazırladık. Kenar boşluklarına birçok not (karakterimizin nereden nereye hareket ettiğini gösteren oklar ve her bir sahneye, sahnedeki fikri kaybetmemek için bize yardımcı olması amacıyla birçok yorum) ekledik. Sonuç bu:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="storyboard" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/storyboard.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="4.-adım,-ana-karakterin-bir-kukla-olarak,-iskeletiyle-birlikte-animasyon-programında-oluşturulması..."&gt;4. adım, Ana karakterin bir kukla olarak, iskeletiyle birlikte animasyon programında oluşturulması&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Tüm düzeltmeler yapılıp hikaye panosu tam olarak hazır olduğunda, sonraki adıma, karakterin kuklaya dönüştürülmesine geçtik. İş adamımıza animasyon ekleyebilmek için, onu ihtiyaç duyabileceğimiz iskelet ve tüm fonksiyonlar ile birlikte oluşturduk. Örneğin; konuşması, göz kırpması ve gözlerinin ifadesini normalden şaşırmışa veya normalden mutsuza değiştirebilmesini sağlamak için çok tipte ağız ve göz çizdik. Aynı zamanda çizgi karakter olduğundan ezilebilir ve uzayabilir; ayaklarını ve ellerini, kafasını, kaşlarını oynatabilir; hatta kravatına bile animasyon eklenebilir.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/bones.JPG" /&gt;&lt;/p&gt;
+
+&lt;h3 id="5.-adım,-animasyon-için-gerekli-olan-tüm-nesnelerin-oluşturulması..."&gt;5. adım, Animasyon için gerekli olan tüm nesnelerin oluşturulması&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Animasyonda kullanacağımız bütün öğeleri oluşturduk. Bazı öğelere animasyon ekleyeceğimizden onlar için de ayrıca iskelet oluşturduk. Ana renkleri; çok yumuşak gri ile karıştırılmış sarı, yeşil, mavi ve kırmızı gibi çok açık renkler olarak seçtik.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/objects.JPG" /&gt;&lt;/p&gt;
+
+&lt;h3 id="6.-adım,-bir-animasyon-oluşturulması..."&gt;6. adım, bir animasyon oluşturulması&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;En önemli adım, iskeleti değiştirerek karakterlerin hareket etmesini sağlamaktır. Karakterleri plastik, komik, çok hayat dolu ve çok güzel yapmaya çalıştık. Animasyonu daha gerçekçi yapmak için, Walt Disney&amp;#39;in geliştirdiği kuralları kullandık. Animasyon yapmanın temel prensipleri ile ilgili kısa bir video buradadır:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=l-KtwW6eptM"&gt;Animasyon oluşturmanın ana prensipleri&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Her bir sahneyi işledik ve bir klasör içine ayrı bir dosya olarak kaydettik.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/timeline.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sonuç olarak aldığımız bu:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/story.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="7.-adım,-ses-efektlerinin-oluşturulması..."&gt;7. adım, ses efektlerinin oluşturulması&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Animasyonda bir çok ses efekti kullandık. Bu çok gerekli. Hareketlerdeki vurguyu öne çıkarır, düşen bir nesneye ağırlık verir, yürüyen bir adama ağırlık verir vs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" width="683" height="832" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/voice.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="8.-adım,-arka-plan-müziğinin-oluşturulması..."&gt;8. adım, arka plan müziğinin oluşturulması&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Arka plan müziği, animasyona refakatçi gibidir. Tüm ruh hali arka plan muziğine dayanır.  Animasyon ritmi ve müzik ritmi tüm sahnenin tamamlanmasını sağlamak için eş zamanlı olarak çalışmak zorundadır.  Animasyonun ritmine ve ana karakterin doğasına uygun enerjik ve çok eğlenceli bir müzik seçtik. Bu sayede, tüm hepsi sistem olarak harika bir şekilde çalışmış oldu.&lt;/p&gt;
+
+&lt;h3 id="9.-adım,-birleştirme-işlemlerinin-uygulanması..."&gt;9. adım, birleştirme işlemlerinin uygulanması&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Arkaplan müziği elimizde olduğunda, tüm animasyon dosyalarını tamamlanmış olarak hazırladığımızda ve tüm ses efektleri tamamlandığında; yapmamız gereken sadece bir adım kalıyor, tüm dosyaları tek bir video dosyası olarak birleştirmek.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" width="576" height="796" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/merge.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Şimdi; tamamlanmış tüm çalışmalardan sonra, final animasyonunu görebiliriz:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://vimeo.com/102756655"&gt;Bulutfon Animasyonunu nasıl oluşturduk?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;ve Dribbble&amp;#39;da paylaşılmıştır.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://dribbble.com/shots/1676198-Bulutfon-Animation"&gt;Bulutfon animasyonu için dribbble paylaşımı&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;İlginiz için teşekkür ederim.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Cómo creamos la animación para Bulutfon.</title>
+    <link rel="alternate" href="http://lab2023.com/how-we-created-bulutfon-animation-spanish.html"/>
+    <id>http://lab2023.com/how-we-created-bulutfon-animation-spanish.html</id>
+    <published>2014-12-17T02:00:00+02:00</published>
+    <updated>2014-12-17T09:45:04+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;En este artículo trataré de realizar una corta explicación sobre el proceso de creacion de la animación.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;paso es crear la historia&amp;hellip;&lt;/li&gt;
+&lt;li&gt;paso es crear un personaje principal&amp;hellip;&lt;/li&gt;
+&lt;li&gt;paso es crear un storyboard&amp;hellip;&lt;/li&gt;
+&lt;li&gt;paso es crear un personaje principal que funcione a través de huesos en el programa de animación&amp;hellip;&lt;/li&gt;
+&lt;li&gt;paso es crear todos los objetos que necesitaremos en la animación&amp;hellip;&lt;/li&gt;
+&lt;li&gt;paso es realizar la animación&amp;hellip;&lt;/li&gt;
+&lt;li&gt;paso es realizar los efectos de sonido&amp;hellip;&lt;/li&gt;
+&lt;li&gt;paso es realizar la musica de fondo&amp;hellip;&lt;/li&gt;
+&lt;li&gt;paso es aplicar el proceso de montaje&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id="1.-paso-es-crear-la-historia..."&gt;1. paso es crear la historia&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Esta historia cuenta sobre los productos de Bulutfon, explicando todas las oportunidades que Bulutfon proporciona a sus clientes, ofreciendo cómodos servicios, para hacer el emprendimiento de negocios mucho más facil.&lt;/p&gt;
+
+&lt;h3 id="2.-paso-es-crear-un-personaje-principal..."&gt;2. paso es crear un personaje principal&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Despues de crear la historia lo siguiente mas importante es crear un personaje principal. Creamos este personaje con la idea en la mente de un joven hombre de negocios, muy sincero, energético, con una sonrisa simpático y ojos amables. Lo hicimos muy cercano a la realidad, con proporciones humanas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="main character" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/character.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="3.-paso-es-crear-un-storyboard..."&gt;3. paso es crear un storyboard&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Despues de tener la historia y el personaje principal listos, fuimos al siguiente paso, uno de los más importantes, crear el story board. El storyboard no tenia muchos detalles, solo plasmamos la idea principal de cada frase de la historia. Lo realizamos como un pequeña descripción de la animación para cada escena, para hacer a las personas entender nuestro producto y la misión de nuestro producto, pusimos muchas notas en las márgenes (flechas que mostraban de donde a donde nuestro personaje debía moverse, asi como tambien muchos comentarios que nos ayudaran a no perder una sola idea), el resultado fue:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="storyboard" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/storyboard.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="4.-paso-es-crear-un-personaje-principal-que-funcione-a-través-de-huesos-en-el-programa-de-animación..."&gt;4. paso es crear un personaje principal que funcione a través de huesos en el programa de animación&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Despues de que el storyboard esta completamente listo con todas las correcciones necesarias, continuamos al siguiente paso, que es crear los huesos del personaje principal. Lo creamos con puntos con todas las funciones necesarias para animarlo. Por ejemplo, dibujamos varios tipos de bocas y ojos, para darle la oportunidad de hablar, parpadear y cambiar la expresión de sus ojos, de normal a sorprendido o tristes, etc. tambien el caracter puedes estirar y aplastar, mover sus piernas, brazos, cabeza, cejas y la corbata.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/bones.JPG" /&gt;&lt;/p&gt;
+
+&lt;h3 id="5.-paso-es-crear-todos-los-objetos-que-necesitaremos-en-la-animación..."&gt;5. paso es crear todos los objetos que necesitaremos en la animación&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Preparamos todos los elementos que vamos a usar en nuestra animación. Para algunos objetos creamos también huesos para generar animación en ellos. Escogimos los colores principales muy abiertos como por ejemplo amarillo, verde, rojo, azul mezclado con un gris suave.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/objects.JPG" /&gt;&lt;/p&gt;
+
+&lt;h3 id="6.-paso-es-realizar-la-animación..."&gt;6. paso es realizar la animación&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;El paso más importante es realizar la animación de los personajes por la manipulación de huesos. Tratamos de hacerlo plástico y cómico, muy vivido y adorable. Para hacer la animación más realista estuvimos usando las leyes de walt disney.
+Aqui un pequeño resumen con los principios básicos para realizar animación digital.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=l-KtwW6eptM"&gt;Principios básicos de la animación&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cada escena fue renderizada y guardada en carpetas diferentes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/timeline.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Este es nuestro resultado:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/story.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="7.-paso-es-realizar-los-efectos-de-sonido..."&gt;7. paso es realizar los efectos de sonido&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Estamos usando muchos efectos de sonido en la animación, es necesario. Brinda acentos en cada movimiento, demuestra peso en los objetos que caen, demuestra peso en el caminar del personaje etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" width="683" height="832" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/voice.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="8.-paso-es-realizar-la-musica-de-fondo..."&gt;8. paso es realizar la musica de fondo&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;La música de fondo es solo para el acompañamiento de la animación. Todo el tono depende de la musicalización de fondo. El ritmo de la animación y el ritmo de la música deben trabajar sincronizados para finalizar una escena. Escogimos una melodía energética y muy graciosa.&lt;/p&gt;
+
+&lt;h3 id="9.-paso-es-aplicar-el-proceso-de-montaje..."&gt;9. paso es aplicar el proceso de montaje&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Cuando tenemos la música de fondo y tenemos todos los archivos de la animación completos y los efectos de sonido mezclados, solo necesitamos realizar un último paso, que es el montaje final uniendo todas la piezas en un solo video.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" width="576" height="796" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/merge.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahora despues de todo el trabajo realizado podemos observar nuestro resultado final:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://vimeo.com/102756655"&gt;Como creamos la animación de Bulutfon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;y tambien lo compartimos en dribbble&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://dribbble.com/shots/1676198-Bulutfon-Animation"&gt;Encuentra esta animación en Dribbble&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Gracias por su atención.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Как создавалась анимация, посвященная "Bulutfon"</title>
+    <link rel="alternate" href="http://lab2023.com/how-we-created-bulutfon-animation-russian.html"/>
+    <id>http://lab2023.com/how-we-created-bulutfon-animation-russian.html</id>
+    <published>2014-12-17T02:00:00+02:00</published>
+    <updated>2014-12-17T09:45:04+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;В этой статье я расскажу вам о поэтапном создании рекламного ролика.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;этап – рождение сюжета;&lt;/li&gt;
+&lt;li&gt;этап – моделирование главного персонажа;&lt;/li&gt;
+&lt;li&gt;этап – создание комикса;&lt;/li&gt;
+&lt;li&gt;этап – превращение главного персонажа в марионетку при помощи «костей» в специальной анимационной программе;&lt;/li&gt;
+&lt;li&gt;этап – создание всех объектов, которые будут использованы при анимации;&lt;/li&gt;
+&lt;li&gt;этап – анимирование;&lt;/li&gt;
+&lt;li&gt;этап – озвучивание анимации;&lt;/li&gt;
+&lt;li&gt;этап – подборка музыки для фона;&lt;/li&gt;
+&lt;li&gt;этап – объединение анимации, музыки и озвучки.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id="1-этап-–-рождение-сюжета…"&gt;1 этап – рождение сюжета…&lt;/h3&gt;
+
+&lt;p&gt;История рассказывает нам о компании Bulutfon, обо всех ее существующих продуктах, сервисах и инновационных проектах, позволяющих сделать бизнес-процесс своих клиентов удобнее и проще.&lt;/p&gt;
+
+&lt;h3 id="2-этап-–-моделирование-главного-персонажа…"&gt;2 этап – моделирование главного персонажа…&lt;/h3&gt;
+
+&lt;p&gt;Моделируя главный персонаж, мы хотели, чтобы он получился жизнерадостным, умным, молодым, предприимчивым бизнесменом с обаятельной улыбкой и добрыми глазами. Кроме того, мы сделали его образ, приближенным к реальности, с человеческими пропорциями.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="main character" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/character.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="3-этап-–-создание-комикса…"&gt;3 этап – создание комикса…&lt;/h3&gt;
+
+&lt;p&gt;После того, как история известна и главный персонаж готов, мы перешли к следующему ответственному этапу – созданию комикса. В нём изложена главная идея каждого отдельного предложения компании, краткое анимированное объяснение с целью сделать понятным предназначение того или иного продукта. Наш комикс получился кратким и очень ёмким.&lt;/p&gt;
+
+&lt;p&gt;Для упрощения работы мы использовали примечания – небольшие заметки, объясняющие мелкие детали, как, например, настроение персонажа и т.д., стрелки, чтобы видеть движение персонажа внутри отдельного плана. Вот что у нас получилось:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="storyboard" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/storyboard.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="4-этап-–-превращение-главного-персонажа-в-марионетку-при-помощи-«костей»-в-специальной-анимационной-программе…"&gt;4 этап – превращение главного персонажа в марионетку при помощи «костей» в специальной анимационной программе…&lt;/h3&gt;
+
+&lt;p&gt;После того, как работа над комиксом закончена и сделаны все поправки, мы перешли к следующему этапу – превращению нашего персонажа в марионетку. Мы создали ему «скелет», помогающий управлять героем во время анимации. Наш персонаж может разговаривать, моргать и менять выражение глаз, может удивляться, быть грустным и смеяться. Как всякий мультипликационный герой, он очень пластичен и гибок.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/bones.JPG" /&gt;&lt;/p&gt;
+
+&lt;h3 id="5-этап-–-создание-всех-объектов,-которые-будут-использованы-при-анимации…"&gt;5 этап – создание всех объектов, которые будут использованы при анимации…&lt;/h3&gt;
+
+&lt;p&gt;Мы подготовили все необходимые объекты, которые использовались в ходе анимирования. Для некоторых элементов мы создали «кости», поскольку они также участвуют в анимации. Мы выбрали очень чистые открытые цвета: желтый, зеленый, красный, голубой, теплый серый.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/objects.JPG" /&gt;&lt;/p&gt;
+
+&lt;h3 id="6-этап-–-анимирование…"&gt;6 этап – анимирование…&lt;/h3&gt;
+
+&lt;p&gt;В процессе анимирования мы попытались сделать наших персонажей живыми и обаятельными. В этом нам помогли некоторые правила анимации, которые были разработаны У. Диснеем. Вы можете ознакомиться с ними здесь:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=l-KtwW6eptM"&gt;Главные приципы анимации&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Каждый  план мы рендерили и сохраняли в папку, как отдельный файл.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/story.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Вот что в результате у нас получилось:&lt;/p&gt;
+
+&lt;h3 id="7-этап-–-озвучивание-анимации…"&gt;7 этап – озвучивание анимации…&lt;/h3&gt;
+
+&lt;p&gt;В нашей анимации мы использовали большое количество различных звуков. Использование звуков позволило нам верно расставить акценты, создать ощущение падающих предметов или звуки шагающего человека и т.д.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" width="683" height="832" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/voice.jpg" /&gt;&lt;/p&gt;
+
+&lt;h3 id="8-этап-–-подборка-музыки-для-фона…"&gt;8 этап – подборка музыки для фона…&lt;/h3&gt;
+
+&lt;p&gt;Фоновая музыка – это аккомпанемент, который создает настроение всему мультфильму. Музыкальный ритм и ритм анимации должны работать синхронно. Мы выбрали очень легкую и энергичную песенку, которая перекликается с характером нашего персонажа. В итоге все элементы нашего ролика работают как одна система.&lt;/p&gt;
+
+&lt;h3 id="9-этап-–-объединение-анимации,-музыки-и-озвучки..."&gt;9 этап – объединение анимации, музыки и озвучки&amp;hellip;&lt;/h3&gt;
+
+&lt;p&gt;Теперь, когда анимация выполнена и подобрана музыка, нам осталось сделать завершающий этап – объединить все отдельные элементы анимации в один общий файл – видео файл.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" width="576" height="796" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/merge.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;В итоге мы получили великолепный ролик для компании Bulutfon:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://vimeo.com/102756655"&gt;Как создавалась анимация, посвященная &lt;q&gt;Bulutfon&lt;/q&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Вы можете найти нас на Dribbble&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://dribbble.com/shots/1676198-Bulutfon-Animation"&gt;Анимация, посвященная &lt;q&gt;Bulutfon&lt;/q&gt; на Dribbble&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Благодарим за внимание.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Özgür Web Teknolojileri Günleri'nin ardından</title>
+    <link rel="alternate" href="http://lab2023.com/ozgur-web-teknolojileri-gunlerinin-ardindan.html"/>
+    <id>http://lab2023.com/ozgur-web-teknolojileri-gunlerinin-ardindan.html</id>
+    <published>2014-12-12T02:00:00+02:00</published>
+    <updated>2014-12-17T09:45:04+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;Özgür Web Teknolojileri Günleri 2014’e katılacağımızı 2 Aralık’ta &lt;a href="/2014-12-02-5-farkli-sunum-ile-katki-sagladigimiz-ve-stant-sponsoru-oldugumuz-ozgur-web-teknolojileri-gunleri-2014-e-davetlisiniz.html"&gt;duyurmuş&lt;/a&gt; ve sizleri de davet etmiştik. 05-06 Aralık’ta İstanbul Yeditepe Üniversitesi’nde 5. kez düzenlenen etkinlikte stant sponsoru olarak yerimizi aldık. Önceki yıllarda olduğu gibi, bu yıl da etkinlikte olmaktan büyük keyif duyduk.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Yeni dostlar" src="assets/images/articles/2014-12-12-owtg-ardindan/stant.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Etkinlik alanındaki diğer stantları dolaştık, standımıza uğrayanları karşıladık, konuştuk, bilgi aldık, bilgi verdik, aydınlandık. Etkinlik boyunca keyifli anlar yaşadık, dostlarımızla buluştuk, Özgür Yazılım’ı destekleyen yeni dostlarla tanıştık.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Lab2023" src="assets/images/articles/2014-12-12-owtg-ardindan/team.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Etkinlik programı olarak 2 gün boyunca birbirinden değerli kişiler, çeşitli seminerler düzenlediler ve bildiriler sundular. Mümkün oldukça bu seminer ve bildiri sunumlarına katıldık, sunulan bilgilerden faydalandık. Ekibimizden arkadaşlarımızın hazırladığı kısa bildiri ve hızlı konuşmaları da bu program içinde sizlerle buluşturma fırsatı bulduk.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Sunum" src="assets/images/articles/2014-12-12-owtg-ardindan/presentation.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lab2023 olarak yaptığımız sunumlara katılıp yanımızda olan siz dostlarımıza teşekkür ederiz. Katılma fırsatı bulamamış ya da tekrar incelemek isteyenler, sunumlarımıza aşağıdaki bağlantılardan erişebilirler.&lt;/p&gt;
+
+&lt;h3 id="ekibimizin-yaptığı-sunumlar"&gt;Ekibimizin yaptığı sunumlar&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://speakerdeck.com/tayfunoziserikan/ruby-on-rails-4-dot-2-ile-gelen-kullanisli-yenilikler"&gt;Ruby on Rails 4.2 İle Gelen Kullanışlı Yenilikler&lt;/a&gt; - Tayfun Öziş ERİKAN&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://speakerdeck.com/claraisabelpantoja/design-processes-and-resources-for-successful-web-applications"&gt;Design Processes and Resources for&lt;/a&gt;  &lt;a href="https://speakerdeck.com/kamilala/design-processes-and-resources-for-successful-web-applications"&gt;Successful Web Applications&lt;/a&gt; - Clara Isabel Pantoja Muñoz - Kamila Gareeva&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://speakerdeck.com/claraisabelpantoja/all-about-creative-commons"&gt;All about creative commons&lt;/a&gt; - Clara Isabel Pantoja Muñoz&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://speakerdeck.com/kamilala/web-animation"&gt;Animation techniques and principles to make your web application designs more attractive.&lt;/a&gt;- Kamila Gareeva&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://speakerdeck.com/baygunm/jax-rs-ile-restful-java-web-servisleri"&gt;JAX-RS ile RESTful Java Web Servisleri&lt;/a&gt; - Murat Kemal BAYGÜN&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img alt="Etkinlik Alanı" src="assets/images/articles/2014-12-12-owtg-ardindan/event-area.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Etkinlik programı kapsamında aynı zamanda, Türkiye’de organize olmuş Ruby, PHP ve Python grupları için birlikte çalışma yapabilmeleri ve tanışmaları için topluluk çalışma toplantıları da yapıldı. Biz de, gönül verdiğimiz Ruby için programda olan Ruby Topluluğu Çalışma Toplantısı’nda katılımımızı yaptık, bu çalışma sonucunda toplulukta beraberce aşağıdaki kararları alıp, sorumluları atadık.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Meetup.com üzerinde Ruby Türkiye grubu oluşturulması.&lt;/li&gt;
+&lt;li&gt;S.S.S. hazırlanması ( İlk olarak 10 Madde halinde )&lt;/li&gt;
+&lt;li&gt;Sosyal Medya Hesaplarının Yönetimi&lt;/li&gt;
+&lt;li&gt;Podcast’lerin oluşturulması&lt;/li&gt;
+&lt;li&gt;İş ilanları ve firmalar için erişim sayfası hazırlanması&lt;/li&gt;
+&lt;li&gt;Etkinlik Takviminin Ruby Türkiye sitesine eklenmesi&lt;/li&gt;
+&lt;li&gt;Wikipedi’de grupla ilgili bir madde oluşturulması&lt;/li&gt;
+&lt;li&gt;Grup manifestosu oluşturulması&lt;/li&gt;
+&lt;li&gt;Ruby Türkiye domain’in düzenlenmesi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Katılımlarınız için tekrar teşekkür eder, Özgür Web Teknolojileri 2015’te ve diğer etkinliklerde tekrar buluşabilmeyi dileriz.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.ozgurwebgunleri.org.tr/2014/"&gt;Özgür Web Teknolojileri 2014&lt;/a&gt; ve &lt;a href="http://www.ozgurwebgunleri.org.tr/2014/etkinlik-programi"&gt;etkinlik programı&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>5 Farklı Sunum ile Katkı Sağladığımız ve Stant Sponsoru Olduğumuz Özgür Web Teknolojileri Günleri 2014'e Davetlisiniz</title>
     <link rel="alternate" href="http://lab2023.com/5-farkli-sunum-ile-katki-sagladigimiz-ve-stant-sponsoru-oldugumuz-ozgur-web-teknolojileri-gunleri-2014-e-davetlisiniz.html"/>
     <id>http://lab2023.com/5-farkli-sunum-ile-katki-sagladigimiz-ve-stant-sponsoru-oldugumuz-ozgur-web-teknolojileri-gunleri-2014-e-davetlisiniz.html</id>
     <published>2014-12-02T02:00:00+02:00</published>
-    <updated>2014-12-02T16:08:18+02:00</updated>
+    <updated>2014-12-17T09:45:04+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -23,7 +447,7 @@
 
 &lt;p&gt;Etkinlikte yer alan sunumlarımıza ait detaylar aşağıdaki gibidir.&lt;/p&gt;
 
-&lt;h3 id="07-aralık-2014---cumartesi"&gt;07 Aralık 2014 - Cumartesi&lt;/h3&gt;
+&lt;h3 id="06-aralık-2014---cumartesi"&gt;06 Aralık 2014 - Cumartesi&lt;/h3&gt;
 
 &lt;h4 id="kerem-can-karakaş-salonu"&gt;Kerem Can Karakaş Salonu&lt;/h4&gt;
 
@@ -60,7 +484,7 @@
     <link rel="alternate" href="http://lab2023.com/Flat-design-Simple-is-perfect.html"/>
     <id>http://lab2023.com/Flat-design-Simple-is-perfect.html</id>
     <published>2014-11-24T02:00:00+02:00</published>
-    <updated>2014-12-02T16:08:18+02:00</updated>
+    <updated>2014-12-17T09:37:23+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -104,7 +528,7 @@
     <link rel="alternate" href="http://lab2023.com/rails-projesine-rubocop-nasil-entegre-edilir.html"/>
     <id>http://lab2023.com/rails-projesine-rubocop-nasil-entegre-edilir.html</id>
     <published>2014-11-21T02:00:00+02:00</published>
-    <updated>2014-12-02T16:08:18+02:00</updated>
+    <updated>2014-12-17T09:37:23+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -173,7 +597,7 @@ yukarıdaki komutları koşup rubocop&amp;#39;u rails projenize entegre edebilrs
     <link rel="alternate" href="http://lab2023.com/how-to-integrate-rubocop-to-rails-project.html"/>
     <id>http://lab2023.com/how-to-integrate-rubocop-to-rails-project.html</id>
     <published>2014-11-21T02:00:00+02:00</published>
-    <updated>2014-12-02T16:08:18+02:00</updated>
+    <updated>2014-12-17T09:37:23+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -959,565 +1383,6 @@ educational graphs, games ..etc&lt;/li&gt;
 &lt;p&gt;&lt;img alt="Joint" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/joint.jpg" /&gt;&lt;/p&gt;
 
 &lt;p&gt;That&amp;#39; s all.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Quick view into our design-process</title>
-    <link rel="alternate" href="http://lab2023.com/quick-view-into-our-design-process.html"/>
-    <id>http://lab2023.com/quick-view-into-our-design-process.html</id>
-    <published>2014-06-30T03:00:00+03:00</published>
-    <updated>2014-07-15T08:56:13+03:00</updated>
-    <author>
-      <name>lab2023</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;img alt="Picture 1" src="assets/images/articles/2014-07-01-design-process/final1.jpg" /&gt;&lt;/p&gt;
-
-&lt;h3 id="1.-understanding-client-needs"&gt;1. Understanding client needs&lt;/h3&gt;
-
-&lt;p&gt;After every dealing process we start by defining main requirements of the new project. In order to specify these requirements we focus on understanding the main needs our design should supply. Realize about client perspective gives us the key for success in a final result.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 2" src="assets/images/articles/2014-07-01-design-process/Client.jpg" /&gt;&lt;/p&gt;
-
-&lt;h3 id="2.-brainstorming"&gt;2. Brainstorming&lt;/h3&gt;
-
-&lt;p&gt;Once we understand our main goal the next step is to look for inspiration, creative and suitable solution we can develop. In this way there are many ways for exercise our imagination, sketching our new ideas is a very good way for make feedback process inside the team, based on this we discuss and decide the best option.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 3" src="assets/images/articles/2014-07-01-design-process/Brainstorming1.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 4" src="assets/images/articles/2014-07-01-design-process/Brainstorming2-3.png" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 5" src="assets/images/articles/2014-07-01-design-process/Brainstorming3.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 6" src="assets/images/articles/2014-07-01-design-process/sketch-01.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 7" src="assets/images/articles/2014-07-01-design-process/sketch-02.jpg" /&gt;&lt;/p&gt;
-
-&lt;h3 id="3.-conceptualize"&gt;3. Conceptualize&lt;/h3&gt;
-
-&lt;p&gt;Conceptualize is the process in which all the team get synchronous in a main idea. In design concepts we define how the semantic idea will be present in all perceptual aspects, here we define main characteristics, style, colors, typography, shapes, diagramming grid and structure for compose.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 8" src="assets/images/articles/2014-07-01-design-process/conceptualize.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 9" src="assets/images/articles/2014-07-01-design-process/conceptualize2.jpg" /&gt;&lt;/p&gt;
-
-&lt;h3 id="4.-prototype"&gt;4. Prototype&lt;/h3&gt;
-
-&lt;p&gt;In web design prototype digital files are known as mockups or wireframes, these are a preview without details of what should be a final result. This process saves a lot of time in design projects, we prevent future failures by keeping a constant dialog with the customer about design progress. We save more time doing this process digital with tools like &lt;a href="http://lab2023.com/balsamiq-uygulamasi-ile-web-arayuzu-tasarimi.html"&gt;Balsamiq&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 10" src="assets/images/articles/2014-07-01-design-process/prototyping.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 11" src="assets/images/articles/2014-07-01-design-process/Prototype4.JPG" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 12" src="assets/images/articles/2014-07-01-design-process/prototype9.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 13" src="assets/images/articles/2014-07-01-design-process/prototype8.jpg" /&gt;&lt;/p&gt;
-
-&lt;h3 id="5.-evaluation"&gt;5. Evaluation&lt;/h3&gt;
-
-&lt;p&gt;For improve times and have a more assertive final design, we keep a constant communication with customer, let them know about last features, last changes and achieve their approval for start every final design-process.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 14" src="assets/images/articles/2014-07-01-design-process/evaluation.jpg" /&gt;&lt;/p&gt;
-
-&lt;h3 id="6.-design"&gt;6. Design&lt;/h3&gt;
-
-&lt;p&gt;This is the moment for join all the pieces, we call design to all the process we make for achieve this step.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 15" src="assets/images/articles/2014-07-01-design-process/design.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 16" src="assets/images/articles/2014-07-01-design-process/designs2.png" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 17" src="assets/images/articles/2014-07-01-design-process/design3.png" /&gt;&lt;/p&gt;
-
-&lt;h3 id="7.-improve"&gt;7. Improve&lt;/h3&gt;
-
-&lt;p&gt;Finish a design project is the start point for improve, make an inside about the topics we can do better for next projects it&amp;rsquo;s an important part of the design-process.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Picture 18" src="assets/images/articles/2014-07-01-design-process/lab2023-logo.jpg" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Balsamiq Uygulaması İle Web Arayüzü Tasarımı</title>
-    <link rel="alternate" href="http://lab2023.com/balsamiq-uygulamasi-ile-web-arayuzu-tasarimi.html"/>
-    <id>http://lab2023.com/balsamiq-uygulamasi-ile-web-arayuzu-tasarimi.html</id>
-    <published>2014-06-27T03:00:00+03:00</published>
-    <updated>2014-07-15T08:56:13+03:00</updated>
-    <author>
-      <name>lab2023</name>
-    </author>
-    <content type="html">&lt;p&gt;Genelde web projeleri arayüzünde, detaylı çizime başlamadan önce bir ön çizim yapılır. 
-Bu çizim son kullanıcının görmesini istediğimiz tasarıma kılavuzluk eder. 
-Bazı arayüz tasarımcıları prototiplendirme işini kağıt üzerinde, bazıları ise bu iş için hazırlanmış programlarda yapar. &lt;/p&gt;
-
-&lt;p&gt;Bizler &lt;a href="http://www.mybalsamiq.com"&gt;Balsamiq&lt;/a&gt; uygulamasını kullanıyoruz. 
-Bu uygulama sayesinde kolay ve hızlı bir şekilde prototipler ve taslak çizimler oluşturabiliyoruz. 
-Bir web sayfasında ya da tasarımını yapacağımız uygulamada kullanılması muhtemel bütün tasarım elemanları 
-balsamiq çizim aracında hazır bulunuyor. Yapmamız gereken tek şey kullanacağımız elemanın rengini, boyutunu ve yerleşim 
-düzenini ayarlamak oluyor. Şimdi balsamiq uygulamasının özelliklerine bir bakalım.&lt;/p&gt;
-
-&lt;h2 id="Özellikleri"&gt;Özellikleri&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Component kısmında tasarım için gereken elemanların bir çoğu hazır bir şekilde kullanılmayı bekliyor. 
-Ama bunlar yeterli gelmediyse kendi tasarımlarımızı tasarıma dahil edebiliyoruz. 
-&lt;img alt="Balsamiq Application" src="assets/images/articles/2014-06-06-balsamiq-app/balsamiq5.jpg" /&gt;&lt;/li&gt;
-&lt;li&gt;Farklı component&amp;#39;ler için farklı özellikler karşımıza çıkıyor. Her component&amp;#39;te karşımıza çıkan ortak özellikler ise gruplama, 
-sembole çevirme, kopyalama, geri alma, konum ve boyutlandırma ayarları. Yaptığımız her çalışmayı sembole çevirebilir ve 
-diğer mockup&amp;#39;larda da kolaylıkla kullanabiliriz. 
-&lt;img alt="Balsamiq Application" src="assets/images/articles/2014-06-06-balsamiq-app/balsamiq6.jpg" /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ayrıca;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Oluşturulan mockup‘ lara yorum bırakabilirsiniz.&lt;/li&gt;
-&lt;li&gt;Birden fazla kullanıci ile aynı projede ortak çalışma yürütebilirsiniz.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="versiyonlama:"&gt;Versiyonlama:&lt;/h3&gt;
-
-&lt;p&gt;Proje üzerinde çalışırken kaydettiğimiz her değişiklik geri alınabiliyor. Diyelim ki 3 hafta öncesinin çalışmasına geri 
-dönmek istiyoruz, yapacağımız şey dosyayı geri almak veya klonlayıp üzerinden devam etmek olacaktır.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Balsamiq Application" src="assets/images/articles/2014-06-06-balsamiq-app/balsamiq1.jpg" /&gt;&lt;/p&gt;
-
-&lt;h3 id="bmml-(balsamiq-mockups-markup-language)-dosya-uzantılı-ürün-çıktısı:"&gt;BMML (Balsamiq Mockups Markup Language) dosya uzantılı ürün çıktısı:&lt;/h3&gt;
-
-&lt;p&gt;Program, çizimi yapılan çalışmanın çıktısını &lt;code&gt;.bmml&lt;/code&gt; formatında, indirilmeye hazır bir şekilde bekliyor. 
-Aynı projede yer almadığınız bir kişiye indirdiğiniz &lt;code&gt;bmml&lt;/code&gt; dosyasını göndermeniz yeterli. 
-Upload edip üzerinde değişiklik yapabilecektir. İstersek &lt;code&gt;pdf&lt;/code&gt; formatlı olarak da dosyayı indirebiliyoruz.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Balsamiq Application" src="assets/images/articles/2014-06-06-balsamiq-app/balsamiq2.jpg" /&gt;&lt;/p&gt;
-
-&lt;h3 id="proje-üzerinde-çoklu-çalışma-ortamı;"&gt;Proje üzerinde çoklu çalışma ortamı;&lt;/h3&gt;
-
-&lt;p&gt;Oluşturduğunuz projeye kişileri dahil edip, aynı anda farklı mockup’ larda çalışabiliyoruz.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Balsamiq Application" src="assets/images/articles/2014-06-06-balsamiq-app/balsamiq3.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;Program arayüz tasarlamak için son derece kolay ve kullanışlı. 
-Sizde kısa sürede öğrenip kullanacağınız bir arayüz oluşturma programı arıyorsanız&lt;br&gt;
-&lt;a href="http://www.mybalsamiq.com"&gt;balsamiq&lt;/a&gt; adresinizi ziyaret edebilir ve bir aylık deneme sürümününden yararlanabilirsiniz.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Ubuntu'da Screen Kullanımı</title>
-    <link rel="alternate" href="http://lab2023.com/ubuntu-da-screen-kullanimi.html"/>
-    <id>http://lab2023.com/ubuntu-da-screen-kullanimi.html</id>
-    <published>2014-06-20T03:00:00+03:00</published>
-    <updated>2014-07-15T08:56:13+03:00</updated>
-    <author>
-      <name>lab2023</name>
-    </author>
-    <content type="html">&lt;p&gt;Sunucunuza ssh ile bağlanarak çalıştırdığınız bir komutun tamamlanması saatler sürebilir, bu sürede ssh bağlantınız 
-kapansa bile işlemin devam etmesini istiyorsanız Screen uygulamasını kullanabilirsiniz. Screen aslında terminal 
-çoğullayıcı uygulaması. Farklı session&amp;#39;lara sahip birden fazla terminal ekranını yönetmek için kullanılmakta.&lt;/p&gt;
-
-&lt;p&gt;Ubuntu&amp;#39;da screen&amp;#39;i kullanmaya başlamak için terminal üzerinde&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;    screen -v
-&lt;/pre&gt;
-&lt;p&gt;komutunu çalıştıralım, bu komut screen komutu yüklüyse, yüklü komutun versiyonunu verir.
-Komutun bulunamadı ile ilgili bir hata mesajı alırsanız screen komutunu yüklemek için:&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;sudo apt-get install screen
-&lt;/pre&gt;
-&lt;p&gt;komutunu kullanabilirsiniz. Kurulum tamamlandıktan sonra&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;    screen
-&lt;/pre&gt;
-&lt;p&gt;komutu ile screen uygulamamızı başlatabiliriz.&lt;/p&gt;
-
-&lt;h3 id="başlıca-komutlar"&gt;Başlıca komutlar&lt;/h3&gt;
-
-&lt;p&gt;Screen üzerinde yapacağımız işlemleri&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;    ctrl+ a &lt;span class="nb"&gt;command&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;şeklinde gerçekleştiriyoruz.Bu komutla screen komut arayüzüne geçiş yapmış oluyoruz.Burada dikkat edilmesi gereken 
-ctrl ve a tuşlarına aynı anda bastıktan sonra komut kısayoluna basarken elinizi ctrl&amp;#39;den çekmenizdir.&lt;/p&gt;
-
-&lt;p&gt;tüm komut listesine&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;    ctrl+ a ?
-&lt;/pre&gt;
-&lt;p&gt;ile ulaşabilirsiniz.&lt;/p&gt;
-&lt;pre class="highlight text"&gt;                       Screen key bindings, page 1 of 2.
-
-                       Command key:  ^A   Literal ^A:  a
-
-  break       ^B b         license     ,            removebuf   =
-  clear       C            lockscreen  ^X x         reset       Z
-  colon       :            log         H            screen      ^C c
-  copy        ^[ [         login       L            select      &amp;#39;
-  detach      ^D d         meta        a            silence     _
-  digraph     ^V           monitor     M            split       S
-  displays    *            next        ^@ ^N sp n   suspend     ^Z z
-  dumptermcap .            number      N            time        ^T t
-  fit         F            only        Q            title       A
-  flow        ^F f         other       ^A           vbell       ^G
-  focus       ^I           pow_break   B            version     v
-  hardcopy    h            pow_detach  D            width       W
-  help        ?            prev        ^H ^P p ^?   windows     ^W w
-  history     { }          quit        \            wrap        ^R r
-  info        i            readbuf     &amp;lt;            writebuf    &amp;gt;
-  kill        K k          redisplay   ^L l         xoff        ^S s
-  lastmsg     ^M m         remove      X            xon         ^Q q
-
-
-                  [Press Space for next page; Return to end.]
-&lt;/pre&gt;
-&lt;p&gt;verdiğiniz bir komutu çalıştırmaya devam ederken ana ekrana dönmek için&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;ctrl-a d
-&lt;/pre&gt;
-&lt;p&gt;yani detach komutunu kullanabilirsiniz.&lt;/p&gt;
-
-&lt;p&gt;Örnek olarak screen ile açtığınız ekranda &lt;code&gt;top&lt;/code&gt; komutunu çalıştıralım. Ardından;&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;ctrl-a d
-&lt;/pre&gt;
-&lt;p&gt;tuş kombinasyonu ile ana oturuma dönelim. Detach ettiğimiz oturuma tekrardan erişmek için:&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;    screen -ls
-&lt;/pre&gt;
-&lt;p&gt;komutu ile çalışır haldeki oturumları ve id&amp;#39;lerini görebilirsiniz&lt;/p&gt;
-&lt;pre class="highlight text"&gt;    There are screens on:
-        2667.pts-0.turkukaya    (06/06/2014 05:02:46 AM)    (Detached)
-        2361.pts-0.turkukaya    (06/06/2014 04:53:20 AM)    (Detached)
-    2 Sockets in /var/run/screen/S-deployer.
-&lt;/pre&gt;
-&lt;p&gt;ardından,&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;   screen -r process_id
-&lt;/pre&gt;
-&lt;p&gt;komutu ile tekrardan oturumunuza erişebilirsiniz. Giriş yaptığınızda, &lt;code&gt;top&lt;/code&gt; komutunun hala çalışmaya devam ettiğini 
-görebilirsiniz.&lt;/p&gt;
-
-&lt;p&gt;Oturumu tamamen sonlandırmak için ise;&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;    ctrl-a k
-&lt;/pre&gt;
-&lt;p&gt;komutunu kullanabilirsiniz. (Onayladıktan sonra o oturumu tekrar geri çağıramazsınız).&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Rails' de Elasticsearch Kullanımı</title>
-    <link rel="alternate" href="http://lab2023.com/railsde-elasticsearch-kullanimi.html"/>
-    <id>http://lab2023.com/railsde-elasticsearch-kullanimi.html</id>
-    <published>2014-06-13T03:00:00+03:00</published>
-    <updated>2014-07-15T08:56:13+03:00</updated>
-    <author>
-      <name>lab2023</name>
-    </author>
-    <content type="html">&lt;p&gt;Rails web uygulamalarında içerik araması temel olarak oldukça kolay olsa da, tam metin araması (full text search) gerektiği zaman uygun bir çözüm bulmak zor oluyor. Bu yazıda, &lt;strong&gt;full text search&lt;/strong&gt; konusunda en bilindik ve başarılı çözümlerden birisi olan &lt;a href="http://www.elasticsearch.org/"&gt;Elasticsearch&lt;/a&gt; yazılımını, Rails uygulamanıza nasıl entegre edebileceğinizi anlatacağım.&lt;/p&gt;
-
-&lt;p&gt;Başlamadan önce şöyle bir açıklama yapmak lazım ki, Elasticsearch bir gem değil, apayrı bir yazılım. Hatta buna arama motoru demek çok da yanlış olmaz. Öncelikle Elasticsearch yazılımını ayrı bir şekilde kuracağız ve onunla etkileşime geçmesi için de bir bağdaştırıcı (adapter) gemi kullanacağız.&lt;/p&gt;
-
-&lt;p&gt;Başlamak için Elasticsearch yazılımını kuralım. İsteğe bağlı olarak GNU/Linux dağıtımınızın deposundan (bir çok popüler dağıtımda mevcut) aratıp kurabilirsiniz. Bunun dışında Mac OS X kullanıyorsanız aşağıdaki komutlar ile hızlıca kurup, kullanmaya başlayabilirsiniz:&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;brew install elasticsearch
-&lt;span class="gp"&gt;$ &lt;/span&gt;elasticsearch -D es.config&lt;span class="o"&gt;=&lt;/span&gt;/usr/local/opt/elasticsearch/config/elasticsearch.yml
-&lt;/pre&gt;
-&lt;p&gt;Ancak ben bu yazıda, daha genel ve esnek olmasından dolayı indirip elle çalıştırma yöntemini kullanacağım. Aşağıdaki siteye girelim ve arşivlenmiş bir sürümünü indirerek başlayalım:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://www.elasticsearch.org/overview/elkdownloads/"&gt;http://www.elasticsearch.org/overview/elkdownloads/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;ZIP veya TAR olarak indirdiğiniz paketi açın ve terminalinizden, açılan paketin klasörüne girin. Ardından çalıştırmak için şu komutu verin: (&lt;strong&gt;Önemli:&lt;/strong&gt; Elasticsearch&amp;#39;ü çalıştırmak için sisteminizde &lt;a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp"&gt;JDK&lt;/a&gt;&amp;lsquo;nın en az 6.0 sürümü &lt;a href="http://www.elasticsearch.org/guide/en/elasticsearch/hadoop/current/requirements.html#requirements-jdk"&gt;bulunmalı&lt;/a&gt;.)&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;./bin/elasticsearch
-&lt;/pre&gt;
-&lt;p&gt;Sistemin çalışıp çalışmadığını test etmek için, ufak bir HTTP isteği yapalım. Başka bir terminal oturumundan şu komutu verin:&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;curl -X GET http://localhost:9200/
-&lt;/pre&gt;
-&lt;p&gt;Eğer hiçbir sıkıntı yoksa, şuna benzeyen bir JSON verisi cevap olarak dönecek:&lt;/p&gt;
-&lt;pre class="highlight json"&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;
-  &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;status&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;200&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;
-  &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;name&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Emplate&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;
-  &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;version&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;
-    &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;number&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;1.2.0&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;
-    &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;build_hash&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;c82387f290c21505f781c695f365d0ef4098b272&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;
-    &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;build_timestamp&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;2014-05-22T12:49:13Z&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;
-    &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;build_snapshot&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kc"&gt;false&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt;
-    &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;lucene_version&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;4.8&amp;quot;&lt;/span&gt;&lt;span class="w"&gt;
-  &lt;/span&gt;&lt;span class="p"&gt;},&lt;/span&gt;&lt;span class="w"&gt;
-  &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;tagline&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;You Know, for Search&amp;quot;&lt;/span&gt;&lt;span class="w"&gt;
-&lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;
-&lt;/span&gt;&lt;/pre&gt;
-&lt;p&gt;Şimdi sıra geldi uygulamayı Rails ile bütünleştirmeye. Bunun için &lt;strong&gt;elasticsearch-model&lt;/strong&gt; ve &lt;strong&gt;elasticsearch-rails&lt;/strong&gt; &lt;a href="https://github.com/elasticsearch/elasticsearch-rails"&gt;gemlerini&lt;/a&gt; kullanacağız. Biraz bahsetmek gerekirse: &lt;strong&gt;elasticsearch-model&lt;/strong&gt; gemi, Elasticsearch arama motoru ile etkileşime geçen bağdaştırıcı (adapter) kütüphanedir. Bunun dışında diğer gem olan &lt;strong&gt;elasticsearch-rails&lt;/strong&gt; ise Rails&amp;#39;de kullanımı kolaylaştırmak için ekstra araçlara (Rake görevleri vs.) sahiptir.&lt;/p&gt;
-
-&lt;p&gt;Kullanmaya başlamak için uygulamanızın &lt;strong&gt;Gemfile&lt;/strong&gt; dosyasına şu iki satırı ekleyin:&lt;/p&gt;
-&lt;pre class="highlight ruby"&gt;&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;elasticsearch-model&amp;#39;&lt;/span&gt;
-&lt;span class="n"&gt;gem&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;elasticsearch-rails&amp;#39;&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Ardından gemleri yükleyin:&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;bundle install
-&lt;/pre&gt;
-&lt;p&gt;Bundan sonrasında yapmanız gereken tek şey, ihtiyaç duyduğunuz modellere şu satırları eklemek. Örnek bir model ile gösteriyorum:&lt;/p&gt;
-&lt;pre class="highlight ruby"&gt;&lt;span class="k"&gt;class &lt;/span&gt;&lt;span class="nc"&gt;Product&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&lt;/span&gt; &lt;span class="no"&gt;ActiveRecord&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="no"&gt;Base&lt;/span&gt;
-  &lt;span class="kp"&gt;include&lt;/span&gt; &lt;span class="no"&gt;Elasticsearch&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="no"&gt;Model&lt;/span&gt;
-  &lt;span class="kp"&gt;include&lt;/span&gt; &lt;span class="no"&gt;Elasticsearch&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="no"&gt;Model&lt;/span&gt;&lt;span class="o"&gt;::&lt;/span&gt;&lt;span class="no"&gt;Callbacks&lt;/span&gt;
-&lt;span class="k"&gt;end&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Ve kullanmaya başlayabiliriz. Test etmek için Rails konsoluna girelim:&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;rails c
-&lt;/pre&gt;&lt;pre class="highlight ruby"&gt;&lt;span class="vi"&gt;@products&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="no"&gt;Product&lt;/span&gt;&lt;span class="nf"&gt;.search&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;foo bar&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="nf"&gt;.records&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Bu şekilde modeller üstünden full text search araması yapılabilmekte. &lt;strong&gt;search&lt;/strong&gt; metotundan sonra kullandığımız &lt;strong&gt;records&lt;/strong&gt; metotu da, bunu normal bir ActiveRecord sorgu sonucu olarak kullanabilmemizi sağlıyor. Bu sayede, bunu kontrolcüde de kullanıp, verileri sıkıntısız bir şekilde görünüm (view) katmanına taşıyarak kullanabilirsiniz.&lt;/p&gt;
-
-&lt;p&gt;Ekstra olarak, eğer &lt;strong&gt;elasticsearch-rails&lt;/strong&gt; geminden gelen Rake görevlerini (task) kullanmak isterseniz, uygulamanızın Rakefile dosyasının başına şunu ekleyin:&lt;/p&gt;
-&lt;pre class="highlight ruby"&gt;&lt;span class="nb"&gt;require&lt;/span&gt; &lt;span class="s1"&gt;&amp;#39;elasticsearch/rails/tasks/import&amp;#39;&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Ardından eski kayıtların Elasticsearch tarafından import edilmesi için de şu komutu verin:&lt;/p&gt;
-&lt;pre class="highlight shell"&gt;bundle &lt;span class="nb"&gt;exec &lt;/span&gt;rake environment elasticsearch:import:all
-&lt;/pre&gt;
-&lt;p&gt;Aynı işi, Rails konsolundan şu şekilde de yapmanız mümkün:&lt;/p&gt;
-&lt;pre class="highlight ruby"&gt;&lt;span class="no"&gt;Product&lt;/span&gt;&lt;span class="nf"&gt;.import&lt;/span&gt;
-&lt;/pre&gt;</content>
-  </entry>
-  <entry>
-    <title>Android Temelleri</title>
-    <link rel="alternate" href="http://lab2023.com/android-temelleri.html"/>
-    <id>http://lab2023.com/android-temelleri.html</id>
-    <published>2014-06-13T03:00:00+03:00</published>
-    <updated>2014-07-15T08:56:13+03:00</updated>
-    <author>
-      <name>lab2023</name>
-    </author>
-    <content type="html">&lt;p&gt;Merhabalar, Java ile Android uygulamaları temelleri hakkında bir giriş yapmak istiyorum. Bunun için işletim sisteminize uygun JDK ve Android SDK&amp;#39; yı indirmeniz gerekmektedir.
-Windows ve Mac OSX için JDK ve JRE&amp;#39; yi &lt;a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html?ssSourceSiteId=otnjp"&gt;buradan&lt;/a&gt; indirebilirsiniz.&lt;/p&gt;
-
-&lt;p&gt;Ubuntu veya Linux Mint için ise:&lt;/p&gt;
-&lt;pre class="highlight text"&gt;    sudo apt-get install python-software-properties
-
-    sudo add-apt-repository ppa:webupd8team/java
-
-    sudo apt-get update
-
-    sudo apt-get install oracle-java8-installer
-&lt;/pre&gt;
-&lt;p&gt;komutlarını kullanabilirsiniz.&lt;/p&gt;
-
-&lt;p&gt;Kurulumun ardından Android SDK&amp;#39; yı ve IDE&amp;#39; mizi indirmemiz gerekmekte. &lt;a href="http://developer.android.com/SDK/index.html"&gt;Buradan&lt;/a&gt; Eclipse ile Android SDK&amp;#39; yı indirebiliriz.
-İsterseniz Eclipse yerine &lt;a href="http://www.jetbrains.com/idea/"&gt;IntelliJIdea&lt;/a&gt; tabanlı &lt;a href="http://developer.android.com/SDK/installing/studio.html"&gt;Android Studio&lt;/a&gt;&amp;lsquo; yu da deneyebilirsiniz,
-fakat hala alpha aşamasında olduğu için ben tercih etmiyorum.&lt;/p&gt;
-
-&lt;h2 id="eclipse"&gt;Eclipse&lt;/h2&gt;
-
-&lt;p&gt;&lt;img alt="eclipse" width="750" height="467" src="assets/images/articles/2014-05-09-android-temelleri/eclipse.png" /&gt;&lt;/p&gt;
-
-&lt;p&gt;Eclipse&amp;rsquo; i açtığımızda sol üstte işaretli 2 ikonumuzu göreceğiz. Bunlardan soldaki Android SDK Manager, yani farklı versiyonlar için Android SDK yüklemeleri yapabileceğimiz kısımdır.
-Sağ taraftaki ise Android Virtual Device Manager&amp;#39; dır. Burada da emulatör ile Android bir cihaz oluşturup, testlerimizi onun içinde yapabiliriz.
-Fakat maalesef bu araç çok yavaş olduğu için GenyMotion adlı 3. parti emulatörü kullanmanızı öneririm. Standart özellikleri ücretsiz gelmektedir ve standart emülatöre
-göre çok daha hızlıdır. (Tabii ki en iyi sonucu gerçek bir cihaz üzerinden alırsınız). GenyMotion&amp;#39; ı &lt;a href="https://cloud.genymotion.com/page/customer/login/?next=/"&gt;buradan&lt;/a&gt; üye olduktan sonra
-indirebilirsiniz.&lt;/p&gt;
-
-&lt;h2 id="İlk-uygulamayı-oluşturma"&gt;İlk uygulamayı oluşturma&lt;/h2&gt;
-
-&lt;p&gt;İlk Android uygulamamızı oluşturmak için File &amp;gt; New &amp;gt; Android Application Project seçiyoruz.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="New App" width="750" height="498" src="assets/images/articles/2014-05-09-android-temelleri/newapp.png" /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sonrasında uygulamamız için gerekli bilgileri giriyoruz.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Naming" width="647" height="537" src="assets/images/articles/2014-05-09-android-temelleri/naming.png" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Application name:&lt;/strong&gt;&lt;/em&gt; Play Store&amp;#39; da gözükecek uygulama adıdır&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Package name:&lt;/strong&gt;&lt;/em&gt; Class&amp;#39; larımızı tutacak genel paket adıdır. Genellikle &amp;lsquo;com.sirket_adi.uygulama_adi&amp;rsquo; olarak belirlenir.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Minimum Required SDK&lt;/strong&gt;&lt;/em&gt; ve &lt;em&gt;&lt;strong&gt;Target SDK&lt;/strong&gt;&lt;/em&gt;, uygulamamızın Android&amp;#39; in hangi sürümlerinde çalışacağını belirtir. Target SDK, en son çıkan SDK seçilmelidir.&lt;/p&gt;
-
-&lt;p&gt;Sonraki pencerelerde varsayılan değerler korunarak proje oluşturma işlemi tamamlanır.&lt;/p&gt;
-
-&lt;h2 id="klasörler"&gt;Klasörler&lt;/h2&gt;
-
-&lt;p&gt;&lt;img alt="Folders" width="224" height="474" src="assets/images/articles/2014-05-09-android-temelleri/folders.png" /&gt;&lt;/p&gt;
-
-&lt;p&gt;İlk uygulamamızı oluşturduk ve resimdeki gibi klasörler karşımıza geldi. Burada haşır neşir olacağımız kısımlar,
-&lt;em&gt;&lt;strong&gt;SRC&lt;/strong&gt;&lt;/em&gt; ve &lt;em&gt;&lt;strong&gt;RES&lt;/strong&gt;&lt;/em&gt; klasörleridir. Genel olarak klasörlerin görevleri şunlardır:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Gen&lt;/strong&gt;&lt;/em&gt;, hiçbir zaman müdahale etmemeniz gereken, Android&amp;#39; in kendi değişkenlerini adresleyip, değişkenler halinde tuttuğu class&amp;#39; ları içeren klasördür.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Bin&lt;/strong&gt;&lt;/em&gt;, derlenmiş class&amp;#39; larımızı ve çalıştırılabilir apk dosyamızı içeren klasördür.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Libs&lt;/strong&gt;&lt;/em&gt;, uygulamaya dahil edilen kütüphaneler bu klasördedir. (Android SDK gibi)&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;RES&lt;/strong&gt;&lt;/em&gt;, asset&amp;#39; lerimizi tutmak içindir (resimler, arayüz dosyalarımız, rakamsal veya string değerlerimiz vs.)&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Drawable&lt;/strong&gt;&lt;/em&gt;, resimlerimizin, stil dosyalarımızın bulunacağı klasördür. Yanlarındaki hdpi, ldpi, mpdi, xhdpi ise ekran boyutlarını belirtir. Bu şekilde uygulamaya özel arayüz tasarlayabilirsiniz.
-Örneğin 10&lt;q&gt;bir tabletteki resmin boyutu ve çözünürlüğü 3&lt;/q&gt; bir telefondakinden büyük olmalıdır. Bunları burada ayarlayabilirsiniz.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Layout&lt;/strong&gt;&lt;/em&gt;, arayüz xml&amp;#39; lerini saklayan klasördür. Bu klasörün yanına istediğiniz gibi &lt;em&gt;layout_hdpi&lt;/em&gt;, &lt;em&gt;layout_ldpi&lt;/em&gt; gibi klasörler ekleyerek arayüzleri özelleştirebilirsiniz.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Menu&lt;/strong&gt;&lt;/em&gt;, uygulamanızda görünecek menüleri tutan klasördür&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Values&lt;/strong&gt;&lt;/em&gt;, uygulama içerisinde kullanacağımız değerleri tutacağımız klasördür. Arayüzdeki margin değerlerinden buton text&amp;#39; lerine kadar herşeyi burada tutabilirsiniz.
-values-en, values-tr şeklinde klasörlerle sadece içerisindeki değerleri değiştirerek telefonun diline göre uygulamanın dilini değiştirebilirsiniz.&lt;/p&gt;
-
-&lt;p&gt;Bunların dışında içli dışlı olacağımız bir başka dosya, &lt;em&gt;&lt;strong&gt;AndroidManifest.xml&lt;/strong&gt;&lt;/em&gt; dosyasıdır. Bu dosya içerisinde uygulama ayarlarımız, izinlerimiz, aktivitelerimiz gibi bilgiler
-bulunmaktadır.&lt;/p&gt;
-
-&lt;p&gt;Bu bilgilerin ardından gelelim layout klasörümüze:&lt;/p&gt;
-
-&lt;p&gt;Layout klasörünün içine girdiğimiz zaman 2 adet dosya oluştuğunu görüyoruz. &lt;em&gt;&lt;strong&gt;activity_main.xml&lt;/strong&gt;&lt;/em&gt; ve &lt;em&gt;&lt;strong&gt;fragment_main.xml&lt;/strong&gt;&lt;/em&gt; bunlar arayüz dosyalarımızdır.
-(Eski SDK&amp;#39; ya sahip olan kullanıcılarda sadece activity_main.xml olacaktır.) Ne işe yaradıklarını açıklayalım. Android&amp;#39; de bir çok ekran sistemi vardır. Bunlara &lt;em&gt;&lt;strong&gt;Activity&lt;/strong&gt;&lt;/em&gt; denir. Uygulamada işlem
-yaptığınız her ekranı bir activity olarak düşünebilirsiniz. Bunun yanısıra API 11(Android 3.0)&amp;lsquo; den sonra Fragment yapısı ek olarak getirildi. Bunu da Activity içerisinde çalışan bir
-arayüz ya da bir işlemi temsil eden küçük activity parçaları olarak düşünebiliriz. Bir container activity içerisinde birden fragment&amp;rsquo; leri tetikleterek çağırmak, hem performans, hem de
-tekrar kullanılabilirlik açısından daha verimlidir. Tabi fragment&amp;#39; ler de activity&amp;#39; den bağımsız değildir. Onların yaşam döngüleri de onu içeren aktiviteye bağlıdır. Activity kapandığı
-zaman içerdiği fragment de kapanır.&lt;/p&gt;
-
-&lt;p&gt;Bu kısa ön bilgiden sonra tahmin edebileceğiniz gibi activity_main.xml, fragment&amp;#39; i tutacak container activity arayüzü iken; fragment_main.xml ise, içerisinde çalıştırılacak
-fragment arayüzüdür.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Activity" width="750" height="471" src="assets/images/articles/2014-05-09-android-temelleri/newactivity.png" /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Activity" width="750" height="458" src="assets/images/articles/2014-05-09-android-temelleri/newfragment.png" /&gt;&lt;/p&gt;
-
-&lt;p&gt;Layout görünümü içerisinde arayüzü 2 farklı şekilde görüntüleyebiliriz.
-&lt;em&gt;&lt;strong&gt;Graphical Layout&lt;/strong&gt;&lt;/em&gt;: Arayüzün olduğu gibi gösterildiği, bileşenlerin sürükle bırak ile eklenebileceği grafik arayüzüdür.
-&lt;em&gt;&lt;strong&gt;XML Editör&lt;/strong&gt;&lt;/em&gt;: XML dosyasını manuel olarak oluşturabileceğiniz editördür&lt;/p&gt;
-
-&lt;p&gt;Not: Düzenlemeler için xml&amp;#39; e eninde sonunda elle müdahale etmeniz gerekecektir. Arayüz aracı çok gelişmiş durumda değil.&lt;/p&gt;
-
-&lt;p&gt;XML dosyalarını arayüz altındaki &lt;em&gt;activity_main.xml&lt;/em&gt; ve &lt;em&gt;activity_fragment.xml&lt;/em&gt;&amp;lsquo; e tıklayarak açalım&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;activity_main.xml&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;pre class="highlight xml"&gt;    &lt;span class="nt"&gt;&amp;lt;FrameLayout&lt;/span&gt; &lt;span class="na"&gt;xmlns:android=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://schemas.android.com/apk/res/android&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;xmlns:tools=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://schemas.android.com/tools&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;android:id=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;@+id/container&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;android:layout_width=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;match_parent&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;android:layout_height=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;match_parent&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;tools:context=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;com.htk.firstapp.MainActivity&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;tools:ignore=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;MergeRootFrame&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Burada, sadece pencere olacağını belirten FrameLayout olarak id&amp;rsquo; si container olan bir arayüz elementi oluşturulduğunu görüyoruz.
-Fragment&amp;#39; imizdeki içerik bu FrameLayout&amp;#39; un içerisine eklenecektir.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;fragment_main.xml&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;pre class="highlight xml"&gt;    &lt;span class="nt"&gt;&amp;lt;RelativeLayout&lt;/span&gt; &lt;span class="na"&gt;xmlns:android=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://schemas.android.com/apk/res/android&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;xmlns:tools=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;http://schemas.android.com/tools&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;android:layout_width=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;match_parent&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;android:layout_height=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;match_parent&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;android:paddingBottom=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;@dimen/activity_vertical_margin&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;android:paddingLeft=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;@dimen/activity_horizontal_margin&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;android:paddingRight=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;@dimen/activity_horizontal_margin&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;android:paddingTop=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;@dimen/activity_vertical_margin&amp;quot;&lt;/span&gt;
-        &lt;span class="na"&gt;tools:context=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;com.htk.firstapp.MainActivity$PlaceholderFragment&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
-
-        &lt;span class="nt"&gt;&amp;lt;TextView&lt;/span&gt;
-            &lt;span class="na"&gt;android:layout_width=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;wrap_content&amp;quot;&lt;/span&gt;
-            &lt;span class="na"&gt;android:layout_height=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;wrap_content&amp;quot;&lt;/span&gt;
-            &lt;span class="na"&gt;android:text=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;@string/hello_world&amp;quot;&lt;/span&gt; &lt;span class="nt"&gt;/&amp;gt;&lt;/span&gt;
-
-    &lt;span class="nt"&gt;&amp;lt;/RelativeLayout&amp;gt;&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Burada da, içerisinde bir adet TextView bulunan RelativeLayout tanımlanmıştır. Layoutlar içerisinde en çok kullanılan 2 tip layout vardır. Relative ve Linear Layout; isimlerinden de anlaşılabileceği
-gibi RelativeLayout, içerisindeki elemanları birbirlerine göre uzaklığı, konumu gibi bilgiler ile yerleşim yaparken, LinearLayout ise, yatay veya dikey olarak elemanları yerleştirir.
-Layoutlar iç içe kullanılabilir.&lt;/p&gt;
-
-&lt;p&gt;TextView&amp;#39; ımız ise uygulamamızın içerisinde düz metin göstermek için kullanabileceğimiz label&amp;#39; lardır. text değerine &lt;em&gt;&lt;q&gt;@string/hello_world&lt;/q&gt;&lt;/em&gt; değeri atanmıştır. Bu da bu içeriğin
-&lt;em&gt;&lt;q&gt;res/values/strings.xml&lt;/q&gt;&lt;/em&gt; dosyası içerisinde tutulduğunu belirtir. Layout içerisindeki yazıları &lt;em&gt;strings.xml&lt;/em&gt; dosyasında tutmak best practice olarak önerilmektedir.&lt;/p&gt;
-&lt;pre class="highlight xml"&gt;    &lt;span class="cp"&gt;&amp;lt;?xml version=&amp;quot;1.0&amp;quot; encoding=&amp;quot;utf-8&amp;quot;?&amp;gt;&lt;/span&gt;
-    &lt;span class="nt"&gt;&amp;lt;resources&amp;gt;&lt;/span&gt;
-
-        &lt;span class="nt"&gt;&amp;lt;string&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;app_name&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;FirstApp&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
-        &lt;span class="nt"&gt;&amp;lt;string&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;hello_world&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Hello world!&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
-        &lt;span class="nt"&gt;&amp;lt;string&lt;/span&gt; &lt;span class="na"&gt;name=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;action_settings&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Settings&lt;span class="nt"&gt;&amp;lt;/string&amp;gt;&lt;/span&gt;
-
-    &lt;span class="nt"&gt;&amp;lt;/resources&amp;gt;&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Not: String&amp;#39; ler, id&amp;#39; ler otomatik olarak adreslenip &lt;em&gt;&lt;q&gt;Gen/R.class&lt;/q&gt;&lt;/em&gt; içerisine yazılmaktadır. Bu nedenle aynı string adı ve id&amp;#39; ler farklı xml dosyalarında kullanılsa bile eşsiz olmalıdır.
-Mesela yukarıdaki xml&amp;#39; lere bakarak id&amp;#39; si container olan başka bir component veya adı &lt;em&gt;hello_world&lt;/em&gt; olan başka bir string oluşturmamız hatalara neden olacaktır.&lt;/p&gt;
-
-&lt;p&gt;Arayüz dosyalarımızı inceledikten sonra gelelim asıl kodlarımızın bulunduğu Java Class&amp;#39; ımıza.&lt;/p&gt;
-
-&lt;p&gt;Class&amp;#39; ımızı &lt;em&gt;&lt;q&gt;src/paket_adi/MainActivity.class&lt;/q&gt;&lt;/em&gt; dosyasına tıklayarak açıyoruz.&lt;/p&gt;
-&lt;pre class="highlight java"&gt;    &lt;span class="kn"&gt;package&lt;/span&gt; &lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;htk&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;firstapp&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
-
-    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.support.v7.app.ActionBarActivity&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
-    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.support.v4.app.Fragment&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
-    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.os.Bundle&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
-    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.view.LayoutInflater&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
-    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.view.Menu&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
-    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.view.MenuItem&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
-    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.view.View&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
-    &lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;android.view.ViewGroup&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
-
-    &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kd"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;MainActivity&lt;/span&gt; &lt;span class="kd"&gt;extends&lt;/span&gt; &lt;span class="n"&gt;ActionBarActivity&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
-
-        &lt;span class="nd"&gt;@Override&lt;/span&gt;
-        &lt;span class="kd"&gt;protected&lt;/span&gt; &lt;span class="kt"&gt;void&lt;/span&gt; &lt;span class="n"&gt;onCreate&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Bundle&lt;/span&gt; &lt;span class="n"&gt;savedInstanceState&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
-            &lt;span class="kd"&gt;super&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;onCreate&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;savedInstanceState&lt;/span&gt;&lt;span class="o"&gt;);&lt;/span&gt;
-            &lt;span class="n"&gt;setContentView&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;R&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;layout&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;activity_main&lt;/span&gt;&lt;span class="o"&gt;);&lt;/span&gt;
-
-            &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;savedInstanceState&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="kc"&gt;null&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
-                &lt;span class="n"&gt;getSupportFragmentManager&lt;/span&gt;&lt;span class="o"&gt;().&lt;/span&gt;&lt;span class="na"&gt;beginTransaction&lt;/span&gt;&lt;span class="o"&gt;()&lt;/span&gt;
-                        &lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;add&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;R&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;id&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;container&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="k"&gt;new&lt;/span&gt; &lt;span class="n"&gt;PlaceholderFragment&lt;/span&gt;&lt;span class="o"&gt;()).&lt;/span&gt;&lt;span class="na"&gt;commit&lt;/span&gt;&lt;span class="o"&gt;();&lt;/span&gt;
-            &lt;span class="o"&gt;}&lt;/span&gt;
-        &lt;span class="o"&gt;}&lt;/span&gt;
-
-        &lt;span class="nd"&gt;@Override&lt;/span&gt;
-        &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kt"&gt;boolean&lt;/span&gt; &lt;span class="n"&gt;onCreateOptionsMenu&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;Menu&lt;/span&gt; &lt;span class="n"&gt;menu&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
-
-            &lt;span class="c1"&gt;// Inflate the menu; this adds items to the action bar if it is present.&lt;/span&gt;
-            &lt;span class="n"&gt;getMenuInflater&lt;/span&gt;&lt;span class="o"&gt;().&lt;/span&gt;&lt;span class="na"&gt;inflate&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;R&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;menu&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;main&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;menu&lt;/span&gt;&lt;span class="o"&gt;);&lt;/span&gt;
-            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
-        &lt;span class="o"&gt;}&lt;/span&gt;
-
-        &lt;span class="nd"&gt;@Override&lt;/span&gt;
-        &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kt"&gt;boolean&lt;/span&gt; &lt;span class="n"&gt;onOptionsItemSelected&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;MenuItem&lt;/span&gt; &lt;span class="n"&gt;item&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
-            &lt;span class="c1"&gt;// Handle action bar item clicks here. The action bar will&lt;/span&gt;
-            &lt;span class="c1"&gt;// automatically handle clicks on the Home/Up button, so long&lt;/span&gt;
-            &lt;span class="c1"&gt;// as you specify a parent activity in AndroidManifest.xml.&lt;/span&gt;
-            &lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="n"&gt;id&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;item&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;getItemId&lt;/span&gt;&lt;span class="o"&gt;();&lt;/span&gt;
-            &lt;span class="k"&gt;if&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;id&lt;/span&gt; &lt;span class="o"&gt;==&lt;/span&gt; &lt;span class="n"&gt;R&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;id&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;action_settings&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
-                &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="kc"&gt;true&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
-            &lt;span class="o"&gt;}&lt;/span&gt;
-            &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="kd"&gt;super&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;onOptionsItemSelected&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;item&lt;/span&gt;&lt;span class="o"&gt;);&lt;/span&gt;
-        &lt;span class="o"&gt;}&lt;/span&gt;
-
-        &lt;span class="cm"&gt;/**
-         * A placeholder fragment containing a simple view.
-         */&lt;/span&gt;
-        &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="kd"&gt;static&lt;/span&gt; &lt;span class="kd"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;PlaceholderFragment&lt;/span&gt; &lt;span class="kd"&gt;extends&lt;/span&gt; &lt;span class="n"&gt;Fragment&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
-
-            &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="n"&gt;PlaceholderFragment&lt;/span&gt;&lt;span class="o"&gt;()&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
-            &lt;span class="o"&gt;}&lt;/span&gt;
-
-            &lt;span class="nd"&gt;@Override&lt;/span&gt;
-            &lt;span class="kd"&gt;public&lt;/span&gt; &lt;span class="n"&gt;View&lt;/span&gt; &lt;span class="n"&gt;onCreateView&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;LayoutInflater&lt;/span&gt; &lt;span class="n"&gt;inflater&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;ViewGroup&lt;/span&gt; &lt;span class="n"&gt;container&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt;
-                    &lt;span class="n"&gt;Bundle&lt;/span&gt; &lt;span class="n"&gt;savedInstanceState&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt; &lt;span class="o"&gt;{&lt;/span&gt;
-                &lt;span class="n"&gt;View&lt;/span&gt; &lt;span class="n"&gt;rootView&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;inflater&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;inflate&lt;/span&gt;&lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="n"&gt;R&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;layout&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="na"&gt;fragment_main&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="n"&gt;container&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt;
-                        &lt;span class="kc"&gt;false&lt;/span&gt;&lt;span class="o"&gt;);&lt;/span&gt;
-                &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;rootView&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
-            &lt;span class="o"&gt;}&lt;/span&gt;
-        &lt;span class="o"&gt;}&lt;/span&gt;
-    &lt;span class="o"&gt;}&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Kısaca buradaki eklenmiş fonksiyonların ne iş yaptığını anlatmaya çalışacağım. Görüldüğü gibi MainActivity class&amp;#39; ımız ActionBarActivity&amp;#39; den extend edilmiştir. Bu Activity&amp;#39; nin biraz
-daha özelleştirilmiş halidir. Detaylı bilgi ve diğer classları &lt;a href="http://developer.android.com/reference/android/app/Activity.html"&gt;buradan&lt;/a&gt; inceleyebirsiniz.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;onCreateOptionsMenu()&lt;/strong&gt;&lt;/em&gt; menü item&amp;#39; lerin hangi xml dosyasından alınacağını belirten fonksiyondur. (xml dosya ve componentlerin gen/R.class içerisine derlendiğini söylemiştik.
-O yüzden R.&lt;em&gt;tip&lt;/em&gt;.&lt;em&gt;ad&lt;/em&gt; şeklinde çağrılmaktadır).&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;onOptionsItemSelected()&lt;/strong&gt;&lt;/em&gt; menü içerisinden bir seçeneğe tıklandığı zaman tetiklenecek fonksiyondur. Hangi seçeneğe tıklandığı belirlenip gereken işlemler yaptırılabilir.&lt;/p&gt;
-
-&lt;p&gt;Gelelim en önemli fonksiyona&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;onCreate&lt;/strong&gt;&lt;/em&gt; fonksiyonu ise activity başlarken çalıştırılacak fonksiyondur. Bu fonksiyon activity yaşam döngüsü (Life Cycle) ile ilgilidir. Bunun yanısıra aşağıdaki fonksiyonları da
-ekleyip spesifik işlemler için kullanabilirsiniz.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;onStart ()&lt;/strong&gt;&lt;/em&gt; : Activity, kullanıcıya görünür hale geldiğinde çağrılır.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;onResume ()&lt;/strong&gt;&lt;/em&gt; : Activity, kullanıcıyla etkileşime başladığında çağrılır.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;onPause ()&lt;/strong&gt;&lt;/em&gt; : Mevcut Activity durdurulduğunda ve önceki Activity devam ettirildiğinde çağrılır.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;onStop ()&lt;/strong&gt;&lt;/em&gt; : Activity, kullanıcıya görünmez hale geldiğinde çağrılır.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;onDestroy ()&lt;/strong&gt;&lt;/em&gt; : Acitiviy, sistem tarafından yok edilmeden önce çağrılır.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;onRestart ()&lt;/strong&gt;&lt;/em&gt; : Activity durdurulduğunda ve yeniden başlatıldığında çağrılır.&lt;/p&gt;
-
-&lt;p&gt;Bunu da kısaca belirttikten sonra onCreate() fonksiyonunun içeriğini inceleyelim. setContentView() fonksiyonu ile kullanacağı layout dosyasını seçilmektedir. Sonrasında getSupportFragmentManager()
-ile fragment yaşam döngüsünü kontrol edebileceğimiz obje alınır. Transaction başlatıp içerisine add fonksiyonu ile fragment class&amp;#39; ımız olan PlaceHolder class&amp;#39; ında tanımlanmış fragment&amp;#39; i çağırmaktadır.
-Bu transaction&amp;#39; ı, commit() fonksiyonu ile çalıştırabiliriz.&lt;/p&gt;
-
-&lt;p&gt;Fragment Class&amp;#39; ımız olan &lt;em&gt;&lt;strong&gt;PlaceholderFragment&lt;/strong&gt;&lt;/em&gt;&amp;lsquo; in fonksiyonları da Activity fonksiyonları gibidir. Fragment içerisinde constructordan sonra ilk olarak onCreateView() fonksiyonu
-çalıştırılır. Bu fonksiyon içerisinde de fragment layout &lt;em&gt;&lt;strong&gt;LayoutInflater&lt;/strong&gt;&lt;/em&gt; objesi ile xml dosyamız view nesnesine dönüştürülir. Ardından ise oluşturulan view Activity&amp;#39;e döndürülür ve
-activity, bu fragment&amp;rsquo; i ekrana basar.&lt;/p&gt;
-
-&lt;p&gt;Artık temel yapıyı öğrendiğimize göre uygulamamızı çalıştırabiliriz. :)&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="First App" width="250" height="394" src="assets/images/articles/2014-05-09-android-temelleri/screenshot.png" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
