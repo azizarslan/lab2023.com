@@ -11,7 +11,7 @@
     <link rel="alternate" href="http://lab2023.com/how-we-created-bulutfon-animation.html"/>
     <id>http://lab2023.com/how-we-created-bulutfon-animation.html</id>
     <published>2014-12-17T02:00:00+02:00</published>
-    <updated>2014-12-17T09:45:04+02:00</updated>
+    <updated>2014-12-17T10:11:15+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -100,103 +100,103 @@ Here is a very short review with the main principles of making animation:&lt;/p&
 </content>
   </entry>
   <entry>
-    <title>Bulutfon animasyonunu nasıl hazırladık</title>
-    <link rel="alternate" href="http://lab2023.com/how-we-created-bulutfon-animation-turkish.html"/>
-    <id>http://lab2023.com/how-we-created-bulutfon-animation-turkish.html</id>
+    <title>Как создавалась анимация, посвященная "Bulutfon"</title>
+    <link rel="alternate" href="http://lab2023.com/how-we-created-bulutfon-animation-russian.html"/>
+    <id>http://lab2023.com/how-we-created-bulutfon-animation-russian.html</id>
     <published>2014-12-17T02:00:00+02:00</published>
-    <updated>2014-12-17T09:45:04+02:00</updated>
+    <updated>2014-12-17T11:21:41+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
-    <content type="html">&lt;p&gt;Bu makalede, animasyon oluşturma ile ilgili kısaca bilgi vermeye çalışacağım.&lt;/p&gt;
+    <content type="html">&lt;p&gt;В этой статье я расскажу вам о поэтапном создании рекламного ролика.&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;adım, bir hikaye oluşturulması&amp;hellip;&lt;/li&gt;
-&lt;li&gt;adım, bir ana karakter oluşturulması&amp;hellip;&lt;/li&gt;
-&lt;li&gt;adım, bir hikaye panosu oluşturulması&amp;hellip;&lt;/li&gt;
-&lt;li&gt;adım, ana karakterin bir kukla olarak, iskeletiyle birlikte animasyon programında oluşturulması&amp;hellip;&lt;/li&gt;
-&lt;li&gt;adım, animasyon için gerekli olan tüm nesnelerin oluşturulması&amp;hellip;&lt;/li&gt;
-&lt;li&gt;adım, bir animasyon oluşturulması&amp;hellip;&lt;/li&gt;
-&lt;li&gt;adım, ses efektlerinin oluşturulması&amp;hellip;&lt;/li&gt;
-&lt;li&gt;adım, arka plan müziğinin oluşturulması&amp;hellip;&lt;/li&gt;
-&lt;li&gt;adım, birleştirme işlemlerinin uygulanması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;этап – рождение сюжета;&lt;/li&gt;
+&lt;li&gt;этап – моделирование главного персонажа;&lt;/li&gt;
+&lt;li&gt;этап – создание комикса;&lt;/li&gt;
+&lt;li&gt;этап – превращение главного персонажа в марионетку при помощи «костей» в специальной анимационной программе;&lt;/li&gt;
+&lt;li&gt;этап – создание всех объектов, которые будут использованы при анимации;&lt;/li&gt;
+&lt;li&gt;этап – анимирование;&lt;/li&gt;
+&lt;li&gt;этап – озвучивание анимации;&lt;/li&gt;
+&lt;li&gt;этап – подборка музыки для фона;&lt;/li&gt;
+&lt;li&gt;этап – объединение анимации, музыки и озвучки.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id="1.-adım,-bir-hikaye-oluşturulması..."&gt;1. adım, bir hikaye oluşturulması&amp;hellip;&lt;/h3&gt;
+&lt;h3 id="1-этап-–-рождение-сюжета…"&gt;1 этап – рождение сюжета…&lt;/h3&gt;
 
-&lt;p&gt;Bu hikaye bize; Bulutfon ürünlerini anlatıyor; iş kurmayı kolaylaştırmak için Bulutfon&amp;#39;un müşterilere sunduğu fırsatları, sağladığı rahat kullanımlı servisleri açıklıyor.&lt;/p&gt;
+&lt;p&gt;История рассказывает нам о компании Bulutfon, обо всех ее существующих продуктах, сервисах и инновационных проектах, позволяющих сделать бизнес-процесс своих клиентов удобнее и проще.&lt;/p&gt;
 
-&lt;h3 id="2.-adım,-bir-ana-karakter-oluşturulması..."&gt;2. adım, bir ana karakter oluşturulması&amp;hellip;&lt;/h3&gt;
+&lt;h3 id="2-этап-–-моделирование-главного-персонажа…"&gt;2 этап – моделирование главного персонажа…&lt;/h3&gt;
 
-&lt;p&gt;Hikayeyi oluşturduktan sonraki önemli adım, bir ana karakter oluşturmaktır. Bu karakteri; aklımızda çok samimi, zeki, enerjik, hoş gülümseyişe ve nazik gözlere sahip genç bir işadamına ihtiyacımız olduğu fikri ile oluşturduk. İnsan ölçülerine uygun olarak gerçeğe çok yakın bir şekilde hazırladık.&lt;/p&gt;
+&lt;p&gt;Моделируя главный персонаж, мы хотели, чтобы он получился жизнерадостным, умным, молодым, предприимчивым бизнесменом с обаятельной улыбкой и добрыми глазами. Кроме того, мы сделали его образ, приближенным к реальности, с человеческими пропорциями.&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="main character" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/character.jpg" /&gt;&lt;/p&gt;
 
-&lt;h3 id="3.-adım,-bir-hikaye-panosu-oluşturulması..."&gt;3. adım, bir hikaye panosu oluşturulması&amp;hellip;&lt;/h3&gt;
+&lt;h3 id="3-этап-–-создание-комикса…"&gt;3 этап – создание комикса…&lt;/h3&gt;
 
-&lt;p&gt;Hikaye ve ana karakter hazır olduktan sonra, bir sonraki çok önemli olan hikaye panosu oluşturma adımına geldik. Hikaye panosunu çok fazla detay olmadan oluşturduk, sadece hikayenin her cümlesindeki ana fikri ekledik. İnsanların ürünümüzü ve ürünümüzün amacını anlamalarını sağlamak için her bir sahneyi kısa animasyonlu açıklama şeklinde hazırladık. Kenar boşluklarına birçok not (karakterimizin nereden nereye hareket ettiğini gösteren oklar ve her bir sahneye, sahnedeki fikri kaybetmemek için bize yardımcı olması amacıyla birçok yorum) ekledik. Sonuç bu:&lt;/p&gt;
+&lt;p&gt;После того, как история известна и главный персонаж готов, мы перешли к следующему ответственному этапу – созданию комикса. В нём изложена главная идея каждого отдельного предложения компании, краткое анимированное объяснение с целью сделать понятным предназначение того или иного продукта. Наш комикс получился кратким и очень ёмким.&lt;/p&gt;
+
+&lt;p&gt;Для упрощения работы мы использовали примечания – небольшие заметки, объясняющие мелкие детали, как, например, настроение персонажа и т.д., стрелки, чтобы видеть движение персонажа внутри отдельного плана. Вот что у нас получилось:&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="storyboard" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/storyboard.jpg" /&gt;&lt;/p&gt;
 
-&lt;h3 id="4.-adım,-ana-karakterin-bir-kukla-olarak,-iskeletiyle-birlikte-animasyon-programında-oluşturulması..."&gt;4. adım, Ana karakterin bir kukla olarak, iskeletiyle birlikte animasyon programında oluşturulması&amp;hellip;&lt;/h3&gt;
+&lt;h3 id="4-этап-–-превращение-главного-персонажа-в-марионетку-при-помощи-«костей»-в-специальной-анимационной-программе…"&gt;4 этап – превращение главного персонажа в марионетку при помощи «костей» в специальной анимационной программе…&lt;/h3&gt;
 
-&lt;p&gt;Tüm düzeltmeler yapılıp hikaye panosu tam olarak hazır olduğunda, sonraki adıma, karakterin kuklaya dönüştürülmesine geçtik. İş adamımıza animasyon ekleyebilmek için, onu ihtiyaç duyabileceğimiz iskelet ve tüm fonksiyonlar ile birlikte oluşturduk. Örneğin; konuşması, göz kırpması ve gözlerinin ifadesini normalden şaşırmışa veya normalden mutsuza değiştirebilmesini sağlamak için çok tipte ağız ve göz çizdik. Aynı zamanda çizgi karakter olduğundan ezilebilir ve uzayabilir; ayaklarını ve ellerini, kafasını, kaşlarını oynatabilir; hatta kravatına bile animasyon eklenebilir.&lt;/p&gt;
+&lt;p&gt;После того, как работа над комиксом закончена и сделаны все поправки, мы перешли к следующему этапу – превращению нашего персонажа в марионетку. Мы создали ему «скелет», помогающий управлять героем во время анимации. Наш персонаж может разговаривать, моргать и менять выражение глаз, может удивляться, быть грустным и смеяться. Как всякий мультипликационный герой, он очень пластичен и гибок.&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/bones.JPG" /&gt;&lt;/p&gt;
 
-&lt;h3 id="5.-adım,-animasyon-için-gerekli-olan-tüm-nesnelerin-oluşturulması..."&gt;5. adım, Animasyon için gerekli olan tüm nesnelerin oluşturulması&amp;hellip;&lt;/h3&gt;
+&lt;h3 id="5-этап-–-создание-всех-объектов,-которые-будут-использованы-при-анимации…"&gt;5 этап – создание всех объектов, которые будут использованы при анимации…&lt;/h3&gt;
 
-&lt;p&gt;Animasyonda kullanacağımız bütün öğeleri oluşturduk. Bazı öğelere animasyon ekleyeceğimizden onlar için de ayrıca iskelet oluşturduk. Ana renkleri; çok yumuşak gri ile karıştırılmış sarı, yeşil, mavi ve kırmızı gibi çok açık renkler olarak seçtik.&lt;/p&gt;
+&lt;p&gt;Мы подготовили все необходимые объекты, которые использовались в ходе анимирования. Для некоторых элементов мы создали «кости», поскольку они также участвуют в анимации. Мы выбрали очень чистые открытые цвета: желтый, зеленый, красный, голубой, теплый серый.&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/objects.JPG" /&gt;&lt;/p&gt;
 
-&lt;h3 id="6.-adım,-bir-animasyon-oluşturulması..."&gt;6. adım, bir animasyon oluşturulması&amp;hellip;&lt;/h3&gt;
+&lt;h3 id="6-этап-–-анимирование…"&gt;6 этап – анимирование…&lt;/h3&gt;
 
-&lt;p&gt;En önemli adım, iskeleti değiştirerek karakterlerin hareket etmesini sağlamaktır. Karakterleri plastik, komik, çok hayat dolu ve çok güzel yapmaya çalıştık. Animasyonu daha gerçekçi yapmak için, Walt Disney&amp;#39;in geliştirdiği kuralları kullandık. Animasyon yapmanın temel prensipleri ile ilgili kısa bir video buradadır:&lt;/p&gt;
+&lt;p&gt;В процессе анимирования мы попытались сделать наших персонажей живыми и обаятельными. В этом нам помогли некоторые правила анимации, которые были разработаны У. Диснеем. Вы можете ознакомиться с ними здесь:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=l-KtwW6eptM"&gt;Animasyon oluşturmanın ana prensipleri&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=l-KtwW6eptM"&gt;Главные приципы анимации&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Her bir sahneyi işledik ve bir klasör içine ayrı bir dosya olarak kaydettik.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/timeline.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sonuç olarak aldığımız bu:&lt;/p&gt;
+&lt;p&gt;Каждый  план мы рендерили и сохраняли в папку, как отдельный файл.&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/story.jpg" /&gt;&lt;/p&gt;
 
-&lt;h3 id="7.-adım,-ses-efektlerinin-oluşturulması..."&gt;7. adım, ses efektlerinin oluşturulması&amp;hellip;&lt;/h3&gt;
+&lt;p&gt;Вот что в результате у нас получилось:&lt;/p&gt;
 
-&lt;p&gt;Animasyonda bir çok ses efekti kullandık. Bu çok gerekli. Hareketlerdeki vurguyu öne çıkarır, düşen bir nesneye ağırlık verir, yürüyen bir adama ağırlık verir vs.&lt;/p&gt;
+&lt;h3 id="7-этап-–-озвучивание-анимации…"&gt;7 этап – озвучивание анимации…&lt;/h3&gt;
+
+&lt;p&gt;В нашей анимации мы использовали большое количество различных звуков. Использование звуков позволило нам верно расставить акценты, создать ощущение падающих предметов или звуки шагающего человека и т.д.&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="character with bones" width="683" height="832" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/voice.jpg" /&gt;&lt;/p&gt;
 
-&lt;h3 id="8.-adım,-arka-plan-müziğinin-oluşturulması..."&gt;8. adım, arka plan müziğinin oluşturulması&amp;hellip;&lt;/h3&gt;
+&lt;h3 id="8-этап-–-подборка-музыки-для-фона…"&gt;8 этап – подборка музыки для фона…&lt;/h3&gt;
 
-&lt;p&gt;Arka plan müziği, animasyona refakatçi gibidir. Tüm ruh hali arka plan muziğine dayanır.  Animasyon ritmi ve müzik ritmi tüm sahnenin tamamlanmasını sağlamak için eş zamanlı olarak çalışmak zorundadır.  Animasyonun ritmine ve ana karakterin doğasına uygun enerjik ve çok eğlenceli bir müzik seçtik. Bu sayede, tüm hepsi sistem olarak harika bir şekilde çalışmış oldu.&lt;/p&gt;
+&lt;p&gt;Фоновая музыка – это аккомпанемент, который создает настроение всему мультфильму. Музыкальный ритм и ритм анимации должны работать синхронно. Мы выбрали очень легкую и энергичную песенку, которая перекликается с характером нашего персонажа. В итоге все элементы нашего ролика работают как одна система.&lt;/p&gt;
 
-&lt;h3 id="9.-adım,-birleştirme-işlemlerinin-uygulanması..."&gt;9. adım, birleştirme işlemlerinin uygulanması&amp;hellip;&lt;/h3&gt;
+&lt;h3 id="9-этап-–-объединение-анимации,-музыки-и-озвучки..."&gt;9 этап – объединение анимации, музыки и озвучки&amp;hellip;&lt;/h3&gt;
 
-&lt;p&gt;Arkaplan müziği elimizde olduğunda, tüm animasyon dosyalarını tamamlanmış olarak hazırladığımızda ve tüm ses efektleri tamamlandığında; yapmamız gereken sadece bir adım kalıyor, tüm dosyaları tek bir video dosyası olarak birleştirmek.&lt;/p&gt;
+&lt;p&gt;Теперь, когда анимация выполнена и подобрана музыка, нам осталось сделать завершающий этап – объединить все отдельные элементы анимации в один общий файл – видео файл.&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="character with bones" width="576" height="796" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/merge.jpg" /&gt;&lt;/p&gt;
 
-&lt;p&gt;Şimdi; tamamlanmış tüm çalışmalardan sonra, final animasyonunu görebiliriz:&lt;/p&gt;
+&lt;p&gt;В итоге мы получили великолепный ролик для компании Bulutfon:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="http://vimeo.com/102756655"&gt;Bulutfon Animasyonunu nasıl oluşturduk?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://vimeo.com/102756655"&gt;Как создавалась анимация, посвященная &lt;q&gt;Bulutfon&lt;/q&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&amp;hellip;ve Dribbble&amp;#39;da paylaşılmıştır.&lt;/p&gt;
+&lt;p&gt;Вы можете найти нас на Dribbble&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="https://dribbble.com/shots/1676198-Bulutfon-Animation"&gt;Bulutfon animasyonu için dribbble paylaşımı&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://dribbble.com/shots/1676198-Bulutfon-Animation"&gt;Анимация, посвященная &lt;q&gt;Bulutfon&lt;/q&gt; на Dribbble&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;İlginiz için teşekkür ederim.&lt;/p&gt;
+&lt;p&gt;Благодарим за внимание.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Cómo creamos la animación para Bulutfon.</title>
-    <link rel="alternate" href="http://lab2023.com/how-we-created-bulutfon-animation-spanish.html"/>
-    <id>http://lab2023.com/how-we-created-bulutfon-animation-spanish.html</id>
+    <link rel="alternate" href="http://lab2023.com/como-creamos-la-animacion-para-bulutfon.html"/>
+    <id>http://lab2023.com/como-creamos-la-animacion-para-bulutfon.html</id>
     <published>2014-12-17T02:00:00+02:00</published>
-    <updated>2014-12-17T09:45:04+02:00</updated>
+    <updated>2014-12-17T11:26:37+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -285,95 +285,95 @@ Aqui un pequeño resumen con los principios básicos para realizar animación di
 </content>
   </entry>
   <entry>
-    <title>Как создавалась анимация, посвященная "Bulutfon"</title>
-    <link rel="alternate" href="http://lab2023.com/how-we-created-bulutfon-animation-russian.html"/>
-    <id>http://lab2023.com/how-we-created-bulutfon-animation-russian.html</id>
+    <title>Bulutfon animasyonunu nasıl hazırladık</title>
+    <link rel="alternate" href="http://lab2023.com/bulutfon-animasyonunu-nasil-hazirladik.html"/>
+    <id>http://lab2023.com/bulutfon-animasyonunu-nasil-hazirladik.html</id>
     <published>2014-12-17T02:00:00+02:00</published>
-    <updated>2014-12-17T09:45:04+02:00</updated>
+    <updated>2014-12-17T11:33:39+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
-    <content type="html">&lt;p&gt;В этой статье я расскажу вам о поэтапном создании рекламного ролика.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Bu makalede, animasyon oluşturma ile ilgili kısaca bilgi vermeye çalışacağım.&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;этап – рождение сюжета;&lt;/li&gt;
-&lt;li&gt;этап – моделирование главного персонажа;&lt;/li&gt;
-&lt;li&gt;этап – создание комикса;&lt;/li&gt;
-&lt;li&gt;этап – превращение главного персонажа в марионетку при помощи «костей» в специальной анимационной программе;&lt;/li&gt;
-&lt;li&gt;этап – создание всех объектов, которые будут использованы при анимации;&lt;/li&gt;
-&lt;li&gt;этап – анимирование;&lt;/li&gt;
-&lt;li&gt;этап – озвучивание анимации;&lt;/li&gt;
-&lt;li&gt;этап – подборка музыки для фона;&lt;/li&gt;
-&lt;li&gt;этап – объединение анимации, музыки и озвучки.&lt;/li&gt;
+&lt;li&gt;adım, bir hikaye oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, bir ana karakter oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, bir hikaye panosu oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, ana karakterin bir kukla olarak, iskeletiyle birlikte animasyon programında oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, animasyon için gerekli olan tüm nesnelerin oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, bir animasyon oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, ses efektlerinin oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, arka plan müziğinin oluşturulması&amp;hellip;&lt;/li&gt;
+&lt;li&gt;adım, birleştirme işlemlerinin uygulanması&amp;hellip;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h3 id="1-этап-–-рождение-сюжета…"&gt;1 этап – рождение сюжета…&lt;/h3&gt;
+&lt;h3 id="1.-adım,-bir-hikaye-oluşturulması..."&gt;1. adım, bir hikaye oluşturulması&amp;hellip;&lt;/h3&gt;
 
-&lt;p&gt;История рассказывает нам о компании Bulutfon, обо всех ее существующих продуктах, сервисах и инновационных проектах, позволяющих сделать бизнес-процесс своих клиентов удобнее и проще.&lt;/p&gt;
+&lt;p&gt;Bu hikaye bize; Bulutfon ürünlerini anlatıyor; iş kurmayı kolaylaştırmak için Bulutfon&amp;#39;un müşterilere sunduğu fırsatları, sağladığı rahat kullanımlı servisleri açıklıyor.&lt;/p&gt;
 
-&lt;h3 id="2-этап-–-моделирование-главного-персонажа…"&gt;2 этап – моделирование главного персонажа…&lt;/h3&gt;
+&lt;h3 id="2.-adım,-bir-ana-karakter-oluşturulması..."&gt;2. adım, bir ana karakter oluşturulması&amp;hellip;&lt;/h3&gt;
 
-&lt;p&gt;Моделируя главный персонаж, мы хотели, чтобы он получился жизнерадостным, умным, молодым, предприимчивым бизнесменом с обаятельной улыбкой и добрыми глазами. Кроме того, мы сделали его образ, приближенным к реальности, с человеческими пропорциями.&lt;/p&gt;
+&lt;p&gt;Hikayeyi oluşturduktan sonraki önemli adım, bir ana karakter oluşturmaktır. Bu karakteri; aklımızda çok samimi, zeki, enerjik, hoş gülümseyişe ve nazik gözlere sahip genç bir işadamına ihtiyacımız olduğu fikri ile oluşturduk. İnsan ölçülerine uygun olarak gerçeğe çok yakın bir şekilde hazırladık.&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="main character" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/character.jpg" /&gt;&lt;/p&gt;
 
-&lt;h3 id="3-этап-–-создание-комикса…"&gt;3 этап – создание комикса…&lt;/h3&gt;
+&lt;h3 id="3.-adım,-bir-hikaye-panosu-oluşturulması..."&gt;3. adım, bir hikaye panosu oluşturulması&amp;hellip;&lt;/h3&gt;
 
-&lt;p&gt;После того, как история известна и главный персонаж готов, мы перешли к следующему ответственному этапу – созданию комикса. В нём изложена главная идея каждого отдельного предложения компании, краткое анимированное объяснение с целью сделать понятным предназначение того или иного продукта. Наш комикс получился кратким и очень ёмким.&lt;/p&gt;
-
-&lt;p&gt;Для упрощения работы мы использовали примечания – небольшие заметки, объясняющие мелкие детали, как, например, настроение персонажа и т.д., стрелки, чтобы видеть движение персонажа внутри отдельного плана. Вот что у нас получилось:&lt;/p&gt;
+&lt;p&gt;Hikaye ve ana karakter hazır olduktan sonra, bir sonraki çok önemli olan hikaye panosu oluşturma adımına geldik. Hikaye panosunu çok fazla detay olmadan oluşturduk, sadece hikayenin her cümlesindeki ana fikri ekledik. İnsanların ürünümüzü ve ürünümüzün amacını anlamalarını sağlamak için her bir sahneyi kısa animasyonlu açıklama şeklinde hazırladık. Kenar boşluklarına birçok not (karakterimizin nereden nereye hareket ettiğini gösteren oklar ve her bir sahneye, sahnedeki fikri kaybetmemek için bize yardımcı olması amacıyla birçok yorum) ekledik. Sonuç bu:&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="storyboard" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/storyboard.jpg" /&gt;&lt;/p&gt;
 
-&lt;h3 id="4-этап-–-превращение-главного-персонажа-в-марионетку-при-помощи-«костей»-в-специальной-анимационной-программе…"&gt;4 этап – превращение главного персонажа в марионетку при помощи «костей» в специальной анимационной программе…&lt;/h3&gt;
+&lt;h3 id="4.-adım,-ana-karakterin-bir-kukla-olarak,-iskeletiyle-birlikte-animasyon-programında-oluşturulması..."&gt;4. adım, Ana karakterin bir kukla olarak, iskeletiyle birlikte animasyon programında oluşturulması&amp;hellip;&lt;/h3&gt;
 
-&lt;p&gt;После того, как работа над комиксом закончена и сделаны все поправки, мы перешли к следующему этапу – превращению нашего персонажа в марионетку. Мы создали ему «скелет», помогающий управлять героем во время анимации. Наш персонаж может разговаривать, моргать и менять выражение глаз, может удивляться, быть грустным и смеяться. Как всякий мультипликационный герой, он очень пластичен и гибок.&lt;/p&gt;
+&lt;p&gt;Tüm düzeltmeler yapılıp hikaye panosu tam olarak hazır olduğunda, sonraki adıma, karakterin kuklaya dönüştürülmesine geçtik. İş adamımıza animasyon ekleyebilmek için, onu ihtiyaç duyabileceğimiz iskelet ve tüm fonksiyonlar ile birlikte oluşturduk. Örneğin; konuşması, göz kırpması ve gözlerinin ifadesini normalden şaşırmışa veya normalden mutsuza değiştirebilmesini sağlamak için çok tipte ağız ve göz çizdik. Aynı zamanda çizgi karakter olduğundan ezilebilir ve uzayabilir; ayaklarını ve ellerini, kafasını, kaşlarını oynatabilir; hatta kravatına bile animasyon eklenebilir.&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/bones.JPG" /&gt;&lt;/p&gt;
 
-&lt;h3 id="5-этап-–-создание-всех-объектов,-которые-будут-использованы-при-анимации…"&gt;5 этап – создание всех объектов, которые будут использованы при анимации…&lt;/h3&gt;
+&lt;h3 id="5.-adım,-animasyon-için-gerekli-olan-tüm-nesnelerin-oluşturulması..."&gt;5. adım, Animasyon için gerekli olan tüm nesnelerin oluşturulması&amp;hellip;&lt;/h3&gt;
 
-&lt;p&gt;Мы подготовили все необходимые объекты, которые использовались в ходе анимирования. Для некоторых элементов мы создали «кости», поскольку они также участвуют в анимации. Мы выбрали очень чистые открытые цвета: желтый, зеленый, красный, голубой, теплый серый.&lt;/p&gt;
+&lt;p&gt;Animasyonda kullanacağımız bütün öğeleri oluşturduk. Bazı öğelere animasyon ekleyeceğimizden onlar için de ayrıca iskelet oluşturduk. Ana renkleri; çok yumuşak gri ile karıştırılmış sarı, yeşil, mavi ve kırmızı gibi çok açık renkler olarak seçtik.&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/objects.JPG" /&gt;&lt;/p&gt;
 
-&lt;h3 id="6-этап-–-анимирование…"&gt;6 этап – анимирование…&lt;/h3&gt;
+&lt;h3 id="6.-adım,-bir-animasyon-oluşturulması..."&gt;6. adım, bir animasyon oluşturulması&amp;hellip;&lt;/h3&gt;
 
-&lt;p&gt;В процессе анимирования мы попытались сделать наших персонажей живыми и обаятельными. В этом нам помогли некоторые правила анимации, которые были разработаны У. Диснеем. Вы можете ознакомиться с ними здесь:&lt;/p&gt;
+&lt;p&gt;En önemli adım, iskeleti değiştirerek karakterlerin hareket etmesini sağlamaktır. Karakterleri plastik, komik, çok hayat dolu ve çok güzel yapmaya çalıştık. Animasyonu daha gerçekçi yapmak için, Walt Disney&amp;#39;in geliştirdiği kuralları kullandık. Animasyon yapmanın temel prensipleri ile ilgili kısa bir video buradadır:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=l-KtwW6eptM"&gt;Главные приципы анимации&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=l-KtwW6eptM"&gt;Animasyon oluşturmanın ana prensipleri&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Каждый  план мы рендерили и сохраняли в папку, как отдельный файл.&lt;/p&gt;
+&lt;p&gt;Her bir sahneyi işledik ve bir klasör içine ayrı bir dosya olarak kaydettik.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/timeline.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Sonuç olarak aldığımız bu:&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="character with bones" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/story.jpg" /&gt;&lt;/p&gt;
 
-&lt;p&gt;Вот что в результате у нас получилось:&lt;/p&gt;
+&lt;h3 id="7.-adım,-ses-efektlerinin-oluşturulması..."&gt;7. adım, ses efektlerinin oluşturulması&amp;hellip;&lt;/h3&gt;
 
-&lt;h3 id="7-этап-–-озвучивание-анимации…"&gt;7 этап – озвучивание анимации…&lt;/h3&gt;
-
-&lt;p&gt;В нашей анимации мы использовали большое количество различных звуков. Использование звуков позволило нам верно расставить акценты, создать ощущение падающих предметов или звуки шагающего человека и т.д.&lt;/p&gt;
+&lt;p&gt;Animasyonda bir çok ses efekti kullandık. Bu çok gerekli. Hareketlerdeki vurguyu öne çıkarır, düşen bir nesneye ağırlık verir, yürüyen bir adama ağırlık verir vs.&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="character with bones" width="683" height="832" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/voice.jpg" /&gt;&lt;/p&gt;
 
-&lt;h3 id="8-этап-–-подборка-музыки-для-фона…"&gt;8 этап – подборка музыки для фона…&lt;/h3&gt;
+&lt;h3 id="8.-adım,-arka-plan-müziğinin-oluşturulması..."&gt;8. adım, arka plan müziğinin oluşturulması&amp;hellip;&lt;/h3&gt;
 
-&lt;p&gt;Фоновая музыка – это аккомпанемент, который создает настроение всему мультфильму. Музыкальный ритм и ритм анимации должны работать синхронно. Мы выбрали очень легкую и энергичную песенку, которая перекликается с характером нашего персонажа. В итоге все элементы нашего ролика работают как одна система.&lt;/p&gt;
+&lt;p&gt;Arka plan müziği, animasyona refakatçi gibidir. Tüm ruh hali arka plan muziğine dayanır.  Animasyon ritmi ve müzik ritmi tüm sahnenin tamamlanmasını sağlamak için eş zamanlı olarak çalışmak zorundadır.  Animasyonun ritmine ve ana karakterin doğasına uygun enerjik ve çok eğlenceli bir müzik seçtik. Bu sayede, tüm hepsi sistem olarak harika bir şekilde çalışmış oldu.&lt;/p&gt;
 
-&lt;h3 id="9-этап-–-объединение-анимации,-музыки-и-озвучки..."&gt;9 этап – объединение анимации, музыки и озвучки&amp;hellip;&lt;/h3&gt;
+&lt;h3 id="9.-adım,-birleştirme-işlemlerinin-uygulanması..."&gt;9. adım, birleştirme işlemlerinin uygulanması&amp;hellip;&lt;/h3&gt;
 
-&lt;p&gt;Теперь, когда анимация выполнена и подобрана музыка, нам осталось сделать завершающий этап – объединить все отдельные элементы анимации в один общий файл – видео файл.&lt;/p&gt;
+&lt;p&gt;Arkaplan müziği elimizde olduğunda, tüm animasyon dosyalarını tamamlanmış olarak hazırladığımızda ve tüm ses efektleri tamamlandığında; yapmamız gereken sadece bir adım kalıyor, tüm dosyaları tek bir video dosyası olarak birleştirmek.&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="character with bones" width="576" height="796" src="assets/images/articles/2014-12-17-how-we-created-bulutfon-animation/merge.jpg" /&gt;&lt;/p&gt;
 
-&lt;p&gt;В итоге мы получили великолепный ролик для компании Bulutfon:&lt;/p&gt;
+&lt;p&gt;Şimdi; tamamlanmış tüm çalışmalardan sonra, final animasyonunu görebiliriz:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="http://vimeo.com/102756655"&gt;Как создавалась анимация, посвященная &lt;q&gt;Bulutfon&lt;/q&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://vimeo.com/102756655"&gt;Bulutfon Animasyonunu nasıl oluşturduk?&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Вы можете найти нас на Dribbble&lt;/p&gt;
+&lt;p&gt;&amp;hellip;ve Dribbble&amp;#39;da paylaşılmıştır.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="https://dribbble.com/shots/1676198-Bulutfon-Animation"&gt;Анимация, посвященная &lt;q&gt;Bulutfon&lt;/q&gt; на Dribbble&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://dribbble.com/shots/1676198-Bulutfon-Animation"&gt;Bulutfon animasyonu için dribbble paylaşımı&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Благодарим за внимание.&lt;/p&gt;
+&lt;p&gt;İlginiz için teşekkür ederim.&lt;/p&gt;
 </content>
   </entry>
   <entry>
@@ -381,7 +381,7 @@ Aqui un pequeño resumen con los principios básicos para realizar animación di
     <link rel="alternate" href="http://lab2023.com/ozgur-web-teknolojileri-gunlerinin-ardindan.html"/>
     <id>http://lab2023.com/ozgur-web-teknolojileri-gunlerinin-ardindan.html</id>
     <published>2014-12-12T02:00:00+02:00</published>
-    <updated>2014-12-17T09:55:33+02:00</updated>
+    <updated>2014-12-17T10:53:13+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -403,9 +403,9 @@ Aqui un pequeño resumen con los principios básicos para realizar animación di
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://speakerdeck.com/tayfunoziserikan/ruby-on-rails-4-dot-2-ile-gelen-kullanisli-yenilikler"&gt;Ruby on Rails 4.2 İle Gelen Kullanışlı Yenilikler&lt;/a&gt; - Tayfun Öziş ERİKAN&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://speakerdeck.com/claraisabelpantoja/design-processes-and-resources-for-successful-web-applications"&gt;Design Processes and Resources for&lt;/a&gt;  &lt;a href="https://speakerdeck.com/kamilala/design-processes-and-resources-for-successful-web-applications"&gt;Successful Web Applications&lt;/a&gt; - Clara Isabel Pantoja Muñoz - Kamila Gareeva&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://speakerdeck.com/claraisabelpantoja/all-about-creative-commons"&gt;All about creative commons&lt;/a&gt; - Clara Isabel Pantoja Muñoz&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://speakerdeck.com/kamilala/web-animation"&gt;Animation techniques and principles to make your web application designs more attractive.&lt;/a&gt;- Kamila Gareeva&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://speakerdeck.com/claraisabelpantoja/design-processes-and-resources-for-successful-web-applications"&gt;Design Processes and Resources for&lt;/a&gt;  &lt;a href="https://speakerdeck.com/kamilala/design-processes-and-resources-for-successful-web-applications"&gt;Successful Web Applications&lt;/a&gt; - Clara Isabel PANTOJA MUÑOZ - Kamila GAREEVA&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://speakerdeck.com/claraisabelpantoja/all-about-creative-commons"&gt;All about creative commons&lt;/a&gt; - Clara Isabel PANTOJA MUÑOZ&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://speakerdeck.com/kamilala/web-animation"&gt;Animation techniques and principles to make your web application designs more attractive.&lt;/a&gt;- Kamila GAREEVA&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://speakerdeck.com/baygunm/jax-rs-ile-restful-java-web-servisleri"&gt;JAX-RS ile RESTful Java Web Servisleri&lt;/a&gt; - Murat Kemal BAYGÜN&lt;/li&gt;
 &lt;/ul&gt;
 
