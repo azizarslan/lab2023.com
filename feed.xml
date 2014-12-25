@@ -5,13 +5,187 @@
   <id>http://lab2023.com/</id>
   <link href="http://lab2023.com/"/>
   <link href="http://lab2023.com/feed.xml" rel="self"/>
-  <updated>2014-12-17T02:00:00+02:00</updated>
+  <updated>2014-12-25T02:00:00+02:00</updated>
+  <entry>
+    <title>What is vagrant and properties of vagrant?</title>
+    <link rel="alternate" href="http://lab2023.com/what_is_vagrant_and_properties_of_vagrant.html"/>
+    <id>http://lab2023.com/what_is_vagrant_and_properties_of_vagrant.html</id>
+    <published>2014-12-25T02:00:00+02:00</published>
+    <updated>2014-12-25T16:24:29+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;h3 id="properties-of-vagrant"&gt;Properties of Vagrant&lt;/h3&gt;
+
+&lt;p&gt;&lt;code&gt;Vagrant&lt;/code&gt; is a tool which runs your application in a virtual machine, which means
+you can create your project environment in a virtual machine. Thanks to Vagrant, you can clone your local environment in a virtual machine.
+So, when you send your project to &lt;code&gt;server&lt;/code&gt;, you don&amp;rsquo;t see any bugs or errors on your server.
+On the other hand, vagrant is useful while you are working in a team.&lt;/p&gt;
+
+&lt;h3 id="how-to-set-up-vagrant-on-ubuntu-desktop"&gt;How to Set Up Vagrant on Ubuntu Desktop&lt;/h3&gt;
+
+&lt;p&gt;To install and use vagrant, you should follow the steps below respectively.&lt;/p&gt;
+
+&lt;p&gt;Let&amp;rsquo;s look, how to set up and use &lt;code&gt;Vagrant in Ubuntu desktop&lt;/code&gt;,&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Install Vagrant&lt;/li&gt;
+&lt;li&gt;Create Vagrant folders&lt;/li&gt;
+&lt;li&gt;Install precise32 box&lt;/li&gt;
+&lt;li&gt;Set up new virtual machine&lt;/li&gt;
+&lt;li&gt;Install virtual machine configuration&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="1)-install-vagrant"&gt;1) Install Vagrant&lt;/h3&gt;
+
+&lt;p&gt;Installing vagrant on your Ubuntu desktop is very easy. Open your terminal and write the command below.&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;sudo apt-get install vagrant
+...
+&lt;/pre&gt;
+&lt;h3 id="2)-create-vagrant-folders"&gt;2) Create Vagrant Folders&lt;/h3&gt;
+
+&lt;p&gt;Continue on terminal, write below commands,&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;mkdir Vagrant
+&lt;span class="gp"&gt;$ &lt;/span&gt;mkdir Vagrant/Projects
+&lt;span class="gp"&gt;$ &lt;/span&gt;mkdir Vagrant/Projects/VM_169.x
+&lt;/pre&gt;
+&lt;h3 id="3)-install-precise32-box"&gt;3) Install Precise32 Box&lt;/h3&gt;
+
+&lt;p&gt;Precise32 box is important on ubuntu desktop, because thanks to this box you can modify your virtual machine.&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;&lt;span class="nb"&gt;cd &lt;/span&gt;Vagrant/Projects/VM_169.x
+&lt;span class="gp"&gt;$ &lt;/span&gt;vagrant box add precise32 http://files.vagrantup.com/precise32.box --provider virtualbox
+...
+&lt;/pre&gt;
+&lt;p&gt;After install, you can check with,&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;vagrant box list
+precise32 &lt;span class="o"&gt;(&lt;/span&gt;virtualbox, 0&lt;span class="o"&gt;)&lt;/span&gt;
+&lt;/pre&gt;
+&lt;h3 id="4)-create-new-virtual-machine"&gt;4) Create New Virtual Machine&lt;/h3&gt;
+
+&lt;p&gt;For create new virtual machine, you should initialize precise32 box,&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;vagrant init precise32
+&lt;/pre&gt;
+&lt;p&gt;When you write above command, you get warning about it, this means include &lt;code&gt;Vagrantfile&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id="5)-install-virtual-machine-configuration"&gt;5) Install Virtual Machine configuration&lt;/h3&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;wget https://raw.github.com/saasbook/courseware/master/vm-setup/configure-image-0.10.3.sh
+&lt;/pre&gt;
+&lt;p&gt;You should change permission to executable for virtual machine configuration&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;chmod +x configure-image-0.10.3.sh
+&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Run the virtual machine with &lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;vagrant up
+&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Connecting with virtual machine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;vagrant ssh
+Welcome to Ubuntu 12.04 LTS &lt;span class="o"&gt;(&lt;/span&gt;GNU/Linux 3.2.0-23-generic-pae i686&lt;span class="o"&gt;)&lt;/span&gt;
+ &lt;span class="k"&gt;*&lt;/span&gt; Documentation:  https://help.ubuntu.com/
+New release &lt;span class="s1"&gt;&amp;#39;14.04.1 LTS&amp;#39;&lt;/span&gt; available.
+Run &lt;span class="s1"&gt;&amp;#39;do-release-upgrade&amp;#39;&lt;/span&gt; to upgrade to it.
+Welcome to your Vagrant-built virtual machine.
+Last login: Sun Oct 12 09:36:51 2014 from 10.0.2.2
+&lt;span class="gp"&gt;vagrant@precise32:~$ &lt;/span&gt;
+&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;Run virtual machine configuration, &lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;vagrant@precise32:~$ &lt;/span&gt;/vagrant/configure-image-0.10.3.sh
+Enter password to be used &lt;span class="k"&gt;for &lt;/span&gt;sudo commands:
+&lt;/pre&gt;
+&lt;p&gt;you should enter a password for commands above.&lt;/p&gt;
+
+&lt;p&gt;If you finish work on virtual machine, you write below commands for exit or shut down virtual machine&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;vagrant &lt;span class="nb"&gt;suspend&lt;/span&gt;
+&lt;span class="gp"&gt;$ &lt;/span&gt;vagrant resume
+&lt;span class="gp"&gt;$ &lt;/span&gt;vagrant halt
+&lt;/pre&gt;
+&lt;p&gt;Or if you want to remove all things from virtual machine&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;vagrant destroy
+&lt;/pre&gt;
+&lt;p&gt;But for building your project again only the command below is enough.&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;vagrant up
+&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;When I say &lt;code&gt;Vagrant&lt;/code&gt; is useful for working in a team, look &lt;a href="https://vagrantcloud.com/"&gt;Vagrant Cloud&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can create account and share your vagrant environment with anyone with &lt;code&gt;vagrant cloud&lt;/code&gt;.
+After create your account, open your terminal,&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;vagrant login
+...
+&lt;/pre&gt;
+&lt;p&gt;Write e-mail or username and password for vagrant cloud, then&lt;/p&gt;
+&lt;pre class="highlight shell"&gt;&lt;span class="gp"&gt;$ &lt;/span&gt;vagrant share
+&lt;/pre&gt;
+&lt;p&gt;For more detail about Vagrant, you can look ;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://docs.vagrantup.com/v2/getting-started/index.html"&gt;Vagrant&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/saasbook/courseware/wiki/Setting-Up-Vagrant-Environment-on-Ubuntu-Platform"&gt;Vagrant on Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;or,&lt;/p&gt;
+
+&lt;p&gt;if you want to read same article with details in Turkish, you can read it &lt;a href="http://lab2023.com/vagranta-giris.html"&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;That&amp;#39; s all.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Rails 4.2 Kararlı Sürümü Yayınlandı</title>
+    <link rel="alternate" href="http://lab2023.com/rails-4-2-kararli-surum-yayinlandi.html"/>
+    <id>http://lab2023.com/rails-4-2-kararli-surum-yayinlandi.html</id>
+    <published>2014-12-22T02:00:00+02:00</published>
+    <updated>2014-12-25T16:24:29+02:00</updated>
+    <author>
+      <name>lab2023</name>
+    </author>
+    <content type="html">&lt;p&gt;Popüler Ruby web framework’ü Rails’in 4.2 sürümü, kararlı olarak yayınlandı. Sürüm, son betasından bu yana 1600’den fazla commit ile güncellendi ve kullanıma hazır hale getirildi. Şimdi sürümdeki önemli özelliklere tekrardan göz atalım:&lt;/p&gt;
+
+&lt;h3 id="active-job-ve-action-mailer-#deliver_later"&gt;Active Job ve Action Mailer #deliver_later&lt;/h3&gt;
+
+&lt;p&gt;En önemli yeniliklerden birisi olan Active Job, arkaplan iş yöneticileri için bir bağdaştırıcı görevi görüyor. Bu sayede jenerik bir biçimde yazdığınız işler kuyruğa atılıyor ve tüm yöneticiler üzerinde çalıştırılabiliyor. ActiveRecord ile ilişkisel veritabanlarının çalışma tarzına benzer bir mantıkla çalıştığı söylenebilir.&lt;/p&gt;
+
+&lt;p&gt;Bunun yanında Action Mailer sistemine eklenen yeni bir özellik sayesinde, e-postalar gecikmeli olarak gönderilebiliyor. “deliver_later” metodu ile gerçekleştirilen bu eylem, gönderilecek e-postayı iş kuyruğuna ekliyor ve belirlenen zamanda gönderilmesini sağlıyor.&lt;/p&gt;
+
+&lt;h3 id="global-id"&gt;Global ID&lt;/h3&gt;
+
+&lt;p&gt;Bu kütüphane ile ActiveRecord üstünden çektiğiniz kayıtları anında serileştirebiliyorsunuz. Tipik nesne numaraları yerine, serileştirilmiş bir kimlik kullanabilmenizi sağlıyor. Örnek olarak:&lt;/p&gt;
+&lt;pre class="highlight ruby"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;person_gid&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="no"&gt;Person&lt;/span&gt;&lt;span class="nf"&gt;.find&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="nf"&gt;.to_global_id&lt;/span&gt;
+&lt;span class="o"&gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;person_gid&lt;/span&gt;&lt;span class="nf"&gt;.to_s&lt;/span&gt;
+&lt;span class="o"&gt;=&amp;gt;&lt;/span&gt; &lt;span class="s2"&gt;&amp;quot;gid://app/Person/1&amp;quot;&lt;/span&gt;
+&lt;/pre&gt;
+&lt;h3 id="adequate-record"&gt;Adequate Record&lt;/h3&gt;
+
+&lt;p&gt;Bu kütüphane sayesinde Active Record üstünden sıklıkla yapılan sorgulamalar kısmi olarak önbelleğe alınıyor ve gerektiğinde tekrardan kullanılarak hız kazanımı sağlanıyor. Örnek kıyaslamalar için şuraya gözatabilirsiniz:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://tenderlovemaking.com/2014/02/19/adequaterecord-pro-like-activerecord.html"&gt;http://tenderlovemaking.com/2014/02/19/adequaterecord-pro-like-activerecord.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id="web-console"&gt;Web Console&lt;/h3&gt;
+
+&lt;p&gt;Google Summer of Code ile gelen bu proje sayesinde, sayfa bir istisna/hata oluşturduğu zaman anında bir konsol açılıyor. Bu konsoldan o anda geçerli olan işlemleri ve değişkenleri denetleyebilmeniz sağlanıyor. Buna ek olarak, sadece hata oluştuğunda değil, geliştirme sürecinde iken konsolu sayfanın altında sürekli açık bırakabiliyorsunuz.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="webconsole" src="https://cloud.githubusercontent.com/assets/705116/3825943/a010af92-1d5a-11e4-84c2-4ed0ba367f4e.gif" /&gt;&lt;/p&gt;
+
+&lt;h3 id="foreign-key"&gt;Foreign Key&lt;/h3&gt;
+
+&lt;p&gt;Bu özellikle beraber, Rails uzun zamandan sonra Active Record modellerinde dış anahtarları (foreign key) desteklemeye başlıyor. Active Record migration’ları için şimdilik “add_foreign_key” ve “remove_foreign_key” metotları eklenmiş durumda. Önemli bir ayrıntı olarak, dış anahtar özelliğinin şu anda sadece MySQL ve PostgreSQL bağdaştırıcılarını desteklediğini belirtmekte fayda var.&lt;/p&gt;
+
+&lt;p&gt;Bunun dışındaki eklenenler, çıkartılanlar, önerilmeyen (deprecated) yapılar ve hata yamaları ile ilgili detaylı bilgiler için:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://guides.rubyonrails.org/4_2_release_notes.html"&gt;http://guides.rubyonrails.org/4_2_release_notes.html&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>How we created Bulutfon animation</title>
     <link rel="alternate" href="http://lab2023.com/how-we-created-bulutfon-animation.html"/>
     <id>http://lab2023.com/how-we-created-bulutfon-animation.html</id>
     <published>2014-12-17T02:00:00+02:00</published>
-    <updated>2014-12-17T10:11:15+02:00</updated>
+    <updated>2014-12-25T16:19:34+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -104,7 +278,7 @@ Here is a very short review with the main principles of making animation:&lt;/p&
     <link rel="alternate" href="http://lab2023.com/how-we-created-bulutfon-animation-russian.html"/>
     <id>http://lab2023.com/how-we-created-bulutfon-animation-russian.html</id>
     <published>2014-12-17T02:00:00+02:00</published>
-    <updated>2014-12-17T11:21:41+02:00</updated>
+    <updated>2014-12-25T16:19:34+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -196,7 +370,7 @@ Here is a very short review with the main principles of making animation:&lt;/p&
     <link rel="alternate" href="http://lab2023.com/como-creamos-la-animacion-para-bulutfon.html"/>
     <id>http://lab2023.com/como-creamos-la-animacion-para-bulutfon.html</id>
     <published>2014-12-17T02:00:00+02:00</published>
-    <updated>2014-12-17T11:26:37+02:00</updated>
+    <updated>2014-12-25T16:19:34+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -289,7 +463,7 @@ Aqui un pequeño resumen con los principios básicos para realizar animación di
     <link rel="alternate" href="http://lab2023.com/bulutfon-animasyonunu-nasil-hazirladik.html"/>
     <id>http://lab2023.com/bulutfon-animasyonunu-nasil-hazirladik.html</id>
     <published>2014-12-17T02:00:00+02:00</published>
-    <updated>2014-12-17T11:33:39+02:00</updated>
+    <updated>2014-12-25T16:19:34+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -381,7 +555,7 @@ Aqui un pequeño resumen con los principios básicos para realizar animación di
     <link rel="alternate" href="http://lab2023.com/ozgur-web-teknolojileri-gunlerinin-ardindan.html"/>
     <id>http://lab2023.com/ozgur-web-teknolojileri-gunlerinin-ardindan.html</id>
     <published>2014-12-12T02:00:00+02:00</published>
-    <updated>2014-12-17T10:53:13+02:00</updated>
+    <updated>2014-12-25T16:19:34+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -435,7 +609,7 @@ Aqui un pequeño resumen con los principios básicos para realizar animación di
     <link rel="alternate" href="http://lab2023.com/5-farkli-sunum-ile-katki-sagladigimiz-ve-stant-sponsoru-oldugumuz-ozgur-web-teknolojileri-gunleri-2014-e-davetlisiniz.html"/>
     <id>http://lab2023.com/5-farkli-sunum-ile-katki-sagladigimiz-ve-stant-sponsoru-oldugumuz-ozgur-web-teknolojileri-gunleri-2014-e-davetlisiniz.html</id>
     <published>2014-12-02T02:00:00+02:00</published>
-    <updated>2014-12-17T09:45:04+02:00</updated>
+    <updated>2014-12-25T16:19:34+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -484,7 +658,7 @@ Aqui un pequeño resumen con los principios básicos para realizar animación di
     <link rel="alternate" href="http://lab2023.com/Flat-design-Simple-is-perfect.html"/>
     <id>http://lab2023.com/Flat-design-Simple-is-perfect.html</id>
     <published>2014-11-24T02:00:00+02:00</published>
-    <updated>2014-12-17T09:37:23+02:00</updated>
+    <updated>2014-12-25T16:19:34+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -528,7 +702,7 @@ Aqui un pequeño resumen con los principios básicos para realizar animación di
     <link rel="alternate" href="http://lab2023.com/rails-projesine-rubocop-nasil-entegre-edilir.html"/>
     <id>http://lab2023.com/rails-projesine-rubocop-nasil-entegre-edilir.html</id>
     <published>2014-11-21T02:00:00+02:00</published>
-    <updated>2014-12-17T09:37:23+02:00</updated>
+    <updated>2014-12-25T16:19:34+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -597,7 +771,7 @@ yukarıdaki komutları koşup rubocop&amp;#39;u rails projenize entegre edebilrs
     <link rel="alternate" href="http://lab2023.com/how-to-integrate-rubocop-to-rails-project.html"/>
     <id>http://lab2023.com/how-to-integrate-rubocop-to-rails-project.html</id>
     <published>2014-11-21T02:00:00+02:00</published>
-    <updated>2014-12-17T09:37:23+02:00</updated>
+    <updated>2014-12-25T16:19:34+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -1076,313 +1250,6 @@ kodda yer alıyor.&lt;/p&gt;
 &lt;span class="nt"&gt;&amp;lt;script &lt;/span&gt;&lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;tablesaw.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;
 &lt;p&gt;Bu kullanışlı tablo eklentisini &lt;a href="https://github.com/filamentgroup/tablesaw"&gt;Tablesaw&lt;/a&gt; adresinden inceleyebilirsiniz.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Python'da Etkili Log Tutma</title>
-    <link rel="alternate" href="http://lab2023.com/pythonda-etkili-log-tutma.html"/>
-    <id>http://lab2023.com/pythonda-etkili-log-tutma.html</id>
-    <published>2014-07-07T03:00:00+03:00</published>
-    <updated>2014-12-02T16:08:18+02:00</updated>
-    <author>
-      <name>lab2023</name>
-    </author>
-    <content type="html">&lt;p&gt;Bu yazıda Python kullanarak, bir uygulama için etkili bir şekilde log (kayıt) tutma yöntemlerine göz atacağız.&lt;/p&gt;
-
-&lt;p&gt;Bunun için &lt;strong&gt;logging&lt;/strong&gt; adlı bir Python modülünü kullanacağız. Bu modül Python&amp;#39;la beraber standart olarak geliyor. Özel bir Python sistemi kullanmıyorsanız, kurmanıza gerek yoktur, doğrudan Python konsolundan içe aktararak kullanabilirsiniz.&lt;/p&gt;
-&lt;pre class="highlight python"&gt;&lt;span class="kn"&gt;import&lt;/span&gt; &lt;span class="nn"&gt;logging&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;En basit haliyle, hiç bir örnekleme (initializing) bile yapmadan konsoldan şu şekilde log oluşturmaya başlayabilirsiniz.&lt;/p&gt;
-&lt;pre class="highlight python"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;warning&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Uyarıyorum bak, demedi deme!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;WARNING&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;root&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;Uyar&lt;/span&gt;&lt;span class="err"&gt;ı&lt;/span&gt;&lt;span class="n"&gt;yorum&lt;/span&gt; &lt;span class="n"&gt;bak&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;demedi&lt;/span&gt; &lt;span class="n"&gt;deme&lt;/span&gt;&lt;span class="err"&gt;!&lt;/span&gt;
-
-&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;error&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Hatasız kul olmaz!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;ERROR&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;root&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;Hatas&lt;/span&gt;&lt;span class="err"&gt;ı&lt;/span&gt;&lt;span class="n"&gt;z&lt;/span&gt; &lt;span class="n"&gt;kul&lt;/span&gt; &lt;span class="n"&gt;olmaz&lt;/span&gt;&lt;span class="err"&gt;!&lt;/span&gt;
-
-&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;debug&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Debug ediyorum, gözlerim kapalı.&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-
-&lt;/pre&gt;
-&lt;p&gt;Büyük ihtimalle üçüncü komutta çıktı görmeyeceksiniz zira &lt;strong&gt;logging&lt;/strong&gt; modülünün varsayılan log seviyesi &lt;strong&gt;warning&lt;/strong&gt;. Yani sadece mevcut seviye olan &lt;strong&gt;warning&lt;/strong&gt; veya daha üst seviyelerin mesajları çıkacak. Tabi bunun için de bir sıralama var:&lt;/p&gt;
-
-&lt;p&gt;DEBUG &amp;lt;&amp;lt; INFO &amp;lt;&amp;lt; WARNING &amp;lt;&amp;lt; ERROR &amp;lt;&amp;lt; CRITICAL&lt;/p&gt;
-
-&lt;p&gt;Eğer log seviyesini değiştirmek isterseniz, şöyle bir kullanım gerecek:&lt;/p&gt;
-&lt;pre class="highlight python"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;getLogger&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Level&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;DEBUG&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Bu şekilde log seviyesini &lt;strong&gt;debug&lt;/strong&gt; yapmış olduk. (Diğer seçenekleriniz: logging.INFO, logging.WARNING, logging.ERROR, logging.CRITICAL) Artık debug ve üstü log seviyelerinin mesajları gözükecek.&lt;/p&gt;
-&lt;pre class="highlight python"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;debug&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Debug ediyorum, gözlerim kapalı.&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;DEBUG&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;root&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="n"&gt;Debug&lt;/span&gt; &lt;span class="n"&gt;ediyorum&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;g&lt;/span&gt;&lt;span class="err"&gt;ö&lt;/span&gt;&lt;span class="n"&gt;zlerim&lt;/span&gt; &lt;span class="n"&gt;kapal&lt;/span&gt;&lt;span class="err"&gt;ı&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Logların mesajlarını daha düzgün bir biçimde (formatting) yazdırmamız da mümkün. Bunun için &lt;strong&gt;basicConfig&lt;/strong&gt; adlı bir fonksiyon kullanacağız:&lt;/p&gt;
-&lt;pre class="highlight python"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;basicConfig&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;format&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%(asctime)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(message)&lt;/span&gt;&lt;span class="s"&gt;s&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;datefmt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;d/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;m/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;Y &lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;H:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;M:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;S&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;warning&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Uyarıyorum bak, demedi deme!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="mi"&gt;11&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mo"&gt;07&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;2014&lt;/span&gt; &lt;span class="mi"&gt;09&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;40&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;53&lt;/span&gt; &lt;span class="n"&gt;Uyar&lt;/span&gt;&lt;span class="err"&gt;ı&lt;/span&gt;&lt;span class="n"&gt;yorum&lt;/span&gt; &lt;span class="n"&gt;bak&lt;/span&gt; &lt;span class="n"&gt;demedi&lt;/span&gt; &lt;span class="n"&gt;deme&lt;/span&gt;&lt;span class="err"&gt;!&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;&lt;strong&gt;datefmt&lt;/strong&gt; için istediğiniz tarzda tarih saat biçimi verebilirsiniz. &lt;strong&gt;format&lt;/strong&gt; için ise ekstra seçenekler de mevcut. Örneğin &lt;strong&gt;%(name)s&lt;/strong&gt; ekleyince, kullanıcı ismi; &lt;strong&gt;%(levelname)s&lt;/strong&gt; ekleyince de log seviyesinin ismi çıkacak.&lt;/p&gt;
-&lt;pre class="highlight python"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;basicConfig&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;format&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%(asctime)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(name)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(levelname)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(message)&lt;/span&gt;&lt;span class="s"&gt;s&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;datefmt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;d/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;m/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;Y &lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;H:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;M:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;S&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;warning&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Uyarıyorum bak, demedi deme!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="mi"&gt;11&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mo"&gt;07&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;2014&lt;/span&gt; &lt;span class="mi"&gt;09&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;48&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mo"&gt;01&lt;/span&gt; &lt;span class="n"&gt;root&lt;/span&gt; &lt;span class="n"&gt;WARNING&lt;/span&gt; &lt;span class="n"&gt;Uyar&lt;/span&gt;&lt;span class="err"&gt;ı&lt;/span&gt;&lt;span class="n"&gt;yorum&lt;/span&gt; &lt;span class="n"&gt;bak&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;demedi&lt;/span&gt; &lt;span class="n"&gt;deme&lt;/span&gt;&lt;span class="err"&gt;!&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;&lt;strong&gt;basicConfig&lt;/strong&gt; fonksiyonuna log seviyesi de ekleyebilirsiniz.&lt;/p&gt;
-&lt;pre class="highlight python"&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;basicConfig&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;format&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%(asctime)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(name)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(levelname)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(message)&lt;/span&gt;&lt;span class="s"&gt;s&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;datefmt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;d/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;m/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;Y &lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;H:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;M:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;S&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;level&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;INFO&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Hatta daha da güzeli, bir seçenek daha ekleyip, logların dosyaya yazılmasını sağlayabilirsiniz:&lt;/p&gt;
-&lt;pre class="highlight python"&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;basicConfig&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;format&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%(asctime)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(name)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(levelname)&lt;/span&gt;&lt;span class="s"&gt;s &lt;/span&gt;&lt;span class="si"&gt;%(message)&lt;/span&gt;&lt;span class="s"&gt;s&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;datefmt&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;d/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;m/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;Y &lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;H:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;M:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;S&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;level&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;INFO&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;name&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;dosyaismi.log&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Bu şekilde loglarınız dosyaya yazılacak. Şimdi log tutma olayını biraz daha üst bir seviyeye çıkartıp, tek bir yerden birden fazla log tutmaya gözatalım. Bunların tamamını bir fonksiyona ekleyip, log kurulumu için sonradan da kullanabilmeniz mümkün.&lt;/p&gt;
-
-&lt;p&gt;İlk iş olarak bir değişkene, temel log mekanizmasını atamamız gerekecek.&lt;/p&gt;
-&lt;pre class="highlight python"&gt;&lt;span class="n"&gt;logger&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;getLogger&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Ve her yerde çıkması için ortak bir log formatı:&lt;/p&gt;
-&lt;pre class="highlight python"&gt;&lt;span class="n"&gt;formatter&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Formatter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%(asctime)&lt;/span&gt;&lt;span class="s"&gt;s - &lt;/span&gt;&lt;span class="si"&gt;%(name)&lt;/span&gt;&lt;span class="s"&gt;s - &lt;/span&gt;&lt;span class="si"&gt;%(levelname)&lt;/span&gt;&lt;span class="s"&gt;s - &lt;/span&gt;&lt;span class="si"&gt;%(message)&lt;/span&gt;&lt;span class="s"&gt;s&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;d/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;m/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;Y &lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;H:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;M:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;S&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Şimdi logları konsola çıkartacak bir log handler&amp;#39;ı oluşturalım. Ardından seviye ve formatı belirleyeceğiz. Son olarak da temel log tutan mekanizmaya bunu kaydettireceğiz.&lt;/p&gt;
-&lt;pre class="highlight python"&gt;&lt;span class="n"&gt;console_logger&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;StreamHandler&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
-&lt;span class="n"&gt;console_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Level&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;WARNING&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;console_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Formatter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;formatter&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;addHandler&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;console_logger&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Şimdi de logları dosyaya yazacak ayrı bir handler oluşturalım. Yine seviye ve format belirtip, kaydetme işlemlerini yapacağız.&lt;/p&gt;
-&lt;pre class="highlight python"&gt;&lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;FileHandler&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;dosyaismi.log&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Level&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;DEBUG&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Formatter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;formatter&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="n"&gt;logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;addHandler&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Dikkat ettiyseniz, iki farklı log tutucu için de farklı log seviyeleri verdik. Bundan sonra istediğimiz yerde log oluşturmaya başlayabiliriz:&lt;/p&gt;
-&lt;pre class="highlight python"&gt;&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;warning&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Uyarıyorum bak, demedi deme!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="mi"&gt;11&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mo"&gt;07&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="mi"&gt;2014&lt;/span&gt; &lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;11&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="mi"&gt;41&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;root&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;WARNING&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Uyar&lt;/span&gt;&lt;span class="err"&gt;ı&lt;/span&gt;&lt;span class="n"&gt;yorum&lt;/span&gt; &lt;span class="n"&gt;bak&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;demedi&lt;/span&gt; &lt;span class="n"&gt;deme&lt;/span&gt;&lt;span class="err"&gt;!&lt;/span&gt;
-&lt;span class="o"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;debug&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Debug ediyorum, gözlerim kapalı.&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Konsoldaki log tutucu için temel seviye &lt;strong&gt;warning&lt;/strong&gt; olduğundan, &lt;strong&gt;debug&lt;/strong&gt; türü log mesajları çıkmadı. Ama dosyayı kontrol ettiğimiz de, iki mesajın da çıktığını göreceksiniz:&lt;/p&gt;
-&lt;pre class="highlight text"&gt;11/07/2014 10:11:41 - root - WARNING - Uyarıyorum bak, demedi deme!
-11/07/2014 10:11:43 - root - DEBUG - Debug ediyorum, gözlerim kapalı.
-&lt;/pre&gt;
-&lt;p&gt;Gördüğünüz gibi, tek bir log mesajıyla, birden fazla yerde log tutabiliyoruz. İhtiyaca göre birden fazla, farklı seviyelerde dosya log tutucu ekleyebilirsiniz. Ayrıca log türünü mesajlara ekleyerek, ileride gerekebilecek bir ayrıştırma (parsing) işlemini de kolaylaştırdığımız söylenebilir.&lt;/p&gt;
-
-&lt;p&gt;Şimdi tüm bu log ayarları için kullandığımız kodları tek bir fonksiyona ekleyelim:&lt;/p&gt;
-&lt;pre class="highlight python"&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;setup_log_system&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
-    &lt;span class="n"&gt;logger&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;getLogger&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
-    &lt;span class="n"&gt;formatter&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;Formatter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%(asctime)&lt;/span&gt;&lt;span class="s"&gt;s - &lt;/span&gt;&lt;span class="si"&gt;%(name)&lt;/span&gt;&lt;span class="s"&gt;s - &lt;/span&gt;&lt;span class="si"&gt;%(levelname)&lt;/span&gt;&lt;span class="s"&gt;s - &lt;/span&gt;&lt;span class="si"&gt;%(message)&lt;/span&gt;&lt;span class="s"&gt;s&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;
-                                  &lt;span class="s"&gt;&amp;#39;&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;d/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;m/&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;Y &lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;H:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;M:&lt;/span&gt;&lt;span class="si"&gt;%&lt;/span&gt;&lt;span class="s"&gt;S&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-
-    &lt;span class="c"&gt;# Konsol log tutucu&lt;/span&gt;
-    &lt;span class="n"&gt;console_logger&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;StreamHandler&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
-    &lt;span class="n"&gt;console_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Level&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;WARNING&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-    &lt;span class="n"&gt;console_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Formatter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;formatter&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-    &lt;span class="n"&gt;logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;addHandler&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;console_logger&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-
-    &lt;span class="c"&gt;# Dosya log tutucu&lt;/span&gt;
-    &lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;FileHandler&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;dosyaismi.log&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-    &lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Level&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;logging&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;DEBUG&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-    &lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;set&lt;/span&gt;&lt;span class="n"&gt;Formatter&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;formatter&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-    &lt;span class="n"&gt;logger&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;addHandler&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;file&lt;/span&gt;&lt;span class="n"&gt;_logger&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;/pre&gt;
-&lt;p&gt;Bu şekilde kullandığınız uygulama içinde, &lt;strong&gt;setup_log_system&lt;/strong&gt; fonksiyonunu çağırarak, hızlıca log sisteminizi kurabilirsiniz.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Logging&lt;/strong&gt; modülü ile ilgili daha fazla örnek için:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://docs.python.org/2/howto/logging.html"&gt;https://docs.python.org/2/howto/logging.html&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>HTML5 Canvas Javascript Libraries</title>
-    <link rel="alternate" href="http://lab2023.com/html5-canvas-javascript-libraries.html"/>
-    <id>http://lab2023.com/html5-canvas-javascript-libraries.html</id>
-    <published>2014-07-06T03:00:00+03:00</published>
-    <updated>2014-07-15T09:01:14+03:00</updated>
-    <author>
-      <name>lab2023</name>
-    </author>
-    <content type="html">&lt;h2 id="which-libraries-should-we-use-in-javascript-for-game-development-?"&gt;Which libraries should we use in javascript for game development ?&lt;/h2&gt;
-
-&lt;p&gt;While I was searching about javascript libraries, I found some javascript libraries are being used for game development.
-This libraries ,&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;provide tools to create animations for game development.&lt;/li&gt;
-&lt;li&gt;helped to find graphical objects for games.&lt;/li&gt;
-&lt;li&gt;provide useful functions you can use in your game projects  &amp;hellip;etc&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;15 Useful javascript libraries for game development below :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://hyperandroid.github.io/CAAT/"&gt;Canvas Advanced Animation Toolkit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://kineticjs.com/"&gt;Kinetic.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://fabricjs.com/"&gt;Fabric.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://craftyjs.com/"&gt;Crafty.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.createjs.com/"&gt;Create.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.createjs.com/#!/EaselJS"&gt;Easel.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://ocanvas.org/"&gt;oCanvas&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://paperjs.org/"&gt;Paper.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://processingjs.org/"&gt;Processing.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://threejs.org/"&gt;Three.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://jawsjs.com/"&gt;Jaws.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://impactjs.com/"&gt;Impact.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.limejs.com/"&gt;Lime.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://melonjs.org/"&gt;Melon.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.jointjs.com/"&gt;Joint.js&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Let&amp;rsquo;s continue taking information about html5 canvas javascript libraries.&lt;/p&gt;
-
-&lt;p&gt;1- &lt;a href="http://hyperandroid.github.io/CAAT/"&gt;Canvas Advanced Animation Toolkit&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;CAAT is javascript animation toolkit.&lt;/li&gt;
-&lt;li&gt;CAAT is a director-based scene graph manager&lt;/li&gt;
-&lt;li&gt;CAAT provide useful and powerful animation environment&lt;/li&gt;
-&lt;li&gt;CAAT is a platform and works with CSS, WebGL and Canvas.&lt;/li&gt;
-&lt;li&gt;In addition, CAAT is not only create awesome scene and actors but also has facilities to managing audio.&lt;/li&gt;
-&lt;li&gt;Open source code in &lt;a href="https://github.com/hyperandroid/CAAT"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="CAAT" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/caat.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;2- &lt;a href="http://kineticjs.com/"&gt;Kinetic.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Kinetic.js is HTML5 Canvas javascript framework that enable powerful animations,
-rotations, transition, node nestings, layering, filtering, caching ..etc&lt;/li&gt;
-&lt;li&gt;Open source code in &lt;a href="https://github.com/ericdrowell/KineticJS"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="Kinetic" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/kineticjs.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;3- &lt;a href="http://fabricjs.com/"&gt;Fabric.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Fabric.js provides missing object model on canvas, as well as SVG parser.&lt;/li&gt;
-&lt;li&gt;Also, it provides animation, geometrical shape, graphics.&lt;/li&gt;
-&lt;li&gt;Open source code in &lt;a href="https://github.com/kangax/fabric.js/"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="Fabric" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/fabricjs.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;4- &lt;a href="http://craftyjs.com/"&gt;Crafty.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Crafty provides building of prototypical or full-featured 2D html5 games.&lt;/li&gt;
-&lt;li&gt;Crafty uses syntax similar to &lt;a href="http://jquery.com/"&gt;jquery&lt;/a&gt; by having a selector
-engine for select entities by their components.&lt;/li&gt;
-&lt;li&gt;Open source code in &lt;a href="https://github.com/craftyjs/crafty/"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="Crafty" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/craftyjs.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;5- &lt;a href="http://www.createjs.com/"&gt;Create.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Create.js is comprehensive web editing interface for content management systems.&lt;/li&gt;
-&lt;li&gt;It provide modern full browser-based html5 environment for managing content.&lt;/li&gt;
-&lt;li&gt;OPen source code in &lt;a href="https://github.com/CreateJS/"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="Create" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/create.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;6- &lt;a href="http://www.createjs.com/#!/EaselJS"&gt;Easel.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Easel.js provide easy work with canvas elements.&lt;/li&gt;
-&lt;li&gt;Also it provides shape based mouse interaction on elements.&lt;/li&gt;
-&lt;li&gt;This javascript library is useful for games thanks to awesome graphics and generative arts.&lt;/li&gt;
-&lt;li&gt;Open source code in &lt;a href="https://github.com/CreateJS/EaselJS/"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="Easel" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/easyjs.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;7- &lt;a href="http://ocanvas.org/"&gt;oCanvas&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;OCanvas provide to work with object instead of pixels for html5 canvas elements.&lt;/li&gt;
-&lt;li&gt;It provides a faster and easier way of work than writing pure javascript on the canvas.&lt;/li&gt;
-&lt;li&gt;Open source code in &lt;a href="https://github.com/koggdal/ocanvas"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="oCanvas" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/ocanvas.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;8- &lt;a href="http://paperjs.org/"&gt;Paper.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Paper.js is vector graphics scripting framework that runs on top of html5 canvas.&lt;/li&gt;
-&lt;li&gt;It offers to clean DOM and a lot of awesome functionality vector graphics, animations and images.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="Paper" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/paper.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;9- &lt;a href="http://processingjs.org/"&gt;Processing.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Processing.js provide to makes your data visualizations, digital arts, interactive animations,
-educational graphs, games ..etc&lt;/li&gt;
-&lt;li&gt;Open source code in &lt;a href="https://github.com/jeresig/processing-js"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="Processing" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/processing.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;10- &lt;a href="http://threejs.org/"&gt;Three.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Three.js is library that makes &lt;a href="http://get.webgl.org/"&gt;WebGL&lt;/a&gt;, 3D in the browser.&lt;/li&gt;
-&lt;li&gt;it provides powerful 3D animations.&lt;/li&gt;
-&lt;li&gt;Open source code in &lt;a href="https://github.com/mrdoob/three.js/"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="Three" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/three.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;11- &lt;a href="http://jawsjs.com/"&gt;Jaws.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Jaws.js is core functions.&lt;/li&gt;
-&lt;li&gt;Jaws is 2D game development framework.&lt;/li&gt;
-&lt;li&gt;It provide the easiest way to make assets(images, musics, json data) in web-games.&lt;/li&gt;
-&lt;li&gt;Open source code in &lt;a href="https://github.com/ippa/jaws"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="Jaws" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/jaws.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;12- &lt;a href="http://impactjs.com/"&gt;Impact.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Impact.js is a javascript game engine, it offer 2D animations, graphics, images for web and desktop games.&lt;/li&gt;
-&lt;li&gt;It supports on all html5 capable browsers and include &lt;code&gt;iPhone&lt;/code&gt;, &lt;code&gt;iPod Touch&lt;/code&gt; and &lt;code&gt;iPhone&lt;/code&gt; .&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="Impact" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/impact.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;13- &lt;a href="http://www.limejs.com/"&gt;Lime.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lime.js offers support  for all mobile platforms.&lt;/li&gt;
-&lt;li&gt;It provide  support videos and better audio.&lt;/li&gt;
-&lt;li&gt;Open source code in &lt;a href="https://github.com/digitalfruit/limejs"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="Lime" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/lime.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;14- &lt;a href="http://melonjs.org/"&gt;Melon.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Melon.js is a fresh-lightweight 2D sprite-based engine.&lt;/li&gt;
-&lt;li&gt;It supports multiple audio channel support.&lt;/li&gt;
-&lt;li&gt;It integrates tiled map format.&lt;/li&gt;
-&lt;li&gt;Open source code in &lt;a href="https://github.com/melonjs/melonJS"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="Melon" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/melon.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;15- &lt;a href="http://www.jointjs.com/"&gt;Joint.js&lt;/a&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Joint.js is a modern HTML 5 JavaScript library for visualize and interact with diagrams and graphs.&lt;/li&gt;
-&lt;li&gt;Joint js is known diagramming library in javascript libraries.&lt;/li&gt;
-&lt;li&gt;Open source code in &lt;a href="https://github.com/DavidDurman/joint"&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img alt="Joint" src="assets/images/articles/2014-07-06-html5-canvas-javascript-libraries/joint.jpg" /&gt;&lt;/p&gt;
-
-&lt;p&gt;That&amp;#39; s all.&lt;/p&gt;
 </content>
   </entry>
 </feed>
