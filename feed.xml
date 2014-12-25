@@ -140,7 +140,7 @@ After create your account, open your terminal,&lt;/p&gt;
     <link rel="alternate" href="http://lab2023.com/rails-4-2-kararli-surum-yayinlandi.html"/>
     <id>http://lab2023.com/rails-4-2-kararli-surum-yayinlandi.html</id>
     <published>2014-12-22T02:00:00+02:00</published>
-    <updated>2014-12-25T16:24:29+02:00</updated>
+    <updated>2014-12-25T17:21:47+02:00</updated>
     <author>
       <name>lab2023</name>
     </author>
@@ -169,7 +169,7 @@ After create your account, open your terminal,&lt;/p&gt;
 
 &lt;p&gt;Google Summer of Code ile gelen bu proje sayesinde, sayfa bir istisna/hata oluşturduğu zaman anında bir konsol açılıyor. Bu konsoldan o anda geçerli olan işlemleri ve değişkenleri denetleyebilmeniz sağlanıyor. Buna ek olarak, sadece hata oluştuğunda değil, geliştirme sürecinde iken konsolu sayfanın altında sürekli açık bırakabiliyorsunuz.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt="webconsole" src="https://cloud.githubusercontent.com/assets/705116/3825943/a010af92-1d5a-11e4-84c2-4ed0ba367f4e.gif" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="webconsole" src="assets/images/articles/2014-12-22-rails-4-2-kararli-surum-yayinlandi/webconsole.gif" /&gt;&lt;/p&gt;
 
 &lt;h3 id="foreign-key"&gt;Foreign Key&lt;/h3&gt;
 
